@@ -1,0 +1,159 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think099.sb
+# SHA256: bec4794c8b67f20704ede8eceafcf612b56b44bbe44abdeb82f994b1629a71b8
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000D578]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000D58D]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000D5A8]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000D5D5]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000D5E8]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000D5F3]
+[JPN]
+■ステータス１
+[KOR]
+■스테이터스 1
+[END]
+
+[0000D602]
+[JPN]
+■ステータス２
+[KOR]
+■스테이터스 2
+[END]
+
+[0000D611]
+[JPN]
+■支援回数
+[KOR]
+■지원횟수
+[END]
+
+[0000D61C]
+[JPN]
+$zoom13;ＨＰドレイン　冥界の血印
+[KOR]
+$zoom13;HP 드레인　명계의 혈인
+[END]
+
+[0000D63D]
+[JPN]
+$zoom13;ＥＰドレイン　冥界の霊印
+[KOR]
+$zoom13;EP 드레인　명계의 영인
+[END]
+
+[0000D65E]
+[JPN]
+$zoom13;煉獄の炎
+[KOR]
+$zoom13;연옥불꽃
+[END]
+
+[0000D66F]
+[JPN]
+$zoom13;不生の冷
+[KOR]
+$zoom13;불생냉기
+[END]
+
+[0000D680]
+[JPN]
+$zoom13;裁きの雷
+[KOR]
+$zoom13;심판번개
+[END]
+
+[0000D691]
+[JPN]
+$zoom13;癒しの雫
+[KOR]
+$zoom13;치유방울
+[END]
+
+[0000D6A2]
+[JPN]
+$zoom13;滅殺陣
+[KOR]
+$zoom13;멸살진
+[END]
+
+[0000D6B1]
+[JPN]
+$zoom13;ブーストワン
+[KOR]
+$zoom13;부스트 원
+[END]
+
+[0000D6C6]
+[JPN]
+■ブースト成功
+[KOR]
+■부스트 성공
+[END]
+
+[0000D6D5]
+[JPN]
+■ブースト失敗
+[KOR]
+■부스트 실패
+[END]
+
+[0000D6E4]
+[JPN]
+$zoom13;虎乱刀
+[KOR]
+$zoom13;호란도
+[END]
+
+[0000D6F3]
+[JPN]
+$zoom13;蛇波斬
+[KOR]
+$zoom13;사파참
+[END]
+
+[0000D702]
+[JPN]
+$zoom13;剣の風
+[KOR]
+$zoom13;검바람
+[END]
+
+[0000D711]
+[JPN]
+$zoom13;剣の舞
+[KOR]
+$zoom13;검의춤
+[END]

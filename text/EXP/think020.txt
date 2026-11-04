@@ -1,0 +1,138 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think020.sb
+# SHA256: 29e76f53719e2b9d35dfac937a68c7935e169883a24ab560dab272d6009f68d8
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000D364]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000D379]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000D394]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000D3C1]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000D3D4]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000D3DF]
+[JPN]
+$col7AF9FB;$zoom15;　お前の美しさが憎い…
+[KOR]
+$col7AF9FB;$zoom15;　네 아름다움이 밉다…
+[END]
+
+[0000D409]
+[JPN]
+$col7AF9FB;$zoom15;　お前の強さが憎い…
+[KOR]
+$col7AF9FB;$zoom15;　네 강함이 밉다…
+[END]
+
+[0000D431]
+[JPN]
+$col7AF9FB;$zoom15;　お前の可愛さが憎い…
+[KOR]
+$col7AF9FB;$zoom15;　네 귀여움이 밉다…
+[END]
+
+[0000D45B]
+[JPN]
+$zoom13;避けるほどの視線
+[KOR]
+$zoom13;피할 만큼의 시선
+[END]
+
+[0000D474]
+[JPN]
+$zoom13;セイラムの涙（Ｌウィーク）
+[KOR]
+$zoom13;세일럼의 눈물(L 위크)
+[END]
+
+[0000D497]
+[JPN]
+$zoom13;セイラムの涙（Ｌスロウ）
+[KOR]
+$zoom13;세일럼의 눈물(L 슬로)
+[END]
+
+[0000D4B8]
+[JPN]
+$zoom14,14;　オーバーロード（筋力低下）
+[KOR]
+$zoom14,14;　오버로드(근력 저하)
+[END]
+
+[0000D4E0]
+[JPN]
+$zoom13;執行
+[KOR]
+$zoom13;집행
+[END]
+
+[0000D4ED]
+[JPN]
+$zoom13;ジャック・ケッチは殺し屋だ
+[KOR]
+$zoom13;잭 케치는 살인자다
+[END]
+
+[0000D510]
+[JPN]
+$zoom13;筋肉増強剤
+[KOR]
+$zoom13;근육증강제
+[END]
+
+[0000D523]
+[JPN]
+$zoom13;第一角笛
+[KOR]
+$zoom13;제1 나팔
+[END]
+
+[0000D534]
+[JPN]
+$col7AF9FB;$zoom15;　全味方の攻撃能力をアップ！
+[KOR]
+$col7AF9FB;$zoom15;　모든 아군의 공격력 상승!
+[END]
+
+[0000D564]
+[JPN]
+$zoom13;第二角笛
+[KOR]
+$zoom13;제2 나팔
+[END]
+
+[0000D575]
+[JPN]
+$zoom13;第三角笛（Ｌポイズン）
+[KOR]
+$zoom13;제3 나팔(L 포이즌)
+[END]

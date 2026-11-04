@@ -1,0 +1,418 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think031.sb
+# SHA256: 6ef86abf37b5dcf560f3c825010b786d1ff226b100504cf408a0b1ce2d896ce3
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000EB98]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000EBAD]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000EBC8]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000EBF5]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000EC08]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000EC13]
+[JPN]
+■通常攻撃力に戻す
+[KOR]
+■기본 공격력 복원
+[END]
+
+[0000EC3B]
+[JPN]
+■ヘルプ
+[KOR]
+■도움말
+[END]
+
+[0000EC59]
+[JPN]
+$zoom14;$colc0c0c0;　　　Ｊｒ．達の脳にサクラの意識が流れた\n$col7AF9FB;ＢＣゾーンを攻撃した後にブーストで繋いで。。。$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　　Jr. 일행의 뇌로 사쿠라의 의식이 흘렀다\n$col7AF9FB;BC 존을 공격한 뒤 부스트로 이어서。。。$colc0c0c0;
+[END]
+
+[0000ECDB]
+[JPN]
+$zoom14;$colc0c0c0;　　サクラの意識が途絶えた$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　사쿠라의 의식이 끊겼다$colc0c0c0;
+[END]
+
+[0000ED14]
+[JPN]
+$zoom14;$colc0c0c0;　　Ｊｒ．達の脳にサクラの意識が流れた\n$col7AF9FB;ＢＣゾーンを攻撃した後にブーストで繋いで\nＣＢをヒットさせればブレイクが発生するわ$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　Jr. 일행의 뇌에 사쿠라의 의식이 흘러들었다\n$col7AF9FB;BC 존을 공격한 뒤 부스트로 이어서\nCB를 명중시키면 브레이크가 발생해$colc0c0c0;
+[END]
+
+[0000EDB8]
+[JPN]
+■AttackPhase2
+[KOR]
+■AttackPhase2
+[END]
+
+[0000EDC7]
+[JPN]
+■AttackPhase1
+[KOR]
+■AttackPhase1
+[END]
+
+[0000EDD6]
+[JPN]
+■ガードフラグA
+[KOR]
+■가드 플래그 A
+[END]
+
+[0000EDE6]
+[JPN]
+■攻撃者
+[KOR]
+■공격자
+[END]
+
+[0000EDEF]
+[JPN]
+■耐性１
+[KOR]
+■내성 1
+[END]
+
+[0000EDF8]
+[JPN]
+■弱点２
+[KOR]
+■약점 2
+[END]
+
+[0000EE01]
+[JPN]
+■キャラが-1なのでＤＭＧ思考抜けます
+[KOR]
+■캐릭터가 -1이므로 DMG 사고 종료
+[END]
+
+[0000EE26]
+[JPN]
+■エンチャント火判定
+[KOR]
+■인챈트 불꽃 판정
+[END]
+
+[0000EE3B]
+[JPN]
+■エンチャント火ガードブレイク
+[KOR]
+■인챈트 불꽃 가드 브레이크
+[END]
+
+[0000EE5A]
+[JPN]
+■ガードカウント
+[KOR]
+■가드 카운트
+[END]
+
+[0000EE6B]
+[JPN]
+■ブレイクフラグＯＮ
+[KOR]
+■브레이크 플래그 ON
+[END]
+
+[0000EE80]
+[JPN]
+■火突斬
+[KOR]
+■화돌참
+[END]
+
+[0000EE89]
+[JPN]
+■DamagePhase1
+[KOR]
+■DamagePhase1
+[END]
+
+[0000EE98]
+[JPN]
+■DamagePhase2
+[KOR]
+■DamagePhase2
+[END]
+
+[0000EEA7]
+[JPN]
+■アクションカウント
+[KOR]
+■액션 카운트
+[END]
+
+[0000EEBC]
+[JPN]
+■リジェネレーション
+[KOR]
+■리제너레이션
+[END]
+
+[0000EED1]
+[JPN]
+■リジェネレーション2
+[KOR]
+■리제너레이션 2
+[END]
+
+[0000EEE7]
+[JPN]
+$zoom14;$col7AF9FB;アルベドの再生能力が低下した$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;알베도의 재생력이 저하됐다$colc0c0c0;
+[END]
+
+[0000EF22]
+[JPN]
+■リジェネレーション3
+[KOR]
+■리제너레이션 3
+[END]
+
+[0000EF38]
+[JPN]
+■再生終了
+[KOR]
+■재생종료
+[END]
+
+[0000EF43]
+[JPN]
+$zoom14;$col7AF9FB;アルベドの再生能力が限界に達した$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;알베도의 재생력이 한계에 달했다$colc0c0c0;
+[END]
+
+[0000EF82]
+[JPN]
+■ランダム
+[KOR]
+■랜덤
+[END]
+
+[0000EFA2]
+[JPN]
+$zoom14;$col7AF9FB;ステータスウィンドウが消された！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;스테이터스 창이 지워졌다!$colc0c0c0;
+[END]
+
+[0000EFE1]
+[JPN]
+■ランダムＴＧＴ
+[KOR]
+■랜덤 TGT
+[END]
+
+[0000F01C]
+[JPN]
+$zoom14;$col7AF9FB;アルベドの両腕がしびれた！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;알베도의 두 팔이 저렸다!$colc0c0c0;
+[END]
+
+[0000F07F]
+[JPN]
+$zoom14;$col7AF9FB;アルベドの両腕を破壊した！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;알베도의 양팔을 파괴했다!$colc0c0c0;
+[END]
+
+[0000F0B8]
+[JPN]
+■回避あり　ガードなし　前ブレイクあり
+[KOR]
+■회피있음　가드없음　전방브레이크있음
+[END]
+
+[0000F0DF]
+[JPN]
+■パリン実行■
+[KOR]
+■쨍 실행■
+[END]
+
+[0000F0EE]
+[JPN]
+■雷属性は１００％カウンター
+[KOR]
+■번개 속성은 100% 카운터
+[END]
+
+[0000F10B]
+[JPN]
+■冷属性は４０％カウンター
+[KOR]
+■냉기 속성은 40% 카운터
+[END]
+
+[0000F126]
+[JPN]
+■rnd
+[KOR]
+■rnd
+[END]
+
+[0000F12C]
+[JPN]
+■rate
+[KOR]
+■rate
+[END]
+
+[0000F133]
+[JPN]
+■弱点ヒント用カウンターブースト
+[KOR]
+■약점 힌트용 카운터 부스트
+[END]
+
+[0000F154]
+[JPN]
+$zoom13;欲望の解放
+[KOR]
+$zoom13;욕망해방
+[END]
+
+[0000F167]
+[JPN]
+$zoom13;キャリオン　オブ　ソウルⅠ（ＬエーテルＤＤ）
+[KOR]
+$zoom13;캐리언 오브 소울 Ⅰ(L 에테르 DD)
+[END]
+
+[0000F19C]
+[JPN]
+$zoom13;キャリオン　オブ　ソウルⅡ　−ＨＰ吸収−
+[KOR]
+$zoom13;캐리언 오브 소울 Ⅱ　-HP 흡수-
+[END]
+
+[0000F1CD]
+[JPN]
+■ブーストポイント
+[KOR]
+■부스트 포인트
+[END]
+
+[0000F1E0]
+[JPN]
+$zoom13;リジェネレーション
+[KOR]
+$zoom13;리제너레이션
+[END]
+
+[0000F1FB]
+[JPN]
+■回避なし
+[KOR]
+■회피없음
+[END]
+
+[0000F206]
+[JPN]
+$zoom13;思念の衝撃波
+[KOR]
+$zoom13;사념충격파
+[END]
+
+[0000F21B]
+[JPN]
+■攻撃１使用回数
+[KOR]
+■공격1 사용횟수
+[END]
+
+[0000F22C]
+[JPN]
+■攻撃力
+[KOR]
+■공격력
+[END]
+
+[0000F235]
+[JPN]
+$zoom14;$colc0c0c0;　　　貫いた右手には\n$col7AF9FB;　紅い血$colc0c0c0;が染み付いていた
+[KOR]
+$zoom14;$colc0c0c0;　　　꿰뚫은 오른손에는\n$col7AF9FB;　붉은 피$colc0c0c0;가 배었다
+[END]
+
+[0000F28D]
+[JPN]
+$zoom14;$colc0c0c0;　　　貫いた右手には\n$col7AF9FB;　紅い血液$colc0c0c0;が染み付いていた
+[KOR]
+$zoom14;$colc0c0c0;　　　꿰뚫은 오른손에는\n$col7AF9FB;　붉은 혈액$colc0c0c0;이 배었다
+[END]
+
+[0000F2E7]
+[JPN]
+$zoom14;$colc0c0c0;　　　　貫いた右手には\n$col7AF9FB;　どす黒い血$colc0c0c0;が染み付いていた
+[KOR]
+$zoom14;$colc0c0c0;　　　　꿰뚫은 오른손에는\n$col7AF9FB;　검붉은 피$colc0c0c0;가 배어 있었다
+[END]
+
+[0000F345]
+[JPN]
+$zoom13;キャリオン　オブ　ソウルⅢ　−ＥＰ吸収−
+[KOR]
+$zoom13;캐리언 오브 소울 Ⅲ　-EP 흡수-
+[END]
+
+[0000F381]
+[JPN]
+$zoom13;エーテルスピア
+[KOR]
+$zoom13;에테르 스피어
+[END]
+
+[0000F398]
+[JPN]
+$zoom13;サンダーブラスト
+[KOR]
+$zoom13;선더 블래스트
+[END]
+
+[0000F3B1]
+[JPN]
+$zoom13;アイスブラスト
+[KOR]
+$zoom13;아이스블래스트
+[END]

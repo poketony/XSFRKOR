@@ -1,0 +1,222 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think006.sb
+# SHA256: 936e29086cddf0ce3b3ef748b44b007d0f22e1021935fc9d57d135c183916107
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000D4C4]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000D4D9]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000D4F4]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000D521]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000D534]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000D547]
+[JPN]
+$zoom13;５．５６ｍｍＵ−ＴＩＣ弾
+[KOR]
+$zoom13;5.56mm U-TIC 탄
+[END]
+
+[0000D568]
+[JPN]
+$zoom13;ハイアムズＭ８７Ｒ
+[KOR]
+$zoom13;하이암즈 M87R
+[END]
+
+[0000D583]
+[JPN]
+$zoom13;ＥＡＰ弾
+[KOR]
+$zoom13;EAP 탄
+[END]
+
+[0000D594]
+[JPN]
+$zoom14;$colc0c0c0;対象者の活力を読んだ
+[KOR]
+$zoom14;$colc0c0c0;대상의 활력을 읽었다
+[END]
+
+[0000D5BC]
+[JPN]
+$zoom14;$colc0c0c0;対象者の精神力を読んだ
+[KOR]
+$zoom14;$colc0c0c0;대상의 정신력을 읽었다
+[END]
+
+[0000D5E6]
+[JPN]
+■■リフレッシュ１
+[KOR]
+■■리프레시 1
+[END]
+
+[0000D5F9]
+[JPN]
+■■リフレッシュ2
+[KOR]
+■■리프레시 2
+[END]
+
+[0000D60B]
+[JPN]
+■■ユニットナンバー
+[KOR]
+■■유닛 번호
+[END]
+
+[0000D620]
+[JPN]
+$zoom14;$colc0c0c0;テレパシーの効力が弱まった
+[KOR]
+$zoom14;$colc0c0c0;텔레파시의 효력이 약해졌다
+[END]
+
+[0000D64E]
+[JPN]
+■■ATK_Phase2
+[KOR]
+■■ATK_Phase2
+[END]
+
+[0000D65D]
+[JPN]
+■■ATK_Phase3
+[KOR]
+■■ATK_Phase3
+[END]
+
+[0000D66C]
+[JPN]
+■■ATK_Phase4
+[KOR]
+■■ATK_Phase4
+[END]
+
+[0000D67B]
+[JPN]
+■■ATK_Phase5
+[KOR]
+■■ATK_Phase5
+[END]
+
+[0000D68A]
+[JPN]
+$zoom13;グリプスクロウ
+[KOR]
+$zoom13;그립스 클로
+[END]
+
+[0000D6A1]
+[JPN]
+$zoom13;ファイヤーブレス
+[KOR]
+$zoom13;파이어 브레스
+[END]
+
+[0000D6BA]
+[JPN]
+$zoom13;邪視（Ｈストップ）
+[KOR]
+$zoom13;사시(H 스톱)
+[END]
+
+[0000D6D5]
+[JPN]
+$zoom13;邪眼（Ｌスタン）
+[KOR]
+$zoom13;사안(L 스턴)
+[END]
+
+[0000D6EE]
+[JPN]
+$zoom13;リフレッシュＬ
+[KOR]
+$zoom13;리프레시 L
+[END]
+
+[0000D705]
+[JPN]
+$zoom13;リフレッシュＨ
+[KOR]
+$zoom13;리프레시 H
+[END]
+
+[0000D71C]
+[JPN]
+$zoom13;ＨＰドレイン
+[KOR]
+$zoom13;HP 드레인
+[END]
+
+[0000D731]
+[JPN]
+$zoom13;ＥＰドレイン
+[KOR]
+$zoom13;EP 드레인
+[END]
+
+[0000D746]
+[JPN]
+$zoom13;フレアブラスト
+[KOR]
+$zoom13;플레어블래스트
+[END]
+
+[0000D75D]
+[JPN]
+■■ステータス異常Ｈ
+[KOR]
+■■스테이터스 이상H
+[END]
+
+[0000D772]
+[JPN]
+■■ステータス異常Ｌ
+[KOR]
+■■스테이터스 이상L
+[END]
+
+[0000D787]
+[JPN]
+■■異常者なし
+[KOR]
+■■이상자없음
+[END]
+
+[0000D796]
+[JPN]
+■■生存者
+[KOR]
+■■생존자
+[END]

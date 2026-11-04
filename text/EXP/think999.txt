@@ -1,0 +1,12 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think999.sb
+# SHA256: 02cf2dd55da21181c6f5bb2ddc879baf795ecf751f07d649bdc4cec2664ec85c
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[000004F7]
+[JPN]
+$zoom14;$colc0c0c0;　　　　第二ウィルスが発動\n$col7AF9FB;　　マネスのステータスが低下した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　　　제2 바이러스 발동\n$col7AF9FB;　　마네스 스테이터스가 저하됐다$colc0c0c0;
+[END]

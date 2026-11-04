@@ -1,0 +1,719 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think024.sb
+# SHA256: bce3437decdfc502c5782667007e4be770dd2de5c704bb8f965811d0ce989cda
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000F1B8]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000F1CD]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000F1E8]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000F215]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000F228]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000F233]
+[JPN]
+$zoom14;レベル４の脳がまだ覚醒していない！
+[KOR]
+$zoom14;레벨 4의 뇌는 아직 각성 전이다!
+[END]
+
+[0000F25E]
+[JPN]
+■連携チェック
+[KOR]
+■연계 확인
+[END]
+
+[0000F26D]
+[JPN]
+$zoom13;アムド・バグ・ナウ
+[KOR]
+$zoom13;암드 바그 나우
+[END]
+
+[0000F288]
+[JPN]
+■連携攻撃
+[KOR]
+■연계공격
+[END]
+
+[0000F293]
+[JPN]
+■修復
+[KOR]
+■복구
+[END]
+
+[0000F29A]
+[JPN]
+■チェック
+[KOR]
+■확인
+[END]
+
+[0000F2A5]
+[JPN]
+■HP50%↑カウンタ攻撃
+[KOR]
+■HP50%↑ 카운터 공격
+[END]
+
+[0000F2BB]
+[JPN]
+■HP50%↓カウンタ攻撃
+[KOR]
+■HP50%↓ 카운터 공격
+[END]
+
+[0000F2D1]
+[JPN]
+■次の発生確率
+[KOR]
+■다음 발동률
+[END]
+
+[0000F2E0]
+[JPN]
+■ランダム
+[KOR]
+■랜덤
+[END]
+
+[0000F2EB]
+[JPN]
+■プログラム終了1
+[KOR]
+■프로그램 종료 1
+[END]
+
+[0000F2FD]
+[JPN]
+■プログラム終了2
+[KOR]
+■프로그램 종료 2
+[END]
+
+[0000F30F]
+[JPN]
+■BOS005ThinkLevel1
+[KOR]
+■BOS005ThinkLevel1
+[END]
+
+[0000F323]
+[JPN]
+■BOS005ThinkLevel2
+[KOR]
+■BOS005ThinkLevel2
+[END]
+
+[0000F337]
+[JPN]
+■ランダム数
+[KOR]
+■난수
+[END]
+
+[0000F344]
+[JPN]
+■BOS005ThinkLevel3
+[KOR]
+■BOS005ThinkLevel3
+[END]
+
+[0000F358]
+[JPN]
+■ck
+[KOR]
+■ck
+[END]
+
+[0000F35D]
+[JPN]
+■召喚
+[KOR]
+■소환
+[END]
+
+[0000F364]
+[JPN]
+■ユニットナンバー
+[KOR]
+■유닛 번호
+[END]
+
+[0000F377]
+[JPN]
+■今俺を殴った香具師1
+[KOR]
+■방금 날 때린 녀석1
+[END]
+
+[0000F38D]
+[JPN]
+■今俺を殴った香具師2
+[KOR]
+■방금 날 때린 녀석2
+[END]
+
+[0000F3A3]
+[JPN]
+■リベンジターゲット記憶
+[KOR]
+■리벤지 타깃 기억
+[END]
+
+[0000F3BC]
+[JPN]
+■リベンジターゲット終了
+[KOR]
+■리벤지 타깃 종료
+[END]
+
+[0000F3D5]
+[JPN]
+■リベンジターゲット終了2
+[KOR]
+■리벤지 타깃 종료 2
+[END]
+
+[0000F3EF]
+[JPN]
+■■エンチャント気判定
+[KOR]
+■■인챈트 기 판정
+[END]
+
+[0000F406]
+[JPN]
+■雷
+[KOR]
+■뇌
+[END]
+
+[0000F40B]
+[JPN]
+■カウンターブースト
+[KOR]
+■카운터 부스트
+[END]
+
+[0000F420]
+[JPN]
+■エンチャント雷
+[KOR]
+■인챈트 번개
+[END]
+
+[0000F431]
+[JPN]
+■ATR_THUN
+[KOR]
+■ATR_THUN
+[END]
+
+[0000F43C]
+[JPN]
+■ランダムターゲットゲット
+[KOR]
+■랜덤 타깃 획득
+[END]
+
+[0000F457]
+[JPN]
+■いのき
+[KOR]
+■이노키
+[END]
+
+[0000F460]
+[JPN]
+■ボンバイエ
+[KOR]
+■봄바예
+[END]
+
+[0000F46D]
+[JPN]
+■攻撃３
+[KOR]
+■공격 3
+[END]
+
+[0000F476]
+[JPN]
+■リベンジターゲットゲット
+[KOR]
+■리벤지 타깃 획득
+[END]
+
+[0000F491]
+[JPN]
+■むとう
+[KOR]
+■무토
+[END]
+
+[0000F49A]
+[JPN]
+■むとうくん
+[KOR]
+■무토 군
+[END]
+
+[0000F4A7]
+[JPN]
+■シャイニングインパクト
+[KOR]
+■샤이닝 임팩트
+[END]
+
+[0000F4C0]
+[JPN]
+■攻撃１
+[KOR]
+■공격 1
+[END]
+
+[0000F4C9]
+[JPN]
+■攻撃２
+[KOR]
+■공격 2
+[END]
+
+[0000F4D2]
+[JPN]
+■MSG_ON
+[KOR]
+■MSG_ON
+[END]
+
+[0000F4DB]
+[JPN]
+$zoom14;$colc0c0c0;　　突き刺した指先から\n$col7AF9FB;　　　体液を吸収した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　꿰찌른 손끝에서\n$col7AF9FB;　　　체액을 흡수했다$colc0c0c0;
+[END]
+
+[0000F531]
+[JPN]
+■ランダム攻撃
+[KOR]
+■랜덤 공격
+[END]
+
+[0000F540]
+[JPN]
+■ブーストレイト
+[KOR]
+■부스트 비율
+[END]
+
+[0000F551]
+[JPN]
+■ブースト
+[KOR]
+■부스트
+[END]
+
+[0000F55C]
+[JPN]
+■mem1
+[KOR]
+■mem1
+[END]
+
+[0000F563]
+[JPN]
+■solct
+[KOR]
+■solct
+[END]
+
+[0000F56B]
+[JPN]
+$zoom13;ミトロカエシ
+[KOR]
+$zoom13;미토로카에시
+[END]
+
+[0000F580]
+[JPN]
+$zoom14;$colc0c0c0;レベル４の超音波が響き渡った！
+[KOR]
+$zoom14;$colc0c0c0;레벨4 초음파가 울려 퍼졌다!
+[END]
+
+[0000F5B2]
+[JPN]
+■rndsum
+[KOR]
+■rndsum
+[END]
+
+[0000F5BB]
+[JPN]
+■カウント数
+[KOR]
+■카운트 수
+[END]
+
+[0000F5C8]
+[JPN]
+$zoom14;$colc0c0c0;　　　システム修復率４０％\n$col7AF9FB;　体内の細胞プログラムが結合した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　　시스템 복구율 40%\n$col7AF9FB;　체내의 세포 프로그램이 결합했다$colc0c0c0;
+[END]
+
+[0000F62E]
+[JPN]
+■４０％リベンジターゲット記憶開始
+[KOR]
+■40% 리벤지 타깃 기억 시작
+[END]
+
+[0000F651]
+[JPN]
+$zoom14;$colc0c0c0;　　　システム修復率７０％\n$col7AF9FB;　体内の神経プログラムが結合した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　　시스템 복구율 70%\n$col7AF9FB;　체내의 신경 프로그램이 결합했다$colc0c0c0;
+[END]
+
+[0000F6B7]
+[JPN]
+■前やられ大
+[KOR]
+■전방큰피격
+[END]
+
+[0000F6C4]
+[JPN]
+■後ろやられ大
+[KOR]
+■후방 큰 피격
+[END]
+
+[0000F6D3]
+[JPN]
+■７０％リベンジターゲット記憶開始
+[KOR]
+■70% 리벤지 타깃 기억 시작
+[END]
+
+[0000F6F6]
+[JPN]
+$zoom14;$colc0c0c0;　　　システム修復率１００％\n$col7AF9FB;　　　完全なる力を取り戻した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　　시스템 복구율 100%\n$col7AF9FB;　　　완전한 힘을 되찾았다$colc0c0c0;
+[END]
+
+[0000F75A]
+[JPN]
+■完治
+[KOR]
+■완치
+[END]
+
+[0000F761]
+[JPN]
+■１００％リベンジターゲット記憶開始
+[KOR]
+■100% 리벤지 타깃 기억 시작
+[END]
+
+[0000F786]
+[JPN]
+$zoom14;$colc0c0c0;　アンリミテッドプログラム始動\n$col7AF9FB;　すべての能力が限界を越えた！$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　언리미티드 프로그램 시동\n$col7AF9FB;　모든 능력이 한계를 넘어섰다!$colc0c0c0;
+[END]
+
+[0000F7EE]
+[JPN]
+■限定解除
+[KOR]
+■한정해제
+[END]
+
+[0000F7F9]
+[JPN]
+■記憶スレッド終了
+[KOR]
+■기억 스레드 종료
+[END]
+
+[0000F80C]
+[JPN]
+■修復発生率
+[KOR]
+■복구발생률
+[END]
+
+[0000F819]
+[JPN]
+■攻撃者uno
+[KOR]
+■공격자uno
+[END]
+
+[0000F825]
+[JPN]
+■攻撃者CHAOS
+[KOR]
+■공격자CHAOS
+[END]
+
+[0000F833]
+[JPN]
+■攻撃者KOSMOS
+[KOR]
+■공격자KOSMOS
+[END]
+
+[0000F842]
+[JPN]
+■攻撃者SHION
+[KOR]
+■공격자SHION
+[END]
+
+[0000F850]
+[JPN]
+■攻撃者JIN
+[KOR]
+■공격자JIN
+[END]
+
+[0000F85C]
+[JPN]
+■攻撃者ZIGGY
+[KOR]
+■공격자ZIGGY
+[END]
+
+[0000F86A]
+[JPN]
+■攻撃者MOMO
+[KOR]
+■공격자MOMO
+[END]
+
+[0000F877]
+[JPN]
+■攻撃者JR
+[KOR]
+■공격자JR
+[END]
+
+[0000F882]
+[JPN]
+■記憶攻撃者ＩＤ
+[KOR]
+■기억 공격자 ID
+[END]
+
+[0000F893]
+[JPN]
+■調べたキャラＩＤ
+[KOR]
+■조사한 캐릭터 ID
+[END]
+
+[0000F8A6]
+[JPN]
+■同じならナンバーを返す
+[KOR]
+■같으면 번호 반환
+[END]
+
+[0000F8BF]
+[JPN]
+■いない場合は９９を返す
+[KOR]
+■없으면 99 반환
+[END]
+
+[0000F8D8]
+[JPN]
+■共食いナンバー
+[KOR]
+■동족 포식 번호
+[END]
+
+[0000F8E9]
+[JPN]
+■4
+[KOR]
+■4
+[END]
+
+[0000F8ED]
+[JPN]
+■5
+[KOR]
+■5
+[END]
+
+[0000F8F1]
+[JPN]
+■共食いナンバー1tgt
+[KOR]
+■동족포식 번호1tgt
+[END]
+
+[0000F906]
+[JPN]
+■共食い4
+[KOR]
+■동족식4
+[END]
+
+[0000F910]
+[JPN]
+■共食い5
+[KOR]
+■동족식5
+[END]
+
+[0000F91A]
+[JPN]
+■共食いナンバー2tgt
+[KOR]
+■동족포식 번호2tgt
+[END]
+
+[0000F92F]
+[JPN]
+■共食いナンバー3tgt
+[KOR]
+■동족포식 번호3tgt
+[END]
+
+[0000F944]
+[JPN]
+$zoom13;ＥＳＷ　出力２０％（Ｌヘヴィー）
+[KOR]
+$zoom13;ESW 출력 20%(L 헤비)
+[END]
+
+[0000F96D]
+[JPN]
+$zoom13;ＥＳＷ　出力５０％（Ｌポイズン）
+[KOR]
+$zoom13;ESW 출력 50%(L 포이즌)
+[END]
+
+[0000F996]
+[JPN]
+$zoom13;ＥＳＷ　出力１００％
+[KOR]
+$zoom13;ESW 출력 100%
+[END]
+
+[0000F9B3]
+[JPN]
+$zoom13;共食い
+[KOR]
+$zoom13;동족식
+[END]
+
+[0000F9C2]
+[JPN]
+$zoom13;セントラルドグマ修復プログラム
+[KOR]
+$zoom13;센트럴 도그마 복구 프로그램
+[END]
+
+[0000F9E9]
+[JPN]
+$zoom14;$col7AF9FB;　レベル４の脳が覚醒しだした！
+[KOR]
+$zoom14;$col7AF9FB;　레벨4 뇌의 각성이 시작됐다!
+[END]
+
+[0000FA1B]
+[JPN]
+$zoom13;アンリミテッドプログラム
+[KOR]
+$zoom13;언리미티드 프로그램
+[END]
+
+[0000FA3C]
+[JPN]
+★★★★★ランダム数
+[KOR]
+★★★★★난수
+[END]
+
+[0000FA51]
+[JPN]
+$zoom13;リープアタック
+[KOR]
+$zoom13;리프 어택
+[END]
+
+[0000FA68]
+[JPN]
+★★★★★攻撃１
+[KOR]
+★★★★★공격 1
+[END]
+
+[0000FA79]
+[JPN]
+$zoom13;チャージ
+[KOR]
+$zoom13;차지
+[END]
+
+[0000FA8A]
+[JPN]
+★★★★★tagact
+[KOR]
+★★★★★tagact
+[END]
+
+[0000FA9B]
+[JPN]
+★★★★★revtrg
+[KOR]
+★★★★★revtrg
+[END]
+
+[0000FAAC]
+[JPN]
+★★★★★nbct
+[KOR]
+★★★★★nbct
+[END]

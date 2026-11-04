@@ -1,0 +1,173 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think029.sb
+# SHA256: 90dfe0de600c2a3982dab4786965b0dc47a957839a8e1c3cd1932e074dc6c5b3
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000E438]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000E44D]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000E468]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000E495]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000E4A8]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000E4B3]
+[JPN]
+$zoom13;リープアタック（Ｌポイズン）
+[KOR]
+$zoom13;리프 어택(L 포이즌)
+[END]
+
+[0000E4D8]
+[JPN]
+$zoom13;チャージ
+[KOR]
+$zoom13;차지
+[END]
+
+[0000E4E9]
+[JPN]
+$col7AF9FB;$zoom15;　お前の美しさが憎い…
+[KOR]
+$col7AF9FB;$zoom15;　네 아름다움이 밉다…
+[END]
+
+[0000E513]
+[JPN]
+$col7AF9FB;$zoom15;　お前の強さが憎い…
+[KOR]
+$col7AF9FB;$zoom15;　네 강함이 밉다…
+[END]
+
+[0000E53B]
+[JPN]
+$col7AF9FB;$zoom15;　お前の可愛さが憎い…
+[KOR]
+$col7AF9FB;$zoom15;　네 귀여움이 밉다…
+[END]
+
+[0000E565]
+[JPN]
+$zoom13;避けるほどの視線
+[KOR]
+$zoom13;피할 만큼의 시선
+[END]
+
+[0000E57E]
+[JPN]
+$zoom13;セイラムの涙（Ｌウィーク）
+[KOR]
+$zoom13;세일럼의 눈물(L 위크)
+[END]
+
+[0000E5A1]
+[JPN]
+$zoom13;セイラムの涙（Ｌスロウ）
+[KOR]
+$zoom13;세일럼의 눈물(L 슬로)
+[END]
+
+[0000E5C2]
+[JPN]
+$zoom14,14;　オーバーロード（筋力低下）
+[KOR]
+$zoom14,14;　오버로드(근력 저하)
+[END]
+
+[0000E5EA]
+[JPN]
+$zoom13;執行
+[KOR]
+$zoom13;집행
+[END]
+
+[0000E5F7]
+[JPN]
+$zoom13;ジャック・ケッチは殺し屋だ
+[KOR]
+$zoom13;잭 케치는 살인자다
+[END]
+
+[0000E61A]
+[JPN]
+$zoom13;筋肉増強剤
+[KOR]
+$zoom13;근육증강제
+[END]
+
+[0000E62D]
+[JPN]
+$zoom13;第一角笛
+[KOR]
+$zoom13;제1 나팔
+[END]
+
+[0000E63E]
+[JPN]
+$col7AF9FB;$zoom15;　全味方の攻撃能力をアップ！
+[KOR]
+$col7AF9FB;$zoom15;　모든 아군의 공격력 상승!
+[END]
+
+[0000E66E]
+[JPN]
+$zoom13;第二角笛
+[KOR]
+$zoom13;제2 나팔
+[END]
+
+[0000E67F]
+[JPN]
+$zoom13;第三角笛（Ｌポイズン）
+[KOR]
+$zoom13;제3 나팔(L 포이즌)
+[END]
+
+[0000E69E]
+[JPN]
+$zoom13;フルスロットル
+[KOR]
+$zoom13;풀 스로틀
+[END]
+
+[0000E6B5]
+[JPN]
+$zoom13;友情の証
+[KOR]
+$zoom13;우정증표
+[END]
+
+[0000E6C6]
+[JPN]
+$zoom13;ブーストプレゼント
+[KOR]
+$zoom13;부스트 선물
+[END]

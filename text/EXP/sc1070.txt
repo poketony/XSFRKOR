@@ -1,0 +1,75 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: cf/sc1070.sb
+# SHA256: 1322e0b6b5c98e3be992b4ca8c10ab0c9927a65e8cd92b37793ef67714876f63
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000191A]
+[JPN]
+ロケーター反応キャラ番号：0
+[KOR]
+로케이터 반응 캐릭터 번호:0
+[END]
+
+[0000193A]
+[JPN]
+ロケーター番号：800
+[KOR]
+로케이터 번호:800
+[END]
+
+[00001952]
+[JPN]
+ロケーター番号：802
+[KOR]
+로케이터 번호:802
+[END]
+
+[00001966]
+[JPN]
+その他のロケーター
+[KOR]
+기타 로케이터
+[END]
+
+[00001979]
+[JPN]
+ロケーター反応キャラ番号：11
+[KOR]
+로케이터 반응 캐릭터 번호:11
+[END]
+
+[000019D5]
+[JPN]
+  破壊番号：
+[KOR]
+  파괴 번호:
+[END]
+
+[000019E2]
+[JPN]
+100を破壊
+[KOR]
+100 파괴
+[END]
+
+[000019EC]
+[JPN]
+101を破壊
+[KOR]
+101 파괴
+[END]
+
+[000019F6]
+[JPN]
+その他を破壊
+[KOR]
+기타 파괴
+[END]
+
+[00001A2E]
+[JPN]
+その他 ?
+[KOR]
+기타 ?
+[END]

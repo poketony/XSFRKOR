@@ -1,0 +1,222 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think064.sb
+# SHA256: 217acc7f863a002fc1578c9d1a5cad104bcc64fe00fa20963b57f9d13bb0f159
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000E150]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000E165]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000E180]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000E1AD]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000E1C0]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000E1CB]
+[JPN]
+$zoom13;黒塚（Ｌポイズン）
+[KOR]
+$zoom13;구로즈카(L 포이즌)
+[END]
+
+[0000E1E6]
+[JPN]
+$zoom13;鉄輪　前ジテ
+[KOR]
+$zoom13;철륜 전 시테
+[END]
+
+[0000E1FB]
+[JPN]
+$zoom13;鉄輪　後ジテ
+[KOR]
+$zoom13;철륜 후 시테
+[END]
+
+[0000E210]
+[JPN]
+$zoom13;枕慈童
+[KOR]
+$zoom13;침자동
+[END]
+
+[0000E21F]
+[JPN]
+$col7AF9FB;$zoom15;　対属性ボルテージＭＡＸ！
+[KOR]
+$col7AF9FB;$zoom15;　대속성 볼티지 MAX!
+[END]
+
+[0000E24D]
+[JPN]
+$zoom13;葵上呪殺（Ｌスロウ）
+[KOR]
+$zoom13;규상 주살(L 슬로)
+[END]
+
+[0000E26A]
+[JPN]
+$zoom13;吉原炎上
+[KOR]
+$zoom13;길원염상
+[END]
+
+[0000E27B]
+[JPN]
+$zoom13;筋力退散（Ｌヘビー）
+[KOR]
+$zoom13;근력 퇴산(L 헤비)
+[END]
+
+[0000E298]
+[JPN]
+$zoom13;精神退散（ＬエーテルＰＤ）
+[KOR]
+$zoom13;정신 퇴산(L 에테르 PD)
+[END]
+
+[0000E2BB]
+[JPN]
+$zoom13;ハイアムズＰ８８Ｒ
+[KOR]
+$zoom13;하이암즈 P88R
+[END]
+
+[0000E2D6]
+[JPN]
+$zoom13;スタングレネード（Ｌブラック）
+[KOR]
+$zoom13;스턴 그레네이드(L 블랙)
+[END]
+
+[0000E2FD]
+[JPN]
+$zoom13;ダブルタップス
+[KOR]
+$zoom13;더블 탭스
+[END]
+
+[0000E314]
+[JPN]
+$zoom13;フルマガジンショット
+[KOR]
+$zoom13;풀 매거진 샷
+[END]
+
+[0000E331]
+[JPN]
+$zoom13;オペレーションＡ
+[KOR]
+$zoom13;오퍼레이션 A
+[END]
+
+[0000E34A]
+[JPN]
+$zoom13;撤退
+[KOR]
+$zoom13;철수
+[END]
+
+[0000E357]
+[JPN]
+$zoom13;掩護射撃
+[KOR]
+$zoom13;엄호사격
+[END]
+
+[0000E368]
+[JPN]
+$zoom13;クイックショット
+[KOR]
+$zoom13;퀵 샷
+[END]
+
+[0000E381]
+[JPN]
+$zoom13;レティクル調整
+[KOR]
+$zoom13;조준선 조정
+[END]
+
+[0000E398]
+[JPN]
+$zoom15;　銃の命中と威力を調整
+[KOR]
+$zoom15;　총 명중과 위력 조정
+[END]
+
+[0000E3B7]
+[JPN]
+$zoom13;狙撃（Ｈバインド）
+[KOR]
+$zoom13;저격(H 바인드)
+[END]
+
+[0000E3D2]
+[JPN]
+$zoom13;急所狙い　視界（Ｌブラック）
+[KOR]
+$zoom13;급소 조준　시야(L 블랙)
+[END]
+
+[0000E3F7]
+[JPN]
+$zoom13;急所狙い　止め
+[KOR]
+$zoom13;급소조준　끝장
+[END]
+
+[0000E40E]
+[JPN]
+$zoom13;ジャッカル
+[KOR]
+$zoom13;자칼
+[END]
+
+[0000E421]
+[JPN]
+$zoom15;$col7AF9FB;　レーザー出力上昇
+[KOR]
+$zoom15;$col7AF9FB;　레이저 출력 상승
+[END]
+
+[0000E447]
+[JPN]
+$zoom13;ペネトレート　レーザー
+[KOR]
+$zoom13;페네트레이트 레이저
+[END]
+
+[0000E466]
+[JPN]
+$zoom13;ヘッドハント
+[KOR]
+$zoom13;헤드헌트
+[END]

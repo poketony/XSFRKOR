@@ -1,0 +1,236 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think005.sb
+# SHA256: 2f8c9be6d80d7cea35dffd1b7ad42ffd290f5e73504fbeff148826ce5fe05fe2
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000CC68]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000CC7D]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000CC98]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000CCC5]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000CCD8]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000CCE3]
+[JPN]
+■裏真言カウント
+[KOR]
+■이면 진언 카운트
+[END]
+
+[0000CD0A]
+[JPN]
+■■キャラが-1なのでＤＭＧ思考抜けます
+[KOR]
+■■캐릭터가 -1이므로 DMG 사고 종료
+[END]
+
+[0000CD31]
+[JPN]
+■■エンチャント気判定
+[KOR]
+■■인챈트 기 판정
+[END]
+
+[0000CD48]
+[JPN]
+気
+[KOR]
+기
+[END]
+
+[0000CD4B]
+[JPN]
+$zoom14;$col7AF9FB;　不邪見が解けた！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　불사견이 해제됐다!$colc0c0c0;
+[END]
+
+[0000CD7C]
+[JPN]
+$zoom14;$col7AF9FB;　裏真言の効果が消えた！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　이면 진언의 효과가 사라졌다!$colc0c0c0;
+[END]
+
+[0000CDB3]
+[JPN]
+■裏真言消え
+[KOR]
+■이면 진언 소멸
+[END]
+
+[0000CDC0]
+[JPN]
+★★マーグリスの状態は
+[KOR]
+★★마굴리스의 상태는
+[END]
+
+[0000CDD7]
+[JPN]
+★★マーグリスカウンターブースト
+[KOR]
+★★마굴리스 카운터 부스트
+[END]
+
+[0000CDF8]
+[JPN]
+ぶーーーーーーーーーーーーーーーーーースト
+[KOR]
+부~~~~~~~~~~~~~~~~~~스트
+[END]
+
+[0000CE23]
+[JPN]
+★★打斬突はカウンターブースト発動
+[KOR]
+★★타격·참격·돌격이면 카운터 부스트 발동
+[END]
+
+[0000CE46]
+[JPN]
+★★マーグリスブースト
+[KOR]
+★★마굴리스 부스트
+[END]
+
+[0000CE5D]
+[JPN]
+★★ブーストＯＮ！！！
+[KOR]
+★★부스트 ON!!!
+[END]
+
+[0000CE74]
+[JPN]
+★★体験版用思考
+[KOR]
+★★체험판용 사고
+[END]
+
+[0000CE85]
+[JPN]
+★★ＥＰ２用思考
+[KOR]
+★★EP2용 사고
+[END]
+
+[0000CE96]
+[JPN]
+$zoom13;穿孔　一足の詰
+[KOR]
+$zoom13;천공　일족의 외통
+[END]
+
+[0000CEAD]
+[JPN]
+$zoom13;鳳山越　下弦
+[KOR]
+$zoom13;봉산월　하현
+[END]
+
+[0000CEC2]
+[JPN]
+$zoom13;裏穿孔　一足の詰
+[KOR]
+$zoom13;이면 천공　일족의 외통
+[END]
+
+[0000CEDB]
+[JPN]
+■アクション５ＨＰＡＧＥＴ
+[KOR]
+■액션 5 HP A GET
+[END]
+
+[0000CEF6]
+[JPN]
+■アクション５ＨＰＢＧＥＴ
+[KOR]
+■액션 5 HP B GET
+[END]
+
+[0000CF11]
+[JPN]
+★★攻撃ＨＩＴ
+[KOR]
+★★공격 HIT
+[END]
+
+[0000CF20]
+[JPN]
+ストック数
+[KOR]
+스톡 수
+[END]
+
+[0000CF2B]
+[JPN]
+$zoom13;裏鳳山越　下弦
+[KOR]
+$zoom13;이면 봉산월　하현
+[END]
+
+[0000CF42]
+[JPN]
+$zoom13;不邪見
+[KOR]
+$zoom13;불사견
+[END]
+
+[0000CF51]
+[JPN]
+$zoom14;$col7AF9FB;　　対ブレイクの構え\n　物理攻撃の耐性を得た$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　브레이크에 맞서는 태세\n　물리 공격 내성을 얻었다$colc0c0c0;
+[END]
+
+[0000CF9C]
+[JPN]
+$zoom13;威圧
+[KOR]
+$zoom13;위압
+[END]
+
+[0000CFA9]
+[JPN]
+$zoom13;真言　一唱　　−命中率アップ−
+[KOR]
+$zoom13;진언　일창　　-명중률 상승-
+[END]
+
+[0000CFD0]
+[JPN]
+$zoom13;裏真言　三唱　　−剣に霊気が満ちた−
+[KOR]
+$zoom13;이면 진언　삼창　　-검에 영기가 충만해졌다-
+[END]

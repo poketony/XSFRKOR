@@ -1,0 +1,103 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think038.sb
+# SHA256: 770cf3a190e720a1c5ff933c95c2948b6f58c714a963b092ab3980c02ec022f5
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000C93C]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000C951]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000C96C]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000C999]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000C9AC]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000C9BF]
+[JPN]
+$col7AF9FB;$zoom15;　警告！\n　これ以上の破壊は生命の保証を致しません。
+[KOR]
+$col7AF9FB;$zoom15;　경고!\n　더 파괴하면 생명을 보장할 수 없습니다.
+[END]
+
+[0000CA07]
+[JPN]
+$col7AF9FB;$zoom15;　武装を解除し、投降して下さい。
+[KOR]
+$col7AF9FB;$zoom15;　무장을 해제하고 투항하십시오.
+[END]
+
+[0000CA3B]
+[JPN]
+$col7AF9FB;$zoom15;　この区域は関係者以外立ち入り禁止です。
+[KOR]
+$col7AF9FB;$zoom15;　이 구역은 관계자 외 출입 금지입니다.
+[END]
+
+[0000CA77]
+[JPN]
+$zoom13;増援
+[KOR]
+$zoom13;증원
+[END]
+
+[0000CA84]
+[JPN]
+$zoom13;威嚇射撃
+[KOR]
+$zoom13;위협사격
+[END]
+
+[0000CA95]
+[JPN]
+$zoom13;射撃
+[KOR]
+$zoom13;사격
+[END]
+
+[0000CAA2]
+[JPN]
+$zoom13;粘着ビーム（Ｌスロウ）
+[KOR]
+$zoom13;점착 빔(L 슬로)
+[END]
+
+[0000CAC1]
+[JPN]
+$zoom13;ヘビーアックス
+[KOR]
+$zoom13;헤비 액스
+[END]
+
+[0000CAD8]
+[JPN]
+$zoom13;３３式バルカン砲
+[KOR]
+$zoom13;33식 벌컨포
+[END]

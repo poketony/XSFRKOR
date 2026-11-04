@@ -1,0 +1,29 @@
+Mode: built-in image_gen
+Final image: graphics/ADV_TITLE_0023_ko_v2.png
+Output: 2048 x 768 RGBA PNG; original assets not overwritten.
+
+Pass 1: Palette and typography refinement
+Use case: text-localization
+Asset type: polished Korean localization of a Japanese visual novel title logo; transparent PNG game graphic.
+Input images: Image 1 (ADV_TITLE_0023.png) is the authoritative ORIGINAL STYLE / PALETTE / OUTLINE / MASCOT reference. Image 2 (a5e7f07a-10bf-4a6f-9714-e28e5044a6b3.jpg) is the KOREAN EDIT TARGET, its overall text arrangement and localization must remain recognizable.
+Primary request: carefully polish the Korean logo in Image 2. The main title must read exactly "제노코미" (four Hangul syllables: 제 / 노 / 코 / 미), and the small badge must read exactly "초판".
+Typography: bold playful angular retro Japanese game-title lettering translated into well-formed custom Hangul. Repair the first syllable "제": clean recognizable ㅈ with balanced diagonals, a balanced legible ㅔ, clear internal negative space, consistent substantial strokes, no malformed or fused strokes. Keep its confident larger scale but make it fit the word with even optical spacing. Refine the other syllables only as needed for consistent weight, outlines and legibility.
+CRITICAL COLOR CORRECTION: use ONE SHARED VERTICAL GRADIENT ACROSS THE ENTIRE MAIN WORD "제노코미", matching the original Japanese title in Image 1. Vivid vermilion / red-orange at the highest part, rich orange in the middle, golden yellow along the lowest part. Every title stroke at the same canvas height must have the same fill color, regardless of syllable. "코미" MUST NOT have yellow tops and orange bottoms. Do NOT restart or reverse the gradient on different letters. Avoid the dark burgundy of the second reference. Study the warm bright original palette in Image 1 and match it.
+Outlines: match Image 1's strong black keyline with crisp thin white outer contour, tidy consistent joins and corners, smoothly antialiased, no messy doubled contours or accidental white slits.
+Preserve: the overall lively wide logo silhouette, four-syllable title, the smaller yellow rounded "초판" badge below the right half, and the tilted blue-to-white one-eyed motif behind the upper-right edge. Preserve its single eye, shape and cool original blue palette. Badge uses the original's bright golden yellow with crisp black Hangul and balanced padding.
+Backdrop: genuinely transparent alpha outside the logo and in relevant cutouts; no white rectangle, no checkerboard drawn into pixels, no shadows, no added border.
+Composition: a single complete tightly composed logo, all edges and badge fully visible with a small transparent margin. Wide canvas matching the 8:3 aspect ratio of both inputs, ideally 1728 x 648 pixels.
+Style: faithful refinement, clean polished 2D printed game logo, flat outlined shapes with smooth color gradients; no bevels, no metallic effects, no texture, no extra symbols, no extra text, no watermark.
+Final image only.
+
+Pass 2: Targeted correction to the malformed ㅈ
+Use case: text-localization
+Edit the supplied Korean logo. The first syllable MUST read "제", and the full title MUST read "제노코미", badge "초판".
+CRITICAL SPECIFIC CORRECTION: the ㅈ consonant on the far left is WRONG: it has TWO stacked horizontal bars and therefore looks like ㅊ. Completely REDRAW ONLY THIS ㅈ CONSONANT using a correct, conventional heavy Korean gothic ㅈ skeleton.
+A correct ㅈ has EXACTLY ONE top horizontal stroke and TWO diagonal descending legs branching below it, with one open downward V-shaped space between the legs. There must be NO additional horizontal cap above the top bar, and NO additional middle crossbar. NOT ㅊ. NOT a double-decker shape. Think of the simple correct printed Korean character "ㅈ", then give it this logo's heavy weight, subtle tilt, black outline, white keyline and warm gradient.
+REMOVE the superfluous upper horizontal stroke visible in the reference. Rebalance the corrected single top bar and diagonal legs to fill the existing consonant area so that it aligns naturally with the ㅔ immediately to its right. Keep clear negative space between ㅈ and ㅔ.
+This must be a visible correction to the consonant geometry, not merely a polish or recolor. The malformed two-tier consonant from the reference must not be copied.
+Preserve the ㅔ, 노코미, all other lettering, title layout, shared global red-orange at top through orange to golden yellow at bottom, blue one-eyed motif, and yellow 초판 badge. Do not add new horizontal strokes.
+Clean opaque flat logo shapes with crisp outlines; genuinely transparent background outside the logo, no soft glow, no shadow, no texture or backdrop.
+One finished wide 8:3 transparent PNG logo.
+

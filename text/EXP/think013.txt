@@ -1,0 +1,82 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think013.sb
+# SHA256: 8f8ab77f824886326fb20b3713f69fbab59b204a7902506985eeefad93e018b1
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000CB04]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000CB19]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000CB34]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000CB61]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000CB74]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000CB7F]
+[JPN]
+$col7AF9FB;$zoom15;　ノーマルブースト補給＋１
+[KOR]
+$col7AF9FB;$zoom15;　노멀 부스트 보급＋1
+[END]
+
+[0000CBAD]
+[JPN]
+$zoom13;１２．７ｍｍ機関銃
+[KOR]
+$zoom13;12.7mm 기관총
+[END]
+
+[0000CBC8]
+[JPN]
+$col7AF9FB;$zoom15;　ＡＧＬ（素早さ）ダウン
+[KOR]
+$col7AF9FB;$zoom15;　AGL(민첩성) 하락
+[END]
+
+[0000CBF4]
+[JPN]
+$zoom13;０距離連射
+[KOR]
+$zoom13;0거리 연사
+[END]
+
+[0000CC07]
+[JPN]
+$zoom13;オート連射
+[KOR]
+$zoom13;자동 연사
+[END]
+
+[0000CC1A]
+[JPN]
+$zoom13;オートミサイル
+[KOR]
+$zoom13;자동 미사일
+[END]

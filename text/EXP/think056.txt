@@ -1,0 +1,425 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think056.sb
+# SHA256: 9d0eb53f23d8ed444db7df1c30c0fa3a34e09a028dd7f081991c6d199e2116c7
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00008874]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[00008889]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[000088A4]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[000088D1]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[000088E6]
+[JPN]
+$zoom13;自動追尾レーザー
+[KOR]
+$zoom13;자동 추적 레이저
+[END]
+
+[000088FF]
+[JPN]
+$zoom13;ブレイクアーマー
+[KOR]
+$zoom13;브레이크 아머
+[END]
+
+[00008918]
+[JPN]
+■actcount
+[KOR]
+■actcount
+[END]
+
+[00008933]
+[JPN]
+$zoom14;$col7AF9FB;防御シールド耐久力が５０％低下した$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;방어 실드 내구력이 50% 저하됐다$colc0c0c0;
+[END]
+
+[00008984]
+[JPN]
+$zoom14;$col7AF9FB;　　防御シールドが破られた！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　방어 실드가 뚫렸다!$colc0c0c0;
+[END]
+
+[000089BF]
+[JPN]
+■イベントタイマーは？
+[KOR]
+■이벤트 타이머는?
+[END]
+
+[000089E4]
+[JPN]
+$zoom13;カウンターメジャー
+[KOR]
+$zoom13;카운터메저
+[END]
+
+[000089FF]
+[JPN]
+$zoom14;$col7AF9FB;目視できない防御シールドが張られた$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;보이지 않는 방어 실드가 펼쳐졌다$colc0c0c0;
+[END]
+
+[00008A40]
+[JPN]
+■エーテル機関室修復開始
+[KOR]
+■에테르기관실 복구 시작
+[END]
+
+[00008A67]
+[JPN]
+$zoom14;$col7AF9FB;　　損傷箇所確認$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　손상부위확인$colc0c0c0;
+[END]
+
+[00008AA6]
+[JPN]
+$zoom14;$colc0c0c0;　エーテル機関室損傷\n$col7AF9FB;　エーテル使用不可$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　에테르 기관실 손상\n$col7AF9FB;　에테르 사용 불가$colc0c0c0;
+[END]
+
+[00008AF8]
+[JPN]
+■転送室修復開始
+[KOR]
+■전송실복구시작
+[END]
+
+[00008B19]
+[JPN]
+$zoom14;$colc0c0c0;　　　　転送室損傷\n$col7AF9FB;　オーティックの転送不可$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　　　전송실 손상\n$col7AF9FB;　오테크 전송 불가$colc0c0c0;
+[END]
+
+[00008B6F]
+[JPN]
+■艦底修復開始
+[KOR]
+■함저복구시작
+[END]
+
+[00008B8E]
+[JPN]
+$zoom14;$colc0c0c0;　　　　　艦底損傷\n$col7AF9FB;　大量の海水が浸水している$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　　　　함저 손상\n$col7AF9FB;　해수가 대량 유입 중이다$colc0c0c0;
+[END]
+
+[00008BE6]
+[JPN]
+■エーテル機関室損傷フェイズ
+[KOR]
+■에테르 기관실 손상 페이즈
+[END]
+
+[00008C03]
+[JPN]
+■転送室損傷フェイズ
+[KOR]
+■전송실 손상 페이즈
+[END]
+
+[00008C18]
+[JPN]
+■艦底損傷フェイズ
+[KOR]
+■함저 손상 페이즈
+[END]
+
+[00008C2B]
+[JPN]
+■ThinkLevel1
+[KOR]
+■ThinkLevel1
+[END]
+
+[00008C39]
+[JPN]
+■ThinkLevel2
+[KOR]
+■ThinkLevel2
+[END]
+
+[00008C47]
+[JPN]
+■やられ時のイベントタイマー
+[KOR]
+■피격 시 이벤트 타이머
+[END]
+
+[00008C64]
+[JPN]
+■shieldcount
+[KOR]
+■shieldcount
+[END]
+
+[00008C72]
+[JPN]
+■予備燃料ＨＰ6000
+[KOR]
+■예비 연료 HP6000
+[END]
+
+[00008C85]
+[JPN]
+■ck
+[KOR]
+■ck
+[END]
+
+[00008C8A]
+[JPN]
+■召喚
+[KOR]
+■소환
+[END]
+
+[00008CA1]
+[JPN]
+$zoom14;$col7AF9FB;　オーテック転送$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　오테크 전송$colc0c0c0;
+[END]
+
+[00008CD0]
+[JPN]
+$zoom14;$colc0c0c0;ヴァンダーカム艦長は歯軋りしている
+[KOR]
+$zoom14;$colc0c0c0;반더캄 함장은 이를 갈고 있다
+[END]
+
+[00008D06]
+[JPN]
+■何もできない
+[KOR]
+■행동 불가
+[END]
+
+[00008D25]
+[JPN]
+$zoom14;$col7AF9FB;　　　エーテル機関室修復完了\n　ナグルファルのＥＰが全回復した$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　　에테르 기관실 복구 완료\n　나글파르의 EP가 전부 회복됐다$colc0c0c0;
+[END]
+
+[00008D90]
+[JPN]
+$zoom14;$col7AF9FB;　　主砲発射準備$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　주포발사준비$colc0c0c0;
+[END]
+
+[00008DCD]
+[JPN]
+$zoom14;$col7AF9FB;　　次弾発射準備$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　차탄발사준비$colc0c0c0;
+[END]
+
+[00008E0C]
+[JPN]
+$zoom14;$col7AF9FB;　エネルギー充填率５０％$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　에너지 충전율 50%$colc0c0c0;
+[END]
+
+[00008E53]
+[JPN]
+$zoom14;$col7AF9FB;エーテルジェネレーターが限界点に達した$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;에테르 제너레이터가 한계점에 달했다$colc0c0c0;
+[END]
+
+[00008EB6]
+[JPN]
+$zoom14;$col7AF9FB;　エネルギー充填率１００％$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　에너지 충전율 100%$colc0c0c0;
+[END]
+
+[00008EFF]
+[JPN]
+$zoom14;$col7AF9FB;　　　　転送室修復完了\n　オーテックの転送が可能になった$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　　　전송실 복구 완료\n　오테크를 전송할 수 있게 됐다$colc0c0c0;
+[END]
+
+[00008F66]
+[JPN]
+$zoom14;$col7AF9FB;　　艦底修復完了$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　함저복구완료$colc0c0c0;
+[END]
+
+[00008F95]
+[JPN]
+$zoom14;$col7AF9FB;防御シールドが解除された！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;방어 실드가 해제됐다!$colc0c0c0;
+[END]
+
+[00008FCE]
+[JPN]
+■command
+[KOR]
+■command
+[END]
+
+[00008FD8]
+[JPN]
+■自分巻き込みビーム
+[KOR]
+■자신도 휘말리는 빔
+[END]
+
+[00008FED]
+[JPN]
+$zoom14;$col7AF9FB;　　補助燃料始動$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　보조연료시동$colc0c0c0;
+[END]
+
+[0000902A]
+[JPN]
+$zoom14;$col7AF9FB;ナグルファル乗組員が脱走しはじめた！\n　　主砲エネルギー充填率５０％\n$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;나글파르 승무원들이 탈주하기 시작했다!\n　　주포 에너지 충전율 50%\n$colc0c0c0;
+[END]
+
+[0000909D]
+[JPN]
+■３連
+[KOR]
+■3연
+[END]
+
+[000090A4]
+[JPN]
+■mem1
+[KOR]
+■mem1
+[END]
+
+[000090AB]
+[JPN]
+■solct
+[KOR]
+■solct
+[END]
+
+[000090B3]
+[JPN]
+■オブジェ終了！
+[KOR]
+■오브젝트종료!
+[END]
+
+[000090C4]
+[JPN]
+■ターンチェンジ
+[KOR]
+■턴 체인지
+[END]
+
+[000090D5]
+[JPN]
+■ダメージ2
+[KOR]
+■대미지 2
+[END]
+
+[000090E1]
+[JPN]
+■攻撃した方
+[KOR]
+■공격한 쪽
+[END]
+
+[000090EE]
+[JPN]
+■ダメージ1
+[KOR]
+■대미지 1
+[END]
+
+[000090FA]
+[JPN]
+■受けたダメージkantei
+[KOR]
+■받은 대미지 kantei
+[END]
+
+[00009111]
+[JPN]
+■受けたダメージforward
+[KOR]
+■받은 대미지 forward
+[END]
+
+[00009129]
+[JPN]
+■受けたダメージEtherroom
+[KOR]
+■받은 대미지 Etherroom
+[END]
+
+[00009143]
+[JPN]
+$zoom13;第一主砲発射
+[KOR]
+$zoom13;제1주포 발사
+[END]
+
+[00009158]
+[JPN]
+$zoom13;第二主砲発射
+[KOR]
+$zoom13;제2주포 발사
+[END]
+
+[0000916D]
+[JPN]
+$zoom13;第三主砲発射
+[KOR]
+$zoom13;제3주포 발사
+[END]
+
+[00009182]
+[JPN]
+$zoom13;全主砲一斉掃射
+[KOR]
+$zoom13;전주포일제소사
+[END]

@@ -1,0 +1,173 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think079.sb
+# SHA256: e996ad6747522aee63af2230a8b11967d993ada0963f2f7c03ec9d99341b65d3
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000E0B8]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000E0CD]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000E0E8]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000E115]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000E128]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000E133]
+[JPN]
+■■■■UNO
+[KOR]
+■■■■UNO
+[END]
+
+[0000E13F]
+[JPN]
+$zoom15;　ナノマシンに異常発生
+[KOR]
+$zoom15;　나노 머신 이상 발생
+[END]
+
+[0000E15E]
+[JPN]
+$zoom15;　再生完了
+[KOR]
+$zoom15;　재생완료
+[END]
+
+[0000E171]
+[JPN]
+$zoom13;斬首競べ（Ｌウィーク）
+[KOR]
+$zoom13;참수 겨루기(L 위크)
+[END]
+
+[0000E190]
+[JPN]
+$zoom13;魔獣のしゃくりあげ
+[KOR]
+$zoom13;마수의 올려치기
+[END]
+
+[0000E1AB]
+[JPN]
+$zoom13;アポトプログラム
+[KOR]
+$zoom13;아포토 프로그램
+[END]
+
+[0000E1C4]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[0000E1D5]
+[JPN]
+$zoom13;墓標縛り（Ｈバインド）
+[KOR]
+$zoom13;묘비 속박(H 바인드)
+[END]
+
+[0000E1F4]
+[JPN]
+$zoom13;ＨＰドレイン
+[KOR]
+$zoom13;HP 드레인
+[END]
+
+[0000E209]
+[JPN]
+$zoom13;冥界からの奪還
+[KOR]
+$zoom13;명계에서 탈환
+[END]
+
+[0000E220]
+[JPN]
+$zoom13;猛者の前菜（Ｈロスト）
+[KOR]
+$zoom13;강자의 전채(H 로스트)
+[END]
+
+[0000E23F]
+[JPN]
+$zoom13;アグネア
+[KOR]
+$zoom13;아그네아
+[END]
+
+[0000E250]
+[JPN]
+$zoom13;メディカ２
+[KOR]
+$zoom13;메디카 2
+[END]
+
+[0000E263]
+[JPN]
+$zoom13;リフレッシュＬ
+[KOR]
+$zoom13;리프레시 L
+[END]
+
+[0000E27A]
+[JPN]
+$zoom13;リフレッシュＨ
+[KOR]
+$zoom13;리프레시 H
+[END]
+
+[0000E291]
+[JPN]
+$zoom13;粉砕（Ｌスロウ）
+[KOR]
+$zoom13;분쇄(L 슬로)
+[END]
+
+[0000E2AA]
+[JPN]
+$zoom13;巨人の痕跡
+[KOR]
+$zoom13;거인흔적
+[END]
+
+[0000E2BD]
+[JPN]
+$zoom13;大地震
+[KOR]
+$zoom13;대지진
+[END]
+
+[0000E2CC]
+[JPN]
+$zoom13;ブーストロック
+[KOR]
+$zoom13;부스트 록
+[END]

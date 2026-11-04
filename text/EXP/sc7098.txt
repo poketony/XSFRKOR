@@ -1,0 +1,12 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: cf/sc7098.sb
+# SHA256: ab2762e34f490c3adf7a08f2b29568d12fc00430d5f498a92d735df4a626f1b9
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00000328]
+[JPN]
+*******************パーティー制御******************
+[KOR]
+*******************파티 제어******************
+[END]

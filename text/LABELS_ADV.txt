@@ -1,0 +1,321 @@
+# FREAKS-LABELS: JPN-KOR v1
+# SHA256: 7a19c1523b5a5328c16ba44ebe7afd3241939addada7e9f16c2b6c2376fdecf2
+# Empty KOR keeps original. Preserve display controls; references are relocated automatically.
+
+# MAIN_MENU / 140px
+[00136114]
+[JPN]
+　セーブ
+[KOR]
+　저장
+[END]
+
+# MAIN_MENU / 140px
+[0013611D]
+[JPN]
+　ロード
+[KOR]
+　불러오기
+[END]
+
+# MAIN_MENU / 140px
+[00136126]
+[JPN]
+オプション
+[KOR]
+옵션
+[END]
+
+# MAIN_MENU / 140px
+[00136131]
+[JPN]
+ゲーム終了
+[KOR]
+게임 종료
+[END]
+
+# PREFIX / 200px
+[0017F068]
+[JPN]
+{03:01}ファウンデーション：
+[KOR]
+{03:01}파운데이션:
+[END]
+
+# PREFIX / 200px
+[0017F080]
+[JPN]
+{03:01}デュランダル：
+[KOR]
+{03:01}뒤랑달:
+[END]
+
+# PREFIX / 200px
+[0017F098]
+[JPN]
+{03:01}エルザ：
+[KOR]
+{03:01}엘자:
+[END]
+
+# NO_DATA / 200px
+[0017F0A8]
+[JPN]
+データなし
+[KOR]
+데이터 없음
+[END]
+
+# PROMPT / 500px
+[0017F0F8]
+[JPN]
+{0B}{0E:01}プレイするキャラクターを選んでください。
+[KOR]
+{0B}{0E:01}플레이할 캐릭터를 선택해 주십시오.
+[END]
+
+# NAME / 140px
+[0017F128]
+[JPN]
+{0B}{0C}アレン
+[KOR]
+{0B}{0C}알렌
+[END]
+
+# NAME / 140px
+[0017F138]
+[JPN]
+{0B}{0C}ケイオス
+[KOR]
+{0B}{0C}케이오스
+[END]
+
+# NAME / 140px
+[0017F148]
+[JPN]
+{0B}{0C}ジギー
+[KOR]
+{0B}{0C}지기
+[END]
+
+# NAME / 140px
+[0017F158]
+[JPN]
+{0B}{0C}Ｊｒ．
+[KOR]
+{0B}{0C}Jr.
+[END]
+
+# NAME / 140px
+[0017F168]
+[JPN]
+{0B}{0C}ＫＯＳ－ＭＯＳ
+[KOR]
+{0B}{0C}KOS-MOS
+[END]
+
+# NAME / 140px
+[0017F180]
+[JPN]
+{0B}{0C}シオン
+[KOR]
+{0B}{0C}시온
+[END]
+
+# CONFIRM / 500px
+[0017F190]
+[JPN]
+でプレイします。
+よろしいですか？{0D}
+[KOR]
+ 편을 플레이합니다.
+계속하겠습니까?{0D}
+[END]
+
+# PLACE / 200px
+[0017F1D0]
+[JPN]
+深層意識
+[KOR]
+심층 의식
+[END]
+
+# PLACE / 200px
+[0017F1E0]
+[JPN]
+ＭＯＶＥ
+[KOR]
+이동
+[END]
+
+# PLACE / 200px
+[0017F1F0]
+[JPN]
+ロボットアカデミー
+[KOR]
+로봇 아카데미
+[END]
+
+# PLACE / 200px
+[0017F208]
+[JPN]
+個室前廊下
+[KOR]
+독실 앞 복도
+[END]
+
+# PLACE / 200px
+[0017F218]
+[JPN]
+隔離格納庫
+[KOR]
+격리 격납고
+[END]
+
+# PLACE / 200px
+[0017F228]
+[JPN]
+隔離格納庫前廊下
+[KOR]
+격리 격납고 앞 복도
+[END]
+
+# PLACE / 200px
+[0017F240]
+[JPN]
+ジギー調整室
+[KOR]
+지기 조정실
+[END]
+
+# PLACE / 200px
+[0017F250]
+[JPN]
+キャビン
+[KOR]
+캐빈
+[END]
+
+# PLACE / 200px
+[0017F260]
+[JPN]
+ＫＯＳ－ＭＯＳ調整室
+[KOR]
+KOS-MOS 조정실
+[END]
+
+# PLACE / 200px
+[0017F278]
+[JPN]
+下層廊下
+[KOR]
+하층 복도
+[END]
+
+# PLACE / 200px
+[0017F288]
+[JPN]
+居住区廊下
+[KOR]
+거주구 복도
+[END]
+
+# PLACE / 200px
+[0017F298]
+[JPN]
+ブリッジ
+[KOR]
+브리지
+[END]
+
+# TRAVEL / 400px
+[0017F2E8]
+[JPN]
+デュランダル → エルザ
+[KOR]
+뒤랑달 → 엘자
+[END]
+
+# TRAVEL / 400px
+[0017F300]
+[JPN]
+デュランダル → ファウンデーション
+[KOR]
+뒤랑달 → 파운데이션
+[END]
+
+# TRAVEL / 400px
+[0017F328]
+[JPN]
+ファウンデーション → デュランダル
+[KOR]
+파운데이션 → 뒤랑달
+[END]
+
+# TRAVEL / 400px
+[0017F350]
+[JPN]
+エルザ → デュランダル
+[KOR]
+엘자 → 뒤랑달
+[END]
+
+# QUIT / 600px
+[0017F648]
+[JPN]
+{0B}{0C}ゲームを終了します。
+セーブしていない「ぜのコミ」の進行状況は失われます。
+よろしいですか？{0D}
+[KOR]
+{0B}{0C}게임을 종료합니다.
+저장하지 않은 「제노코미」 진행 상황은 사라집니다.
+계속하겠습니까?{0D}
+[END]
+
+# NAME / 140px
+[00181F30]
+[JPN]
+{0B}{0C}モモ
+[KOR]
+{0B}{0C}모모
+[END]
+
+# PLACE / 200px
+[00181F40]
+[JPN]
+市街地
+[KOR]
+시가지
+[END]
+
+# PLACE / 200px
+[00181F48]
+[JPN]
+個室
+[KOR]
+독실
+[END]
+
+# PLACE / 200px
+[00181F50]
+[JPN]
+居住区
+[KOR]
+거주구
+[END]
+
+# PLACE / 200px
+[00181F58]
+[JPN]
+ドック
+[KOR]
+선착장
+[END]
+
+# PLACE / 200px
+[00181F60]
+[JPN]
+格納庫
+[KOR]
+격납고
+[END]

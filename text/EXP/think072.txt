@@ -1,0 +1,68 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think072.sb
+# SHA256: 279e6a44ae1b2c6ea4a8b758702476098f65cc54751439dab15dcf12920264c1
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000C3A4]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000C3B9]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000C3D4]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000C401]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000C414]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000C41F]
+[JPN]
+$zoom13;０距離連射
+[KOR]
+$zoom13;0거리 연사
+[END]
+
+[0000C432]
+[JPN]
+$zoom15;$col7AF9FB;　レーザー出力上昇
+[KOR]
+$zoom15;$col7AF9FB;　레이저 출력 상승
+[END]
+
+[0000C458]
+[JPN]
+$zoom13;ペネトレート　レーザー
+[KOR]
+$zoom13;페네트레이트 레이저
+[END]
+
+[0000C477]
+[JPN]
+$zoom13;ヘッドハント
+[KOR]
+$zoom13;헤드헌트
+[END]

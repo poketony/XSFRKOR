@@ -1,0 +1,54 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think014.sb
+# SHA256: 6143813e3c4602c1276aa42e4d264f4285e980d83de85e264b6097757dcbbe30
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000C664]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000C679]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000C694]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000C6C1]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000C6D4]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000C6E7]
+[JPN]
+$col7AF9FB;$zoom15;　ＡＧＬ（素早さ）ダウン
+[KOR]
+$col7AF9FB;$zoom15;　AGL(민첩성) 하락
+[END]
+
+[0000C713]
+[JPN]
+$zoom13;０距離連射
+[KOR]
+$zoom13;0거리 연사
+[END]

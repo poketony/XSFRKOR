@@ -1,0 +1,68 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think053.sb
+# SHA256: 9ad3441c088648d0e7e8fcfc4fd39bde586174ff8a3d63cd0088dc4fa5276087
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[000052C4]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[000052D9]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[000052F4]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00005321]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[00005336]
+[JPN]
+場所ーーーーーー＞
+[KOR]
+장소ーーーーーー＞
+[END]
+
+[00005349]
+[JPN]
+$zoom14;$col7AF9FB;パワー充填中$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;파워 충전 중$colc0c0c0;
+[END]
+
+[00005374]
+[JPN]
+$zoom13;オクトレイ
+[KOR]
+$zoom13;옥토레이
+[END]
+
+[00005387]
+[JPN]
+$zoom13;ＡＳＭ　０６１５
+[KOR]
+$zoom13;ASM 0615
+[END]
+
+[000053A0]
+[JPN]
+$zoom13;音速障壁突破（Ｌブラック）
+[KOR]
+$zoom13;음속 장벽 돌파(L 블랙)
+[END]

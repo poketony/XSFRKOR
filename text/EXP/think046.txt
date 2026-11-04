@@ -1,0 +1,852 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think046.sb
+# SHA256: 0917ed1b3acc0760877da4992e9bf9ad11010587c7c858101c34b50d53bd5531
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[000093E8]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[000093FD]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[00009418]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00009445]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[0000945A]
+[JPN]
+■ランダム数
+[KOR]
+■난수
+[END]
+
+[00009467]
+[JPN]
+■リフレッシュ１
+[KOR]
+■리프레시 1
+[END]
+
+[00009478]
+[JPN]
+■リフレッシュ2
+[KOR]
+■리프레시 2
+[END]
+
+[00009488]
+[JPN]
+■味方のHPチェック
+[KOR]
+■아군 HP 확인
+[END]
+
+[0000949B]
+[JPN]
+■リヒャルトダメージ1
+[KOR]
+■리하르트 대미지 1
+[END]
+
+[000094B1]
+[JPN]
+■objStart
+[KOR]
+■objStart
+[END]
+
+[000094D2]
+[JPN]
+■絆
+[KOR]
+■끈
+[END]
+
+[000094D7]
+[JPN]
+■味方回復
+[KOR]
+■아군회복
+[END]
+
+[000094E2]
+[JPN]
+■自分のHP５０％↓ランダム数
+[KOR]
+■자신의 HP50%↓ 난수
+[END]
+
+[000094FF]
+[JPN]
+■自分回復
+[KOR]
+■자신회복
+[END]
+
+[0000950A]
+[JPN]
+■自分のHP２５％↓ランダム数
+[KOR]
+■자신의 HP25%↓ 난수
+[END]
+
+[00009527]
+[JPN]
+■ヘルマンThinkLevel1
+[KOR]
+■헤르만 ThinkLevel1
+[END]
+
+[0000953D]
+[JPN]
+■ヘルマンThinkLevel2
+[KOR]
+■헤르만 ThinkLevel2
+[END]
+
+[00009553]
+[JPN]
+■DamageLevel1
+[KOR]
+■DamageLevel1
+[END]
+
+[00009562]
+[JPN]
+■DamageLevel2
+[KOR]
+■DamageLevel2
+[END]
+
+[00009571]
+[JPN]
+■ゆー
+[KOR]
+■유
+[END]
+
+[00009578]
+[JPN]
+■ナンバー
+[KOR]
+■번호
+[END]
+
+[00009583]
+[JPN]
+■セリフ1
+[KOR]
+■대사 1
+[END]
+
+[000095B9]
+[JPN]
+■rate
+[KOR]
+■rate
+[END]
+
+[000095D6]
+[JPN]
+■アーマーフィールド
+[KOR]
+■아머 필드
+[END]
+
+[00009601]
+[JPN]
+■腐敗ガス
+[KOR]
+■부패가스
+[END]
+
+[0000960C]
+[JPN]
+■攻撃4-1
+[KOR]
+■공격4-1
+[END]
+
+[00009616]
+[JPN]
+■攻撃２
+[KOR]
+■공격 2
+[END]
+
+[0000961F]
+[JPN]
+■攻撃４-2
+[KOR]
+■공격 4-2
+[END]
+
+[0000962A]
+[JPN]
+■終了
+[KOR]
+■종료
+[END]
+
+[00009631]
+[JPN]
+ブーストかうんと　　
+[KOR]
+부스트 카운트　　
+[END]
+
+[00009646]
+[JPN]
+ピンチＣＢ
+[KOR]
+위기 CB
+[END]
+
+[00009651]
+[JPN]
+ぶーすとかうんと　　
+[KOR]
+부스트 카운트　　
+[END]
+
+[00009666]
+[JPN]
+■ステータス異常Ｈ
+[KOR]
+■스테이터스 이상H
+[END]
+
+[00009679]
+[JPN]
+■ステータス異常Ｌ
+[KOR]
+■스테이터스 이상L
+[END]
+
+[0000968C]
+[JPN]
+■異常者なし
+[KOR]
+■이상자없음
+[END]
+
+[00009699]
+[JPN]
+$zoom13;センテンツァ
+[KOR]
+$zoom13;센텐차
+[END]
+
+[000096AE]
+[JPN]
+$zoom13;ラクテウス　オルビス
+[KOR]
+$zoom13;락테우스 오르비스
+[END]
+
+[000096CB]
+[JPN]
+$zoom13;ファインレイ
+[KOR]
+$zoom13;파인 레이
+[END]
+
+[000096E0]
+[JPN]
+$zoom13;センテンツァ（Ｌスロウ）
+[KOR]
+$zoom13;센텐차(L 슬로)
+[END]
+
+[00009701]
+[JPN]
+$zoom13;リフレッシュＬ
+[KOR]
+$zoom13;리프레시 L
+[END]
+
+[00009718]
+[JPN]
+$zoom13;リフレッシュＨ
+[KOR]
+$zoom13;리프레시 H
+[END]
+
+[0000972F]
+[JPN]
+$zoom13;腐敗ガス（Ｌポイズン）
+[KOR]
+$zoom13;부패 가스(L 포이즌)
+[END]
+
+[0000974E]
+[JPN]
+$zoom13;メディカ
+[KOR]
+$zoom13;메디카
+[END]
+
+[0000975F]
+[JPN]
+$zoom13;アーマーフィールド
+[KOR]
+$zoom13;아머 필드
+[END]
+
+[0000977A]
+[JPN]
+$zoom13;雷の恩寵
+[KOR]
+$zoom13;번개은총
+[END]
+
+[0000978B]
+[JPN]
+$zoom14;$col7AF9FB;センテンツァに雷のエーテルが満ちた$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;센텐차에 번개 에테르가 충만해졌다$colc0c0c0;
+[END]
+
+[000097CC]
+[JPN]
+$zoom13;英雄の盾
+[KOR]
+$zoom13;영웅방패
+[END]
+
+[000097DD]
+[JPN]
+$zoom14;$colc0c0c0;　リヒャルトが受けたダメージの\n　半分を肩代わりする$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　리하르트가 받은 대미지의\n　절반을 대신 받는다$colc0c0c0;
+[END]
+
+[00009830]
+[JPN]
+★発狂値
+[KOR]
+★발광치
+[END]
+
+[0000984F]
+[JPN]
+$zoom14;$colc0c0c0;リヒャルトの様子がおかしい・・・$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;리하르트의 상태가 이상하다・・・$colc0c0c0;
+[END]
+
+[0000988E]
+[JPN]
+★Not_Stress_Phase
+[KOR]
+★Not_Stress_Phase
+[END]
+
+[000098A1]
+[JPN]
+★ユー
+[KOR]
+★유
+[END]
+
+[000098A8]
+[JPN]
+★Stress_Phase
+[KOR]
+★Stress_Phase
+[END]
+
+[000098B7]
+[JPN]
+★シャイニングインパクト！！
+[KOR]
+★샤이닝 임팩트!!
+[END]
+
+[000098D4]
+[JPN]
+★DGMflg
+[KOR]
+★DGMflg
+[END]
+
+[000098DD]
+[JPN]
+★ナグルファル
+[KOR]
+★나글파르
+[END]
+
+[000098EC]
+[JPN]
+★発狂工程スキップ
+[KOR]
+★발광 과정 생략
+[END]
+
+[000098FF]
+[JPN]
+★発狂序曲
+[KOR]
+★발광서곡
+[END]
+
+[0000990A]
+[JPN]
+★1
+[KOR]
+★1
+[END]
+
+[00009924]
+[JPN]
+$zoom14;$col7AF9FB;　リヒャルトが狂乱した！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　리하르트가 발광했다!$colc0c0c0;
+[END]
+
+[0000995B]
+[JPN]
+★flgthree
+[KOR]
+★flgthree
+[END]
+
+[00009966]
+[JPN]
+★Naglfar_fire
+[KOR]
+★Naglfar_fire
+[END]
+
+[0000998B]
+[JPN]
+★Hermann_patk
+[KOR]
+★Hermann_patk
+[END]
+
+[0000999A]
+[JPN]
+★ヘルマンピンチなし
+[KOR]
+★헤르만 위기 없음
+[END]
+
+[000099AF]
+[JPN]
+★wildcount
+[KOR]
+★wildcount
+[END]
+
+[000099BB]
+[JPN]
+★randomflg
+[KOR]
+★randomflg
+[END]
+
+[000099DD]
+[JPN]
+$zoom14;$colc0c0c0;　リヒャルトは狂喜している！$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　리하르트는 광희에 젖었다!$colc0c0c0;
+[END]
+
+[00009A2E]
+[JPN]
+$zoom14;$colc0c0c0;　リヒャルトは狂乱している！$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　리하르트는 광란 중이다!$colc0c0c0;
+[END]
+
+[00009A69]
+[JPN]
+★4
+[KOR]
+★4
+[END]
+
+[00009A6D]
+[JPN]
+★5,tgt
+[KOR]
+★5,tgt
+[END]
+
+[00009A75]
+[JPN]
+★フレンジー
+[KOR]
+★프렌지
+[END]
+
+[00009A82]
+[JPN]
+★攻撃力
+[KOR]
+★공격력
+[END]
+
+[00009A8B]
+[JPN]
+★防御力
+[KOR]
+★방어력
+[END]
+
+[00009A94]
+[JPN]
+★素早さ
+[KOR]
+★민첩성
+[END]
+
+[00009A9D]
+[JPN]
+★乱舞２
+[KOR]
+★난무 2
+[END]
+
+[00009AA6]
+[JPN]
+★ラプチャー
+[KOR]
+★랩처
+[END]
+
+[00009AB3]
+[JPN]
+★エーテル攻撃力
+[KOR]
+★에테르 공격력
+[END]
+
+[00009AC4]
+[JPN]
+★エーテル防御力
+[KOR]
+★에테르 방어력
+[END]
+
+[00009AD5]
+[JPN]
+★7
+[KOR]
+★7
+[END]
+
+[00009AD9]
+[JPN]
+★防御属性切り替えラン数
+[KOR]
+★방어 속성 전환 난수
+[END]
+
+[00009AF2]
+[JPN]
+★防御属性切り替え行動数
+[KOR]
+★방어 속성 전환 행동 수
+[END]
+
+[00009B21]
+[JPN]
+$zoom14;$col7AF9FB;　　防御属性が戻った$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　방어 속성 복귀$colc0c0c0;
+[END]
+
+[00009B54]
+[JPN]
+★10回実行　防御属性終了
+[KOR]
+★10회실행　방어속성종료
+[END]
+
+[00009B83]
+[JPN]
+$zoom14;$col7AF9FB;　　防御属性が変化した$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　방어 속성이 변했다$colc0c0c0;
+[END]
+
+[00009BB8]
+[JPN]
+★近接攻撃
+[KOR]
+★근접공격
+[END]
+
+[00009BC3]
+[JPN]
+★遠隔攻撃
+[KOR]
+★원격공격
+[END]
+
+[00009BCE]
+[JPN]
+★防御属性変化なし、ラン攻撃
+[KOR]
+★방어속성 불변, 랜덤공격
+[END]
+
+[00009BEB]
+[JPN]
+★ＨＰ％50↓、ラン攻撃
+[KOR]
+★HP%50↓, 랜덤 공격
+[END]
+
+[00009C02]
+[JPN]
+★攻撃ミス
+[KOR]
+★공격실패
+[END]
+
+[00009C0D]
+[JPN]
+★攻撃成功
+[KOR]
+★공격성공
+[END]
+
+[00009C18]
+[JPN]
+★NearATK
+[KOR]
+★NearATK
+[END]
+
+[00009C22]
+[JPN]
+★50%でカウンターブースト
+[KOR]
+★50%로 카운터 부스트
+[END]
+
+[00009C3C]
+[JPN]
+★RemoteATK
+[KOR]
+★RemoteATK
+[END]
+
+[00009C48]
+[JPN]
+★ノーマルブースト１
+[KOR]
+★노멀 부스트 1
+[END]
+
+[00009C5D]
+[JPN]
+★ＤＭＧ思考終了DGMflg
+[KOR]
+★DMG 사고 종료 DGMflg
+[END]
+
+[00009C74]
+[JPN]
+★ターゲットHP25%以下ブースト
+[KOR]
+★타깃 HP25% 이하 부스트
+[END]
+
+[00009C92]
+[JPN]
+★オブジェ終了！
+[KOR]
+★오브젝트종료!
+[END]
+
+[00009CA3]
+[JPN]
+★ターンチェンジ
+[KOR]
+★턴 체인지
+[END]
+
+[00009CB4]
+[JPN]
+★ダメージ2
+[KOR]
+★대미지 2
+[END]
+
+[00009CC0]
+[JPN]
+★攻撃した方
+[KOR]
+★공격한 쪽
+[END]
+
+[00009CCD]
+[JPN]
+★ダメージ1
+[KOR]
+★대미지 1
+[END]
+
+[00009CD9]
+[JPN]
+★リヒャルトダメージ分散
+[KOR]
+★리하르트 대미지 분산
+[END]
+
+[00009CF2]
+[JPN]
+★リヒャルトダメージ分散後のＨＰ
+[KOR]
+★리하르트 대미지 분산 후 HP
+[END]
+
+[00009D13]
+[JPN]
+★ヘルマンＨＰ
+[KOR]
+★헤르만 HP
+[END]
+
+[00009D22]
+[JPN]
+★ヘルマン分散後のＨＰ0
+[KOR]
+★헤르만 분산 후 HP0
+[END]
+
+[00009D3A]
+[JPN]
+★ヘルマン分散後のＨＰ
+[KOR]
+★헤르만 분산 후 HP
+[END]
+
+[00009D51]
+[JPN]
+★30%ランダムｔｇｔ
+[KOR]
+★30% 랜덤 tgt
+[END]
+
+[00009D65]
+[JPN]
+★30%０ｔｇｔ
+[KOR]
+★30% 0tgt
+[END]
+
+[00009D73]
+[JPN]
+★30%１ｔｇｔ
+[KOR]
+★30% 1tgt
+[END]
+
+[00009D81]
+[JPN]
+★30%９９
+[KOR]
+★30% 99
+[END]
+
+[00009D8B]
+[JPN]
+★ヘルマン生存
+[KOR]
+★헤르만 생존
+[END]
+
+[00009D9A]
+[JPN]
+★ヘルマン死亡
+[KOR]
+★헤르만 사망
+[END]
+
+[00009DA9]
+[JPN]
+★ターゲット１番生存
+[KOR]
+★타깃 1번 생존
+[END]
+
+[00009DBE]
+[JPN]
+★ターゲット１番死亡
+[KOR]
+★타깃 1번 사망
+[END]
+
+[00009DD3]
+[JPN]
+$zoom13;アンピュルシオン
+[KOR]
+$zoom13;앵퓔시옹
+[END]
+
+[00009DEC]
+[JPN]
+$zoom13;五連乱舞
+[KOR]
+$zoom13;5연난무
+[END]
+
+[00009DFD]
+[JPN]
+$zoom13;エガリテランチャー
+[KOR]
+$zoom13;에갈리테 런처
+[END]
+
+[00009E2B]
+[JPN]
+$zoom13;第３種転送用兵器ナグルファル
+[KOR]
+$zoom13;제3종 전송용 병기 나글파르
+[END]
+
+[00009E50]
+[JPN]
+$zoom13;インペール
+[KOR]
+$zoom13;임페일
+[END]
+
+[00009E63]
+[JPN]
+$zoom13;五連乱舞　狂
+[KOR]
+$zoom13;5연난무　광
+[END]
+
+[00009E78]
+[JPN]
+$zoom13;ブーストワン
+[KOR]
+$zoom13;부스트 원
+[END]

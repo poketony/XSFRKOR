@@ -1,0 +1,40 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think996.sb
+# SHA256: f4bbc6c80cbc7069bd8f0fdcd94a65e32214d6647cb78290a8f629fc6c632cad
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00004F50]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[00004F65]
+[JPN]
+＊＊メッセージ
+[KOR]
+＊＊메시지
+[END]
+
+[00004F74]
+[JPN]
+＊＊あたｋｋｋっく
+[KOR]
+＊＊어터kkk억
+[END]
+
+[00004F87]
+[JPN]
+★現在の技
+[KOR]
+★현재기술
+[END]
+
+[00004F92]
+[JPN]
+技番号＝＝＝＝＞
+[KOR]
+기술 번호====>
+[END]

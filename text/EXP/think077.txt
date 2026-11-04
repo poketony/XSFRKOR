@@ -1,0 +1,103 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think077.sb
+# SHA256: 3baa607394b18a6b7e164f5d28850cece0ad2dd483a10bd937c73841ad2e8c73
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[000062AC]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[000062C1]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[000062DC]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00006309]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[0000631E]
+[JPN]
+$zoom14;$col7AF9FB;パワー充填中$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;파워 충전 중$colc0c0c0;
+[END]
+
+[00006349]
+[JPN]
+$zoom13;ゴーストサイフォス
+[KOR]
+$zoom13;고스트 사이포스
+[END]
+
+[00006364]
+[JPN]
+$zoom13;エンドレイン
+[KOR]
+$zoom13;엔드레인
+[END]
+
+[00006379]
+[JPN]
+$zoom13;封印武装Ｌｖ４解除（Ｈチャージロスト）
+[KOR]
+$zoom13;봉인 무장 Lv4 해제(H 차지 로스트)
+[END]
+
+[000063A8]
+[JPN]
+$zoom13;ブーストロック
+[KOR]
+$zoom13;부스트 록
+[END]
+
+[000063BF]
+[JPN]
+$zoom13;エーテルＤＤ
+[KOR]
+$zoom13;에테르 DD
+[END]
+
+[000063D4]
+[JPN]
+$zoom13;ルナウィング
+[KOR]
+$zoom13;루나 윙
+[END]
+
+[000063E9]
+[JPN]
+$zoom13;ＳＳオベリスク
+[KOR]
+$zoom13;SS 오벨리스크
+[END]
+
+[00006400]
+[JPN]
+$zoom13;メディカ
+[KOR]
+$zoom13;메디카
+[END]
+
+[00006411]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]

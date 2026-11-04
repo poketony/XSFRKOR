@@ -1,0 +1,61 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think055.sb
+# SHA256: b8eb72360eac3b570f19fb64ef6f1722d88b6bc15a3217ddce600c3fd68f7bf4
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[000052A4]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[000052B9]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[000052D4]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00005301]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[00005316]
+[JPN]
+$zoom14;$col7AF9FB;パワー充填中$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;파워 충전 중$colc0c0c0;
+[END]
+
+[00005341]
+[JPN]
+$zoom13;オクトレイ
+[KOR]
+$zoom13;옥토레이
+[END]
+
+[00005354]
+[JPN]
+$zoom13;ＡＳＭ　０６１５
+[KOR]
+$zoom13;ASM 0615
+[END]
+
+[0000536D]
+[JPN]
+$zoom13;音速障壁突破（Ｌブラック）
+[KOR]
+$zoom13;음속 장벽 돌파(L 블랙)
+[END]

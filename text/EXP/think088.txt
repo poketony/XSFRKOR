@@ -1,0 +1,215 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think088.sb
+# SHA256: 8362a8b597e1faa73680c4ed722f6f9372a4ab8c58cdc1c1a74c7c6154975fb5
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000D64C]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000D661]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000D67C]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000D6A9]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000D6BC]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000D6C7]
+[JPN]
+$zoom14;$colc0c0c0;ビッグウェーーーーブ！！
+[KOR]
+$zoom14;$colc0c0c0;빅 웨~~~이브!!
+[END]
+
+[0000D6F3]
+[JPN]
+$zoom14;$colc0c0c0;どこか不機嫌そうだ・・・
+[KOR]
+$zoom14;$colc0c0c0;왠지 언짢아 보인다・・・
+[END]
+
+[0000D71F]
+[JPN]
+$zoom13;ナックルインパクト
+[KOR]
+$zoom13;너클 임팩트
+[END]
+
+[0000D73A]
+[JPN]
+$zoom13;エアーライディング
+[KOR]
+$zoom13;에어 라이딩
+[END]
+
+[0000D755]
+[JPN]
+異常者なし
+[KOR]
+이상자없음
+[END]
+
+[0000D760]
+[JPN]
+■ランダム
+[KOR]
+■랜덤
+[END]
+
+[0000D76B]
+[JPN]
+$zoom14;$colc0c0c0;デイオンは周辺の匂いを嗅ぎ出した！
+[KOR]
+$zoom14;$colc0c0c0;데이온, 주위 냄새를 맡기 시작했다!
+[END]
+
+[0000D7A1]
+[JPN]
+■Ｌステータスチェック
+[KOR]
+■L 스테이터스 확인
+[END]
+
+[0000D7B8]
+[JPN]
+$zoom14;$colc0c0c0;匂いの元へ突進した！
+[KOR]
+$zoom14;$colc0c0c0;냄새 쪽에 돌진했다!
+[END]
+
+[0000D7E0]
+[JPN]
+$zoom13;しっぽ斬り
+[KOR]
+$zoom13;꼬리 베기
+[END]
+
+[0000D7F3]
+[JPN]
+$zoom13;しゃくりあげ
+[KOR]
+$zoom13;올려치기
+[END]
+
+[0000D808]
+[JPN]
+■防御弱体思考
+[KOR]
+■방어약화사고
+[END]
+
+[0000D817]
+[JPN]
+■攻撃弱体思考
+[KOR]
+■공격약화사고
+[END]
+
+[0000D826]
+[JPN]
+■ヘイスト・回復思考
+[KOR]
+■헤이스트·회복사고
+[END]
+
+[0000D83B]
+[JPN]
+■味方のナンバー？
+[KOR]
+■아군 번호?
+[END]
+
+[0000D84E]
+[JPN]
+■SPEED25
+[KOR]
+■SPEED25
+[END]
+
+[0000D858]
+[JPN]
+■クイックハズレ攻撃
+[KOR]
+■퀵 실패 공격
+[END]
+
+[0000D86D]
+[JPN]
+■味方の中からHP低いやつのレート
+[KOR]
+■아군 중 HP 낮은 녀석의 비율
+[END]
+
+[0000D88E]
+[JPN]
+■味方は何人？
+[KOR]
+■아군 몇 명?
+[END]
+
+[0000D89D]
+[JPN]
+$zoom13;種爆弾
+[KOR]
+$zoom13;종자탄
+[END]
+
+[0000D8AC]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[0000D8BD]
+[JPN]
+$zoom13;シェイブパワー
+[KOR]
+$zoom13;셰이브 파워
+[END]
+
+[0000D8D4]
+[JPN]
+$zoom13;シェイブブレイン
+[KOR]
+$zoom13;셰이브 브레인
+[END]
+
+[0000D8ED]
+[JPN]
+$zoom13;シェイブオーラ
+[KOR]
+$zoom13;셰이브 오라
+[END]
+
+[0000D904]
+[JPN]
+$zoom13;メディカ
+[KOR]
+$zoom13;메디카
+[END]

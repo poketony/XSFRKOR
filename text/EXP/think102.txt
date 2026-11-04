@@ -1,0 +1,607 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think102.sb
+# SHA256: e5606e6228b4ac363b30b12953d7aa3851041e35a811d4b1ea275407cecd9f08
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000FA74]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000FA89]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000FAA4]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000FAD1]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000FAE4]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000FAEF]
+[JPN]
+■メディカ２発動
+[KOR]
+■메디카 2 발동
+[END]
+
+[0000FB00]
+[JPN]
+■ThinkLevel1
+[KOR]
+■ThinkLevel1
+[END]
+
+[0000FB0E]
+[JPN]
+■ThinkLevel2
+[KOR]
+■ThinkLevel2
+[END]
+
+[0000FB1C]
+[JPN]
+■ThinkLevel3
+[KOR]
+■ThinkLevel3
+[END]
+
+[0000FB2A]
+[JPN]
+■ThinkLevel4
+[KOR]
+■ThinkLevel4
+[END]
+
+[0000FB38]
+[JPN]
+■エアー中はmove可
+[KOR]
+■에어중 move가능
+[END]
+
+[0000FB4B]
+[JPN]
+■ダウン中はmove可
+[KOR]
+■다운중 move가능
+[END]
+
+[0000FB5E]
+[JPN]
+■攻撃者
+[KOR]
+■공격자
+[END]
+
+[0000FB67]
+[JPN]
+■弱点
+[KOR]
+■약점
+[END]
+
+[0000FB6E]
+[JPN]
+■キャラが-1なのでＤＭＧ思考抜けます
+[KOR]
+■캐릭터가 -1이므로 DMG 사고 종료
+[END]
+
+[0000FB93]
+[JPN]
+■ビーム
+[KOR]
+■빔
+[END]
+
+[0000FB9C]
+[JPN]
+■DamgeLevel1
+[KOR]
+■DamgeLevel1
+[END]
+
+[0000FBAA]
+[JPN]
+■DamgeLevel2
+[KOR]
+■DamgeLevel2
+[END]
+
+[0000FBB8]
+[JPN]
+■MagazineChange
+[KOR]
+■MagazineChange
+[END]
+
+[0000FBC9]
+[JPN]
+■rnd
+[KOR]
+■rnd
+[END]
+
+[0000FBCF]
+[JPN]
+$zoom13;リロード　≫　マグナ
+[KOR]
+$zoom13;리로드　≫　마그나
+[END]
+
+[0000FBEC]
+[JPN]
+$zoom13;リロード　≫　ヘムレッジ
+[KOR]
+$zoom13;리로드　≫　헤머리지
+[END]
+
+[0000FC0D]
+[JPN]
+■MagazineChange2　　
+[KOR]
+■MagazineChange2　　
+[END]
+
+[0000FC23]
+[JPN]
+■rnd2　
+[KOR]
+■rnd2　
+[END]
+
+[0000FC2C]
+[JPN]
+■rnd2　　
+[KOR]
+■rnd2　　
+[END]
+
+[0000FC37]
+[JPN]
+$zoom13;リロード　≫　クロイツ
+[KOR]
+$zoom13;리로드　≫　크로이츠
+[END]
+
+[0000FC56]
+[JPN]
+$zoom14;$col7AF9FB;　ブロックを解除された！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　블록이 해제됐다!$colc0c0c0;
+[END]
+
+[0000FC8D]
+[JPN]
+■イベントタイマーは？
+[KOR]
+■이벤트 타이머는?
+[END]
+
+[0000FCA4]
+[JPN]
+$zoom13;時の記憶
+[KOR]
+$zoom13;시간기억
+[END]
+
+[0000FCB5]
+[JPN]
+■３０％以下
+[KOR]
+■30% 이하
+[END]
+
+[0000FCC2]
+[JPN]
+■コンボブーストtgt
+[KOR]
+■콤보 부스트 tgt
+[END]
+
+[0000FCD6]
+[JPN]
+■コンボブーストrnd
+[KOR]
+■콤보 부스트 rnd
+[END]
+
+[0000FCEA]
+[JPN]
+■オブジェ終了！
+[KOR]
+■오브젝트종료!
+[END]
+
+[0000FCFB]
+[JPN]
+■立ち中はmove不可
+[KOR]
+■기립중 move불가
+[END]
+
+[0000FD0E]
+[JPN]
+$zoom13;マグナショット
+[KOR]
+$zoom13;마그나 샷
+[END]
+
+[0000FD25]
+[JPN]
+$zoom13;ヘムレッジショット（Ｌポイズン）
+[KOR]
+$zoom13;헤머리지 샷(L 포이즌)
+[END]
+
+[0000FD4E]
+[JPN]
+$zoom13;クロイツショット（Ｈバインド）
+[KOR]
+$zoom13;크로이츠 샷(H 바인드)
+[END]
+
+[0000FD75]
+[JPN]
+$zoom13;ラグナロク
+[KOR]
+$zoom13;라그나로크
+[END]
+
+[0000FD88]
+[JPN]
+$zoom13;エンブレイス
+[KOR]
+$zoom13;엠브레이스
+[END]
+
+[0000FD9D]
+[JPN]
+$zoom13;メディカ２
+[KOR]
+$zoom13;메디카 2
+[END]
+
+[0000FDB0]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[0000FDC1]
+[JPN]
+$zoom13;セフティー
+[KOR]
+$zoom13;세이프티
+[END]
+
+[0000FDD4]
+[JPN]
+$zoom14;$col7AF9FB;正面からの攻撃に対して鉄壁になった！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;정면 공격에 철벽이 됐다!$colc0c0c0;
+[END]
+
+[0000FE17]
+[JPN]
+$zoom13;アンブレイカブル　ブロック
+[KOR]
+$zoom13;언브레이커블 블록
+[END]
+
+[0000FE3A]
+[JPN]
+$zoom13;ブーストワン
+[KOR]
+$zoom13;부스트 원
+[END]
+
+[0000FE4F]
+[JPN]
+■■Phase1
+[KOR]
+■■Phase1
+[END]
+
+[0000FE5A]
+[JPN]
+■■Phase2
+[KOR]
+■■Phase2
+[END]
+
+[0000FE65]
+[JPN]
+■■ダウン++
+[KOR]
+■■다운++
+[END]
+
+[0000FE72]
+[JPN]
+■■最愛の徒発生値
+[KOR]
+■■애제자 발생치
+[END]
+
+[0000FE85]
+[JPN]
+$zoom14;$col7AF9FB;　一番レベルの高いターゲットの\n　　パラメーターを真似た！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　가장 레벨이 높은 타깃의\n　　파라미터를 모방했다!$colc0c0c0;
+[END]
+
+[0000FEDE]
+[JPN]
+■■■■■３投目
+[KOR]
+■■■■■3투째
+[END]
+
+[0000FEEF]
+[JPN]
+■■■■■終焉
+[KOR]
+■■■■■종언
+[END]
+
+[0000FEFE]
+[JPN]
+■■■■■２投目
+[KOR]
+■■■■■2투째
+[END]
+
+[0000FF0F]
+[JPN]
+■■■■■１投目
+[KOR]
+■■■■■1투째
+[END]
+
+[0000FF20]
+[JPN]
+■■■■■■攻撃者CHAOS
+[KOR]
+■■■■■■공격자CHAOS
+[END]
+
+[0000FF38]
+[JPN]
+■■■■■■攻撃者KOSMOS
+[KOR]
+■■■■■■공격자KOSMOS
+[END]
+
+[0000FF51]
+[JPN]
+■■■■■■攻撃者SHION
+[KOR]
+■■■■■■공격자SHION
+[END]
+
+[0000FF69]
+[JPN]
+■■■■■■攻撃者JIN
+[KOR]
+■■■■■■공격자JIN
+[END]
+
+[0000FF7F]
+[JPN]
+■■■■■■攻撃者ZIGGY
+[KOR]
+■■■■■■공격자ZIGGY
+[END]
+
+[0000FF97]
+[JPN]
+■■■■■■攻撃者MOMO
+[KOR]
+■■■■■■공격자MOMO
+[END]
+
+[0000FFAE]
+[JPN]
+■■■■■■攻撃者JR
+[KOR]
+■■■■■■공격자JR
+[END]
+
+[0000FFC3]
+[JPN]
+■■■■■■記憶攻撃者ＩＤ
+[KOR]
+■■■■■■기억 공격자 ID
+[END]
+
+[0000FFDE]
+[JPN]
+■■■■■■調べたキャラＩＤ
+[KOR]
+■■■■■■조사한 캐릭터 ID
+[END]
+
+[0000FFFB]
+[JPN]
+■■■■■■同じならナンバーを返す
+[KOR]
+■■■■■■같으면 번호 반환
+[END]
+
+[0001001E]
+[JPN]
+■■■■■■いない場合は９９を返す
+[KOR]
+■■■■■■없으면 99 반환
+[END]
+
+[00010041]
+[JPN]
+■■■■L抵抗ダウンチェック
+[KOR]
+■■■■L 저항 저하 확인
+[END]
+
+[0001005D]
+[JPN]
+■■■■抵抗ダウン99
+[KOR]
+■■■■저항 저하 99
+[END]
+
+[00010072]
+[JPN]
+■■■■Lウィークチェック
+[KOR]
+■■■■L 위크 확인
+[END]
+
+[0001008C]
+[JPN]
+■■■■Hウィークチェック
+[KOR]
+■■■■H 위크 확인
+[END]
+
+[000100A6]
+[JPN]
+■■■■ウィーク無し99
+[KOR]
+■■■■위크 없음 99
+[END]
+
+[000100BD]
+[JPN]
+■■■■Lスロウチェック
+[KOR]
+■■■■L 슬로 확인
+[END]
+
+[000100D5]
+[JPN]
+■■■■Hストップチェック
+[KOR]
+■■■■H 스톱 확인
+[END]
+
+[000100EF]
+[JPN]
+■■■■スロウ無し99
+[KOR]
+■■■■슬로 없음 99
+[END]
+
+[00010104]
+[JPN]
+★★★★★0除算だから帰還します
+[KOR]
+★★★★★0으로 나눠 복귀합니다
+[END]
+
+[00010124]
+[JPN]
+★★★★★50％以下
+[KOR]
+★★★★★50% 이하
+[END]
+
+[00010137]
+[JPN]
+★★★★★コンボブーストtgt
+[KOR]
+★★★★★콤보 부스트 tgt
+[END]
+
+[00010153]
+[JPN]
+★★★★★コンボブーストrnd
+[KOR]
+★★★★★콤보 부스트 rnd
+[END]
+
+[0001016F]
+[JPN]
+$zoom13;烙印
+[KOR]
+$zoom13;낙인
+[END]
+
+[0001017C]
+[JPN]
+$zoom13;逃げ切れぬ矢　一投目（レジストダウン）
+[KOR]
+$zoom13;못 피할 화살　1투째(레지스트 다운)
+[END]
+
+[000101AB]
+[JPN]
+$zoom13;逃げ切れぬ矢　二投目（Ｌウィーク）
+[KOR]
+$zoom13;못 피할 화살　2투째(L 위크)
+[END]
+
+[000101D6]
+[JPN]
+$zoom13;逃げ切れぬ矢　三投目（Ｌスロウ）
+[KOR]
+$zoom13;못 피할 화살　3투째(L 슬로)
+[END]
+
+[000101FF]
+[JPN]
+$zoom13;逃げ切れぬ矢　終焉
+[KOR]
+$zoom13;못 피할 화살　종언
+[END]
+
+[0001021A]
+[JPN]
+$zoom13;パンドラゲート
+[KOR]
+$zoom13;판도라 게이트
+[END]
+
+[00010231]
+[JPN]
+$zoom13;０の呪い（Ｌポイズン）
+[KOR]
+$zoom13;0의 저주(L 포이즌)
+[END]
+
+[00010250]
+[JPN]
+$zoom13;最愛の徒
+[KOR]
+$zoom13;애제자
+[END]
+
+[00010261]
+[JPN]
+$zoom13;常勝の条件
+[KOR]
+$zoom13;상승조건
+[END]

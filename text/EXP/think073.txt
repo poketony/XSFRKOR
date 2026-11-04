@@ -1,0 +1,348 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think073.sb
+# SHA256: 792edf0c4dbef57c4f52f8dbfaa12528f1569701ed7be826accccdf78fdc2035
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00006B68]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[00006B7D]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[00006B98]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00006BC5]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[00006BDA]
+[JPN]
+■■changeDEF
+[KOR]
+■■changeDEF
+[END]
+
+[00006BE8]
+[JPN]
+$zoom14;$colc0c0c0;カウンターブーストシステム異常発生$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;카운터 부스트 시스템 이상 발생$colc0c0c0;
+[END]
+
+[00006C29]
+[JPN]
+$zoom14;$colc0c0c0;　インベルシオンから泡が噴出した！\n$col7AF9FB;ーカウンターブーストシステム故障ー$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　인베르시온에서 거품이 뿜어져 나왔다!\n$col7AF9FB;ー카운터 부스트 시스템 고장ー$colc0c0c0;
+[END]
+
+[00006C99]
+[JPN]
+■■ThinkLevel1
+[KOR]
+■■ThinkLevel1
+[END]
+
+[00006CA9]
+[JPN]
+■■ThinkLevel2
+[KOR]
+■■ThinkLevel2
+[END]
+
+[00006CB9]
+[JPN]
+■■ThinkLevel3
+[KOR]
+■■ThinkLevel3
+[END]
+
+[00006CC9]
+[JPN]
+■■ThinkLevel4
+[KOR]
+■■ThinkLevel4
+[END]
+
+[00006CD9]
+[JPN]
+■■現在のエネルギー
+[KOR]
+■■현재 에너지
+[END]
+
+[00006CEE]
+[JPN]
+■■現在のBC
+[KOR]
+■■현재 BC
+[END]
+
+[00006CFB]
+[JPN]
+$zoom14;$colc0c0c0;敵の戦闘能力を分析中・・・$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;적 전투력을 분석 중・・・$colc0c0c0;
+[END]
+
+[00006D34]
+[JPN]
+$zoom14;$colc0c0c0;・・・分析終了\n$col7AF9FB;カウンターブースト起動プラグイン\n　　　　　ＥーＣ　セット$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;・・・분석 종료\n$col7AF9FB;카운터 부스트 기동 플러그인\n　　　　　E-C 장착$colc0c0c0;
+[END]
+
+[00006DA8]
+[JPN]
+■■ＥーＣ　エネルギー 
+[KOR]
+■■E-C　에너지 
+[END]
+
+[00006DC0]
+[JPN]
+$zoom14;$colc0c0c0;・・・分析終了\n$col7AF9FB;カウンターブースト起動プラグイン\n　　　　　ＢーＣ　セット$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;・・・분석 종료\n$col7AF9FB;카운터 부스트 기동 플러그인\n　　　　　B-C 장착$colc0c0c0;
+[END]
+
+[00006E34]
+[JPN]
+■■ＢーＣ
+[KOR]
+■■B-C
+[END]
+
+[00006E3F]
+[JPN]
+$zoom14;$colc0c0c0;・・・分析終了\n$col7AF9FB;カウンターブースト起動プラグイン\n　　　　　ＨーＰ　セット$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;・・・분석 종료\n$col7AF9FB;카운터 부스트 기동 플러그인\n　　　　　H-P 장착$colc0c0c0;
+[END]
+
+[00006EB3]
+[JPN]
+■■ＨーＰ
+[KOR]
+■■H-P
+[END]
+
+[00006EBE]
+[JPN]
+■■PLLV_rate
+[KOR]
+■■PLLV_rate
+[END]
+
+[00006ECC]
+[JPN]
+■■rnd
+[KOR]
+■■rnd
+[END]
+
+[00006ED4]
+[JPN]
+■■count2
+[KOR]
+■■count2
+[END]
+
+[00006EDF]
+[JPN]
+$zoom14;$col7AF9FB;敵のエーテルスキルを分析中・・・$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;적의 에테르 스킬을 분석 중・・・$colc0c0c0;
+[END]
+
+[00006F1E]
+[JPN]
+■■エーテルジャミング
+[KOR]
+■■에테르 재밍
+[END]
+
+[00006F35]
+[JPN]
+■■調べたキャラＩＤ
+[KOR]
+■■조사한 캐릭터 ID
+[END]
+
+[00006F4A]
+[JPN]
+■■同じならナンバーを返す
+[KOR]
+■■같으면 번호 반환
+[END]
+
+[00006F65]
+[JPN]
+■■P0Lvのレベル
+[KOR]
+■■P0Lv의 레벨
+[END]
+
+[00006F76]
+[JPN]
+■■P1Lvのレベル
+[KOR]
+■■P1Lv의 레벨
+[END]
+
+[00006F87]
+[JPN]
+■■レベル平均
+[KOR]
+■■평균 레벨
+[END]
+
+[00006F96]
+[JPN]
+■■レベルチェック４以下
+[KOR]
+■■레벨 확인 4 이하
+[END]
+
+[00006FAF]
+[JPN]
+■■レベル/6
+[KOR]
+■■레벨/6
+[END]
+
+[00006FBC]
+[JPN]
+■■ブーストカウント
+[KOR]
+■■부스트 카운트
+[END]
+
+[00006FD1]
+[JPN]
+■■HP平均
+[KOR]
+■■HP평균
+[END]
+
+[00006FDC]
+[JPN]
+■■総エネルギー数
+[KOR]
+■■총 에너지 수
+[END]
+
+[00006FEF]
+[JPN]
+■■支援効果あり
+[KOR]
+■■지원효과있음
+[END]
+
+[00007000]
+[JPN]
+■■支援効果なし
+[KOR]
+■■지원효과없음
+[END]
+
+[00007011]
+[JPN]
+■■異常ありＨ
+[KOR]
+■■이상있음 H
+[END]
+
+[00007020]
+[JPN]
+■■異常ありＬ
+[KOR]
+■■이상있음 L
+[END]
+
+[0000702F]
+[JPN]
+★★★★★コンボブーストtgt
+[KOR]
+★★★★★콤보 부스트 tgt
+[END]
+
+[0000704B]
+[JPN]
+★★★★★コンボブーストrnd
+[KOR]
+★★★★★콤보 부스트 rnd
+[END]
+
+[00007067]
+[JPN]
+$zoom13;スパイラルレイ
+[KOR]
+$zoom13;스파이럴 레이
+[END]
+
+[0000707E]
+[JPN]
+$zoom13;上空誘導レーザー
+[KOR]
+$zoom13;상공 유도 레이저
+[END]
+
+[00007097]
+[JPN]
+$zoom13;ＡＥＥ（ＬエーテルＰＤ）
+[KOR]
+$zoom13;AEE(L 에테르 PD)
+[END]
+
+[000070B8]
+[JPN]
+$zoom13;トールシャウト（Ｌチャージロスト）
+[KOR]
+$zoom13;토르 샤우트(L 차지 로스트)
+[END]
+
+[000070E3]
+[JPN]
+$zoom13;ＡＥＥ（ＬエーテルＤＤ）
+[KOR]
+$zoom13;AEE(L 에테르 DD)
+[END]
+
+[00007104]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[00007115]
+[JPN]
+$zoom13;エーテルジャミング（Ｈロスト）
+[KOR]
+$zoom13;에테르 재밍(H 로스트)
+[END]
+
+[0000713C]
+[JPN]
+$zoom13;エーテルスピア
+[KOR]
+$zoom13;에테르 스피어
+[END]

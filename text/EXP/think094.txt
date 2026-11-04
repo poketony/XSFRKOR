@@ -1,0 +1,383 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think094.sb
+# SHA256: 6b46148270ee6e6e86f375e03d68c0e90ee1b4b7c3ce84066bc2fe30edbdc9fe
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00010064]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[00010079]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[00010094]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[000100C1]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[000100D4]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[000100DF]
+[JPN]
+$zoom14;$colc0c0c0;ビッグウェーーーーブ！！
+[KOR]
+$zoom14;$colc0c0c0;빅 웨~~~이브!!
+[END]
+
+[0001010B]
+[JPN]
+$zoom14;$colc0c0c0;どこか不機嫌そうだ・・・
+[KOR]
+$zoom14;$colc0c0c0;왠지 언짢아 보인다・・・
+[END]
+
+[00010137]
+[JPN]
+$zoom13;ナックルインパクト
+[KOR]
+$zoom13;너클 임팩트
+[END]
+
+[00010152]
+[JPN]
+$zoom13;エアーライディング
+[KOR]
+$zoom13;에어 라이딩
+[END]
+
+[0001016D]
+[JPN]
+異常者なし
+[KOR]
+이상자없음
+[END]
+
+[00010178]
+[JPN]
+■ランダム
+[KOR]
+■랜덤
+[END]
+
+[00010183]
+[JPN]
+$zoom14;$colc0c0c0;デイオンは周辺の匂いを嗅ぎ出した！
+[KOR]
+$zoom14;$colc0c0c0;데이온, 주위 냄새를 맡기 시작했다!
+[END]
+
+[000101B9]
+[JPN]
+■Ｌステータスチェック
+[KOR]
+■L 스테이터스 확인
+[END]
+
+[000101D0]
+[JPN]
+$zoom14;$colc0c0c0;匂いの元へ突進した！
+[KOR]
+$zoom14;$colc0c0c0;냄새 쪽에 돌진했다!
+[END]
+
+[000101F8]
+[JPN]
+$zoom13;しっぽ斬り
+[KOR]
+$zoom13;꼬리 베기
+[END]
+
+[0001020B]
+[JPN]
+$zoom13;しゃくりあげ
+[KOR]
+$zoom13;올려치기
+[END]
+
+[00010220]
+[JPN]
+■防御弱体思考
+[KOR]
+■방어약화사고
+[END]
+
+[0001022F]
+[JPN]
+■攻撃弱体思考
+[KOR]
+■공격약화사고
+[END]
+
+[0001023E]
+[JPN]
+■ヘイスト・回復思考
+[KOR]
+■헤이스트·회복사고
+[END]
+
+[00010253]
+[JPN]
+■味方のナンバー？
+[KOR]
+■아군 번호?
+[END]
+
+[00010266]
+[JPN]
+■SPEED25
+[KOR]
+■SPEED25
+[END]
+
+[00010270]
+[JPN]
+■クイックハズレ攻撃
+[KOR]
+■퀵 실패 공격
+[END]
+
+[00010285]
+[JPN]
+■味方の中からHP低いやつのレート
+[KOR]
+■아군 중 HP 낮은 녀석의 비율
+[END]
+
+[000102A6]
+[JPN]
+■味方は何人？
+[KOR]
+■아군 몇 명?
+[END]
+
+[000102B5]
+[JPN]
+$zoom13;種爆弾
+[KOR]
+$zoom13;종자탄
+[END]
+
+[000102C4]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[000102D5]
+[JPN]
+$zoom13;シェイブパワー
+[KOR]
+$zoom13;셰이브 파워
+[END]
+
+[000102EC]
+[JPN]
+$zoom13;シェイブブレイン
+[KOR]
+$zoom13;셰이브 브레인
+[END]
+
+[00010305]
+[JPN]
+$zoom13;シェイブオーラ
+[KOR]
+$zoom13;셰이브 오라
+[END]
+
+[0001031C]
+[JPN]
+$zoom13;メディカ
+[KOR]
+$zoom13;메디카
+[END]
+
+[0001032D]
+[JPN]
+■gno004_ATK_Phase
+[KOR]
+■gno004_ATK_Phase
+[END]
+
+[00010340]
+[JPN]
+■gno004_DEF_Phase
+[KOR]
+■gno004_DEF_Phase
+[END]
+
+[00010353]
+[JPN]
+$zoom14;$colc0c0c0;　　三戦立ちの構えを崩した！
+[KOR]
+$zoom14;$colc0c0c0;　　삼전서기 자세를 깼다!
+[END]
+
+[00010383]
+[JPN]
+■連携ナンバー
+[KOR]
+■연계 번호
+[END]
+
+[00010392]
+[JPN]
+$zoom13;右下段回し蹴り
+[KOR]
+$zoom13;우하단돌려차기
+[END]
+
+[000103A9]
+[JPN]
+$zoom13;羅刹門・改　２７Ｆ
+[KOR]
+$zoom13;나찰문·개　27F
+[END]
+
+[000103C4]
+[JPN]
+$zoom13;三戦立ち
+[KOR]
+$zoom13;삼전서기
+[END]
+
+[000103D5]
+[JPN]
+$zoom14;$colc0c0c0;　　　　三戦立ちの構え！\n　カウンタースタイルになった
+[KOR]
+$zoom14;$colc0c0c0;　　　　삼전서기 자세!\n　카운터 스타일이 됐다
+[END]
+
+[0001041F]
+[JPN]
+$zoom13;残心
+[KOR]
+$zoom13;잔심
+[END]
+
+[0001042C]
+[JPN]
+$zoom13;囁く雨
+[KOR]
+$zoom13;밀어비
+[END]
+
+[0001043B]
+[JPN]
+$zoom13;ブーストワン
+[KOR]
+$zoom13;부스트 원
+[END]
+
+[00010450]
+[JPN]
+$zoom13;ミラクルスター
+[KOR]
+$zoom13;미라클 스타
+[END]
+
+[00010467]
+[JPN]
+$zoom13;戒め
+[KOR]
+$zoom13;계율
+[END]
+
+[00010474]
+[JPN]
+■炎カウント
+[KOR]
+■불꽃카운트
+[END]
+
+[00010481]
+[JPN]
+■inoki
+[KOR]
+■inoki
+[END]
+
+[00010489]
+[JPN]
+■炎カウント2
+[KOR]
+■불꽃카운트2
+[END]
+
+[00010497]
+[JPN]
+■炎カウント3
+[KOR]
+■불꽃카운트3
+[END]
+
+[000104A5]
+[JPN]
+■炎カウント4
+[KOR]
+■불꽃카운트4
+[END]
+
+[000104B3]
+[JPN]
+■炎カウント5
+[KOR]
+■불꽃카운트5
+[END]
+
+[000104C1]
+[JPN]
+■イベントスロットクリティカル
+[KOR]
+■이벤트 슬롯 크리티컬
+[END]
+
+[000104E0]
+[JPN]
+$zoom13;ジァベリンヒートナックル
+[KOR]
+$zoom13;재블린 히트 너클
+[END]
+
+[00010501]
+[JPN]
+$zoom13;バーンウェーブ
+[KOR]
+$zoom13;번 웨이브
+[END]
+
+[00010518]
+[JPN]
+$zoom13;ヘルカノン
+[KOR]
+$zoom13;헬 캐논
+[END]
+
+[0001052B]
+[JPN]
+$zoom13;フレアブラスト
+[KOR]
+$zoom13;플레어블래스트
+[END]

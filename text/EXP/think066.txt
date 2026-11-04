@@ -1,0 +1,82 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think066.sb
+# SHA256: d76a00ede724e46fce903f22160e310e59267355e1955b8b79465a4b2087e13f
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00005954]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[00005969]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[00005984]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[000059B1]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[000059C6]
+[JPN]
+$zoom13;トリア　ミスト
+[KOR]
+$zoom13;트리아 미스트
+[END]
+
+[000059DD]
+[JPN]
+$zoom13;クアトル　テンペスト
+[KOR]
+$zoom13;콰트르 템페스트
+[END]
+
+[000059FA]
+[JPN]
+$zoom13;ブレイクアーマー（Ｌウィーク）
+[KOR]
+$zoom13;브레이크 아머(L 위크)
+[END]
+
+[00005A21]
+[JPN]
+$zoom13;ブレイクシールド（ＬエーテルＤＤ）
+[KOR]
+$zoom13;브레이크 실드(L 에테르 DD)
+[END]
+
+[00005A4C]
+[JPN]
+$zoom14;$col7AF9FB;パワー充填中$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;파워 충전 중$colc0c0c0;
+[END]
+
+[00005A77]
+[JPN]
+$zoom13;エクエス　グラディウス
+[KOR]
+$zoom13;에퀘스 글라디우스
+[END]
+
+[00005A96]
+[JPN]
+$zoom13;ブレイクセンサー（Ｌブラック）
+[KOR]
+$zoom13;브레이크 센서(L 블랙)
+[END]

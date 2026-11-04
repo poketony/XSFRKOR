@@ -1,0 +1,117 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think096.sb
+# SHA256: f8f02bff2024729736a584a0d2e75e13ddad2518e3e7b8309280cb65bfffb9e9
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000C25C]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000C271]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000C28C]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000C2B9]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000C2CC]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000C2D7]
+[JPN]
+■雷カウント
+[KOR]
+■번개카운트
+[END]
+
+[0000C2E4]
+[JPN]
+■inoki
+[KOR]
+■inoki
+[END]
+
+[0000C2EC]
+[JPN]
+■雷カウント2
+[KOR]
+■번개카운트2
+[END]
+
+[0000C2FA]
+[JPN]
+■雷カウント3
+[KOR]
+■번개카운트3
+[END]
+
+[0000C308]
+[JPN]
+■雷カウント4
+[KOR]
+■번개카운트4
+[END]
+
+[0000C316]
+[JPN]
+■雷カウント5
+[KOR]
+■번개카운트5
+[END]
+
+[0000C324]
+[JPN]
+■イベントスロットブーストＵＰ
+[KOR]
+■이벤트 슬롯 부스트 UP
+[END]
+
+[0000C343]
+[JPN]
+$zoom13;クラッシュボルトナックル
+[KOR]
+$zoom13;크래시 볼트 너클
+[END]
+
+[0000C364]
+[JPN]
+$zoom13;ショックウェーブ
+[KOR]
+$zoom13;쇼크 웨이브
+[END]
+
+[0000C37D]
+[JPN]
+$zoom13;ティターンカノン
+[KOR]
+$zoom13;티탄 캐논
+[END]
+
+[0000C396]
+[JPN]
+$zoom13;サンダーブラスト
+[KOR]
+$zoom13;선더 블래스트
+[END]

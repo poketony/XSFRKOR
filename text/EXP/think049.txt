@@ -1,0 +1,600 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think049.sb
+# SHA256: 058ba6bf2276c3325ff65fc9e6c2081982c04912bde2fceb79e927b6f06de3b7
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[000105D0]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[000105E5]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[00010600]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0001062D]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[00010640]
+[JPN]
+■■■■Ｊｒの技＝
+[KOR]
+■■■■Jr. 기술＝
+[END]
+
+[00010653]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0001065E]
+[JPN]
+$zoom13;封印の玉座（抗体）
+[KOR]
+$zoom13;봉인의 옥좌(항체)
+[END]
+
+[00010679]
+[JPN]
+$zoom14;$colc0c0c0;　　　オルグイアの威圧により\n$col0fd0e0;　　　　ムーブができない！\n　ブーストカウントを吸収された！$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　　오르기아의 위압으로\n$col0fd0e0;　　　　이동할 수 없다!\n　부스트 카운트를 흡수당했다!$colc0c0c0;
+[END]
+
+[0001070F]
+[JPN]
+$zoom14;$col0fd0e0;　オルグイアの瞳が$cola05050;蒼く$col0fd0e0;輝いた$colc0c0c0;
+[KOR]
+$zoom14;$col0fd0e0;　오르기아 눈,$cola05050; 푸르게$col0fd0e0; 빛났다$colc0c0c0;
+[END]
+
+[000107A0]
+[JPN]
+$zoom14;$col7AF9FB;　　毒の効果がアップした$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　독의 효과가 상승했다$colc0c0c0;
+[END]
+
+[000107FB]
+[JPN]
+■1
+[KOR]
+■1
+[END]
+
+[000107FF]
+[JPN]
+■2
+[KOR]
+■2
+[END]
+
+[00010803]
+[JPN]
+■3
+[KOR]
+■3
+[END]
+
+[00010807]
+[JPN]
+■4
+[KOR]
+■4
+[END]
+
+[0001080B]
+[JPN]
+0除算だから帰還します1
+[KOR]
+0으로 나눠 복귀합니다1
+[END]
+
+[00010822]
+[JPN]
+ステータス異常Ｈ
+[KOR]
+스테이터스 이상H
+[END]
+
+[00010833]
+[JPN]
+ステータス異常Ｌ
+[KOR]
+스테이터스 이상L
+[END]
+
+[00010844]
+[JPN]
+異常者なし
+[KOR]
+이상자없음
+[END]
+
+[0001084F]
+[JPN]
+異常者ありのランダムＴＧＴ
+[KOR]
+이상자 있음 랜덤 TGT
+[END]
+
+[0001086A]
+[JPN]
+0除算だから帰還します2
+[KOR]
+0으로 나눠 복귀합니다2
+[END]
+
+[00010881]
+[JPN]
+0除算だから帰還します3
+[KOR]
+0으로 나눠 복귀합니다3
+[END]
+
+[00010898]
+[JPN]
+オブジェ終了
+[KOR]
+오브젝트종료
+[END]
+
+[000108A5]
+[JPN]
+$zoom14;$colc0c0c0;　オルグイアの瞳が$cola05050;蒼く$colc0c0c0;発光した
+[KOR]
+$zoom14;$colc0c0c0;　오르기아 눈이$cola05050; 푸르게$colc0c0c0; 빛났다
+[END]
+
+[000108ED]
+[JPN]
+$zoom14;$colc0c0c0;　オルグイアの瞳が$col00c050;翠に$colc0c0c0;発光した
+[KOR]
+$zoom14;$colc0c0c0;　오르기아 눈이$col00c050; 녹빛$colc0c0c0;을 냈다
+[END]
+
+[00010948]
+[JPN]
+$zoom13;ベイリンカイン（Ｌポイズン）
+[KOR]
+$zoom13;베일린카인(L 포이즌)
+[END]
+
+[00010980]
+[JPN]
+$zoom13;ベイリンカイングロブス（Ｌポイズン）
+[KOR]
+$zoom13;베일린카인 글로부스(L 포이즌)
+[END]
+
+[000109C0]
+[JPN]
+$zoom13;グロブス
+[KOR]
+$zoom13;글로부스
+[END]
+
+[000109DC]
+[JPN]
+$zoom13;マネス覚醒
+[KOR]
+$zoom13;마네스각성
+[END]
+
+[00010A18]
+[JPN]
+bos010_HP２
+[KOR]
+bos010_HP2
+[END]
+
+[00010A24]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[00010A35]
+[JPN]
+$zoom13;リフレッシュＬ
+[KOR]
+$zoom13;리프레시 L
+[END]
+
+[00010A4C]
+[JPN]
+$zoom13;リフレッシュＨ
+[KOR]
+$zoom13;리프레시 H
+[END]
+
+[00010A63]
+[JPN]
+$zoom13;メディカ
+[KOR]
+$zoom13;메디카
+[END]
+
+[00010A74]
+[JPN]
+$zoom13;暗殺の前夜（抗体＋毒効果ＵＰ）
+[KOR]
+$zoom13;암살 전야(항체＋독 효과 UP)
+[END]
+
+[00010AAD]
+[JPN]
+$zoom14;$colc0c0c0;　　　　第二ウィルスが発動\n$col7AF9FB;　　マネスのステータスが低下した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　　　제2 바이러스 발동\n$col7AF9FB;　　마네스 스테이터스가 저하됐다$colc0c0c0;
+[END]
+
+[00010B13]
+[JPN]
+$zoom13;マネス抑制第二ウィルス
+[KOR]
+$zoom13;마네스억제 제2바이러스
+[END]
+
+[00010B44]
+[JPN]
+$zoom14;$colc0c0c0;　オルグイアの口元が緩んだ
+[KOR]
+$zoom14;$colc0c0c0;　오르기아가 살짝 웃었다
+[END]
+
+[00010B9A]
+[JPN]
+イベントタイマークリティ--
+[KOR]
+이벤트 타이머 크리티컬--
+[END]
+
+[00010BB5]
+[JPN]
+空中
+[KOR]
+공중
+[END]
+
+[00010BBA]
+[JPN]
+空中攻撃
+[KOR]
+공중공격
+[END]
+
+[00010BC3]
+[JPN]
+ダウン専用攻撃++
+[KOR]
+다운 전용 공격++
+[END]
+
+[00010BD4]
+[JPN]
+HP低いtgtは？
+[KOR]
+HP낮은tgt는?
+[END]
+
+[00010BE2]
+[JPN]
+ランダムｔｇｔ
+[KOR]
+랜덤 tgt
+[END]
+
+[00010C03]
+[JPN]
+$zoom13;死の接吻
+[KOR]
+$zoom13;데스키스
+[END]
+
+[00010C14]
+[JPN]
+運命だ
+[KOR]
+운명
+[END]
+
+[00010C1B]
+[JPN]
+運命だ2
+[KOR]
+운명2
+[END]
+
+[00010C23]
+[JPN]
+運命だ3
+[KOR]
+운명3
+[END]
+
+[00010C2B]
+[JPN]
+ランダム暗黒ＳＴＲＵＰ
+[KOR]
+랜덤 암흑 STR UP
+[END]
+
+[00010C44]
+[JPN]
+ETクリティ100％ダウン
+[KOR]
+ET 크리티컬 100% 다운
+[END]
+
+[00010C5A]
+[JPN]
+ETクリティ100％エアー
+[KOR]
+ET 크리티컬 100% 에어
+[END]
+
+[00010C70]
+[JPN]
+ランダム100％ダウン
+[KOR]
+랜덤 100% 다운
+[END]
+
+[00010C84]
+[JPN]
+ランダム100％エアー
+[KOR]
+랜덤 100% 에어
+[END]
+
+[00010C9D]
+[JPN]
+ガードブースト
+[KOR]
+가드 부스트
+[END]
+
+[00010CAC]
+[JPN]
+ダウンカウンターブースト++
+[KOR]
+다운 카운터 부스트++
+[END]
+
+[00010CC7]
+[JPN]
+コンボブーストtgt
+[KOR]
+콤보 부스트 tgt
+[END]
+
+[00010CD9]
+[JPN]
+コンボブーストHP0
+[KOR]
+콤보 부스트 HP0
+[END]
+
+[00010CEB]
+[JPN]
+コンボブースト1rnd
+[KOR]
+콤보 부스트 1rnd
+[END]
+
+[00010CFE]
+[JPN]
+コンボブースト2rnd
+[KOR]
+콤보 부스트 2rnd
+[END]
+
+[00010D11]
+[JPN]
+コンボブースト3rnd
+[KOR]
+콤보 부스트 3rnd
+[END]
+
+[00010D24]
+[JPN]
+コンボブースト5rnd
+[KOR]
+콤보 부스트 5rnd
+[END]
+
+[00010D37]
+[JPN]
+0除算だから帰還します
+[KOR]
+0으로 나눠 복귀합니다
+[END]
+
+[00010D4D]
+[JPN]
+死亡者１名覚醒値-1
+[KOR]
+사망자1명 각성치-1
+[END]
+
+[00010D60]
+[JPN]
+死亡者２名覚醒値-2
+[KOR]
+사망자2명 각성치-2
+[END]
+
+[00010D73]
+[JPN]
+死亡者0人格交代覚醒値++
+[KOR]
+사망0 인격교대 각성치++
+[END]
+
+[00010D8B]
+[JPN]
+攻撃したキャラのＨＰが50％以上++
+[KOR]
+공격한 캐릭터의 HP가 50% 이상++
+[END]
+
+[00010DAC]
+[JPN]
+攻撃したキャラのＨＰが50％以下--
+[KOR]
+공격한 캐릭터의 HP가 50% 이하--
+[END]
+
+[00010DCD]
+[JPN]
+0除算
+[KOR]
+÷0
+[END]
+
+[00010DD3]
+[JPN]
+ＨＰレート
+[KOR]
+HP 비율
+[END]
+
+[00010DDE]
+[JPN]
+HP覚醒値80％以上++
+[KOR]
+HP각성치80% 이상++
+[END]
+
+[00010DF1]
+[JPN]
+HP覚醒値50％以上+3
+[KOR]
+HP각성치50% 이상+3
+[END]
+
+[00010E04]
+[JPN]
+HP覚醒値30％以上+2
+[KOR]
+HP각성치30% 이상+2
+[END]
+
+[00010E17]
+[JPN]
+HP覚醒値0％以上+8
+[KOR]
+HP각성치0% 이상+8
+[END]
+
+[00010E29]
+[JPN]
+トータルフレーム数
+[KOR]
+총 프레임 수
+[END]
+
+[00010E3C]
+[JPN]
+トータルフレーム数下一桁
+[KOR]
+총 프레임 수 일의 자리
+[END]
+
+[00010E55]
+[JPN]
+タイムカウント
+[KOR]
+시간 카운트
+[END]
+
+[00010E64]
+[JPN]
+基本設定値
+[KOR]
+기본설정치
+[END]
+
+[00010E9A]
+[JPN]
+$zoom13;ヴィーグリード
+[KOR]
+$zoom13;비그리드
+[END]
+
+[00010EC4]
+[JPN]
+$zoom13;ヴァルハラ
+[KOR]
+$zoom13;발할라
+[END]
+
+[00010EEA]
+[JPN]
+$zoom13;エインヘリアル
+[KOR]
+$zoom13;에인헤랴르
+[END]
+
+[00010F01]
+[JPN]
+$zoom13;マネス抑制プログラム
+[KOR]
+$zoom13;마네스 억제 프로그램
+[END]
+
+[00010F4E]
+[JPN]
+$zoom13;アイスブラスト
+[KOR]
+$zoom13;아이스블래스트
+[END]
+
+[00010F65]
+[JPN]
+$zoom13;血の契約
+[KOR]
+$zoom13;피의계약
+[END]
+
+[00010F76]
+[JPN]
+$zoom14;$colc0c0c0;　　自分のＨＰを犠牲にして\n$col7AF9FB;　　物理攻撃力を上昇させた$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　자신의 HP를 희생하여\n$col7AF9FB;　　물리 공격력을 높였다$colc0c0c0;
+[END]
+
+[00010FD6]
+[JPN]
+$zoom13;肉の契約
+[KOR]
+$zoom13;살의계약
+[END]
+
+[00010FE7]
+[JPN]
+$zoom14;$colc0c0c0;　　自分のＨＰを犠牲にして\n$col7AF9FB;　ブーストカウントを上昇させた$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　자신의 HP를 희생하여\n$col7AF9FB;　부스트 카운트를 높였다$colc0c0c0;
+[END]

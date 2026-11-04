@@ -1,0 +1,131 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think104.sb
+# SHA256: 7bbc89a6869c9a7124d0bd42e80887887f186cf34a49d00d93eb8e0fcb571e09
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000C5D8]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000C5ED]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000C608]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000C635]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000C648]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000C653]
+[JPN]
+$col7AF9FB;$zoom15;　カイザーシールドに亀裂が生じた！
+[KOR]
+$col7AF9FB;$zoom15;　카이저 실드에 균열이 생겼다!
+[END]
+
+[0000C689]
+[JPN]
+$col7AF9FB;$zoom15;　笑止！\n　勝ち急ぎ使いどころを見誤ったな！
+[KOR]
+$col7AF9FB;$zoom15;　가소롭군!\n　승리를 서둘러 쓸 때를 틀렸군!
+[END]
+
+[0000C6C9]
+[JPN]
+$col7AF9FB;$zoom15;　カイザーシールドが崩壊した！
+[KOR]
+$col7AF9FB;$zoom15;　카이저 실드가 무너졌다!
+[END]
+
+[0000C6FB]
+[JPN]
+$zoom13;ブラックナックル
+[KOR]
+$zoom13;블랙 너클
+[END]
+
+[0000C714]
+[JPN]
+$zoom13;ブラックサイクロン
+[KOR]
+$zoom13;블랙 사이클론
+[END]
+
+[0000C72F]
+[JPN]
+$zoom13;ブラックカオスフレイム
+[KOR]
+$zoom13;블랙 카오스 플레임
+[END]
+
+[0000C74E]
+[JPN]
+$zoom13;ロストミスト（Ｈロスト）
+[KOR]
+$zoom13;로스트 미스트(H 로스트)
+[END]
+
+[0000C76F]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[0000C780]
+[JPN]
+$zoom13;シャドーバインド（Ｈバインド）
+[KOR]
+$zoom13;섀도 바인드(H 바인드)
+[END]
+
+[0000C7A7]
+[JPN]
+$zoom13;カイザーシールド
+[KOR]
+$zoom13;카이저 실드
+[END]
+
+[0000C7C0]
+[JPN]
+$zoom13;フレアヴェール
+[KOR]
+$zoom13;플레어 베일
+[END]
+
+[0000C7D7]
+[JPN]
+$zoom13;オーラヴェール
+[KOR]
+$zoom13;오라 베일
+[END]
+
+[0000C7EE]
+[JPN]
+$zoom13;ブラックウェイブ（ＬエーテルＤＤ）
+[KOR]
+$zoom13;블랙 웨이브(L 에테르 DD)
+[END]

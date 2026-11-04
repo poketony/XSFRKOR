@@ -1,0 +1,82 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think042.sb
+# SHA256: 24f27b2cf8abbc233547a6260a4a088126be86574498a13772bd32903ce2b978
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00005950]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[00005965]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[00005980]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[000059AD]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[000059C2]
+[JPN]
+$zoom13;ケーラテールム　ハインド
+[KOR]
+$zoom13;케라테룸 하인드
+[END]
+
+[000059E3]
+[JPN]
+$zoom13;ファング　ラディウス
+[KOR]
+$zoom13;팽 라디우스
+[END]
+
+[00005A00]
+[JPN]
+$zoom13;プグナ　ヒール
+[KOR]
+$zoom13;푸그나 힐
+[END]
+
+[00005A17]
+[JPN]
+$zoom13;テルムインパクト（Ｌスタン）
+[KOR]
+$zoom13;테룸 임팩트(L 스턴)
+[END]
+
+[00005A3C]
+[JPN]
+$zoom13;アルマ　ライフル
+[KOR]
+$zoom13;아르마 라이플
+[END]
+
+[00005A55]
+[JPN]
+$zoom13;アルマ　ヒール（Ｌスタン）
+[KOR]
+$zoom13;아르마 힐(L 스턴)
+[END]
+
+[00005A78]
+[JPN]
+$zoom13;カノンレイ
+[KOR]
+$zoom13;캐논 레이
+[END]

@@ -1,0 +1,89 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think050.sb
+# SHA256: 06bbca187ad577e7171597bf4741f3c7515392e831596f9cb3dd843305a5c3b9
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00005EC0]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[00005ED5]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[00005EF0]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00005F1D]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[00005F32]
+[JPN]
+$zoom14;$col7AF9FB;パワー充填中$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;파워 충전 중$colc0c0c0;
+[END]
+
+[00005F5D]
+[JPN]
+$zoom13;フルカ　サール
+[KOR]
+$zoom13;풀카 사르
+[END]
+
+[00005F74]
+[JPN]
+$zoom13;エクセンプラル　８８（Ｌウィーク）
+[KOR]
+$zoom13;엑셈플라르 88(L 위크)
+[END]
+
+[00005F9F]
+[JPN]
+$zoom13;ポッド射出
+[KOR]
+$zoom13;포드 사출
+[END]
+
+[00005FB2]
+[JPN]
+$zoom13;自動追尾レーザー
+[KOR]
+$zoom13;자동 추적 레이저
+[END]
+
+[00005FCB]
+[JPN]
+$zoom13;ブレイクアーマー
+[KOR]
+$zoom13;브레이크 아머
+[END]
+
+[00005FE4]
+[JPN]
+$zoom13;自動殲滅モード
+[KOR]
+$zoom13;자동 섬멸 모드
+[END]
+
+[00005FFB]
+[JPN]
+$zoom13;自動破壊モード
+[KOR]
+$zoom13;자동 파괴 모드
+[END]

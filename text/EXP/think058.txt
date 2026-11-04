@@ -1,0 +1,201 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think058.sb
+# SHA256: cb2fb949c00fb87a18ab25d8d3b66ea3ae82861e6fa57680c73609c892b57d70
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000BC28]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000BC3D]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000BC58]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000BC85]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000BC98]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000BCA3]
+[JPN]
+$zoom14;$colc0c0c0;対象者の活力を読んだ
+[KOR]
+$zoom14;$colc0c0c0;대상의 활력을 읽었다
+[END]
+
+[0000BCCB]
+[JPN]
+$zoom14;$colc0c0c0;対象者の精神力を読んだ
+[KOR]
+$zoom14;$colc0c0c0;대상의 정신력을 읽었다
+[END]
+
+[0000BCF5]
+[JPN]
+■■リフレッシュ１
+[KOR]
+■■리프레시 1
+[END]
+
+[0000BD08]
+[JPN]
+■■リフレッシュ2
+[KOR]
+■■리프레시 2
+[END]
+
+[0000BD1A]
+[JPN]
+■■ユニットナンバー
+[KOR]
+■■유닛 번호
+[END]
+
+[0000BD2F]
+[JPN]
+$zoom14;$colc0c0c0;テレパシーの効力が弱まった
+[KOR]
+$zoom14;$colc0c0c0;텔레파시의 효력이 약해졌다
+[END]
+
+[0000BD5D]
+[JPN]
+■■ATK_Phase2
+[KOR]
+■■ATK_Phase2
+[END]
+
+[0000BD6C]
+[JPN]
+■■ATK_Phase3
+[KOR]
+■■ATK_Phase3
+[END]
+
+[0000BD7B]
+[JPN]
+■■ATK_Phase4
+[KOR]
+■■ATK_Phase4
+[END]
+
+[0000BD8A]
+[JPN]
+■■ATK_Phase5
+[KOR]
+■■ATK_Phase5
+[END]
+
+[0000BD99]
+[JPN]
+$zoom13;グリプスクロウ
+[KOR]
+$zoom13;그립스 클로
+[END]
+
+[0000BDB0]
+[JPN]
+$zoom13;サンダーブレス
+[KOR]
+$zoom13;선더 브레스
+[END]
+
+[0000BDC7]
+[JPN]
+$zoom13;邪視（Ｈストップ）
+[KOR]
+$zoom13;사시(H 스톱)
+[END]
+
+[0000BDE2]
+[JPN]
+$zoom13;邪眼（Ｌスタン）
+[KOR]
+$zoom13;사안(L 스턴)
+[END]
+
+[0000BDFB]
+[JPN]
+$zoom13;リフレッシュＬ
+[KOR]
+$zoom13;리프레시 L
+[END]
+
+[0000BE12]
+[JPN]
+$zoom13;リフレッシュＨ
+[KOR]
+$zoom13;리프레시 H
+[END]
+
+[0000BE29]
+[JPN]
+$zoom13;ＨＰドレイン
+[KOR]
+$zoom13;HP 드레인
+[END]
+
+[0000BE3E]
+[JPN]
+$zoom13;ＥＰドレイン
+[KOR]
+$zoom13;EP 드레인
+[END]
+
+[0000BE53]
+[JPN]
+$zoom13;サンダーブラスト
+[KOR]
+$zoom13;선더 블래스트
+[END]
+
+[0000BE6C]
+[JPN]
+■■ステータス異常Ｈ
+[KOR]
+■■스테이터스 이상H
+[END]
+
+[0000BE81]
+[JPN]
+■■ステータス異常Ｌ
+[KOR]
+■■스테이터스 이상L
+[END]
+
+[0000BE96]
+[JPN]
+■■異常者なし
+[KOR]
+■■이상자없음
+[END]
+
+[0000BEA5]
+[JPN]
+■■生存者
+[KOR]
+■■생존자
+[END]

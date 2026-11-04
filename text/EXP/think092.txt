@@ -1,0 +1,299 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think092.sb
+# SHA256: b4a9a7102fa75f55e06bc92ecb0c6de5053cc5ef84012747ae7054b4398ea1c0
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00010E18]
+[JPN]
+$zoom14;$colc0c0c0;ビッグウェーーーーブ！！
+[KOR]
+$zoom14;$colc0c0c0;빅 웨~~~이브!!
+[END]
+
+[00010E44]
+[JPN]
+$zoom14;$colc0c0c0;どこか不機嫌そうだ・・・
+[KOR]
+$zoom14;$colc0c0c0;왠지 언짢아 보인다・・・
+[END]
+
+[00010E70]
+[JPN]
+$zoom13;ナックルインパクト
+[KOR]
+$zoom13;너클 임팩트
+[END]
+
+[00010E8B]
+[JPN]
+$zoom13;エアーライディング
+[KOR]
+$zoom13;에어 라이딩
+[END]
+
+[00010EA6]
+[JPN]
+$zoom14;$colc0c0c0;デイオンは周辺の匂いを嗅ぎ出した！
+[KOR]
+$zoom14;$colc0c0c0;데이온, 주위 냄새를 맡기 시작했다!
+[END]
+
+[00010EDC]
+[JPN]
+$zoom14;$colc0c0c0;匂いの元へ突進した！
+[KOR]
+$zoom14;$colc0c0c0;냄새 쪽에 돌진했다!
+[END]
+
+[00010F04]
+[JPN]
+$zoom13;しっぽ斬り
+[KOR]
+$zoom13;꼬리 베기
+[END]
+
+[00010F17]
+[JPN]
+$zoom13;しゃくりあげ
+[KOR]
+$zoom13;올려치기
+[END]
+
+[00010F2C]
+[JPN]
+$zoom13;種爆弾
+[KOR]
+$zoom13;종자탄
+[END]
+
+[00010F3B]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[00010F4C]
+[JPN]
+$zoom13;シェイブパワー
+[KOR]
+$zoom13;셰이브 파워
+[END]
+
+[00010F63]
+[JPN]
+$zoom13;シェイブブレイン
+[KOR]
+$zoom13;셰이브 브레인
+[END]
+
+[00010F7C]
+[JPN]
+$zoom13;シェイブオーラ
+[KOR]
+$zoom13;셰이브 오라
+[END]
+
+[00010F93]
+[JPN]
+$zoom13;メディカ
+[KOR]
+$zoom13;메디카
+[END]
+
+[00010FA4]
+[JPN]
+$zoom14;$colc0c0c0;　　三戦立ちの構えを崩した！
+[KOR]
+$zoom14;$colc0c0c0;　　삼전서기 자세를 깼다!
+[END]
+
+[00010FD4]
+[JPN]
+$zoom13;右下段回し蹴り
+[KOR]
+$zoom13;우하단돌려차기
+[END]
+
+[00010FEB]
+[JPN]
+$zoom13;羅刹門・改　２７Ｆ
+[KOR]
+$zoom13;나찰문·개　27F
+[END]
+
+[00011006]
+[JPN]
+$zoom13;三戦立ち
+[KOR]
+$zoom13;삼전서기
+[END]
+
+[00011017]
+[JPN]
+$zoom14;$colc0c0c0;　　　　三戦立ちの構え！\n　カウンタースタイルになった
+[KOR]
+$zoom14;$colc0c0c0;　　　　삼전서기 자세!\n　카운터 스타일이 됐다
+[END]
+
+[00011061]
+[JPN]
+$zoom13;残心
+[KOR]
+$zoom13;잔심
+[END]
+
+[0001106E]
+[JPN]
+$zoom13;囁く雨
+[KOR]
+$zoom13;밀어비
+[END]
+
+[0001107D]
+[JPN]
+$zoom13;ブーストワン
+[KOR]
+$zoom13;부스트 원
+[END]
+
+[00011092]
+[JPN]
+$zoom13;ミラクルスター
+[KOR]
+$zoom13;미라클 스타
+[END]
+
+[000110A9]
+[JPN]
+$zoom13;戒め
+[KOR]
+$zoom13;계율
+[END]
+
+[000110B6]
+[JPN]
+$zoom14;$colc0c0c0;「・ぉｆいが亜ｆ・多雨ウｓ」$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;「・오f이가 아f・타우우s」$colc0c0c0;
+[END]
+
+[000110F1]
+[JPN]
+$zoom14;$colc0c0c0;「・・ぉい・・にっ・」$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;「・・・이・・・냄・」$colc0c0c0;
+[END]
+
+[00011126]
+[JPN]
+$zoom14;$colc0c0c0;「・ロイ・おいに・イ・」$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;「・로이・새냄・새・」$colc0c0c0;
+[END]
+
+[0001115D]
+[JPN]
+$zoom14;$colc0c0c0;「ロイの・匂いが・する・・」\n$col7AF9FB;　ブレイクブロックが外れた！$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;「로이의・냄새가・난다・・・」\n$col7AF9FB;　브레이크 블록이 풀렸다!$colc0c0c0;
+[END]
+
+[000111C1]
+[JPN]
+$zoom14;$colc0c0c0;「・・意識が・・俺が・消える・・」\n$col7AF9FB;　　デュリアソウルの意識が消え\n　　完全なグノーシスと化した！$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;「・・・의식・・・ 난・사라져・・・」\n$col7AF9FB;　　듀리아 소울의 의식 소멸로\n　　완전한 그노시스가 됐다!$colc0c0c0;
+[END]
+
+[0001124D]
+[JPN]
+$zoom14;$colc0c0c0;　「水色・１」\n　「黄色・３」$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　「하늘・1」\n　「노랑・3」$colc0c0c0;
+[END]
+
+[0001128A]
+[JPN]
+$zoom14;$colc0c0c0;　「青・５」\n　「赤・７」$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　「청・5」\n　「적・7」$colc0c0c0;
+[END]
+
+[000112C3]
+[JPN]
+$zoom14;$colc0c0c0;　「オレンジ・−２」\n　　「灰色・−４」$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　「주황색・-2」\n　　「회색・-4」$colc0c0c0;
+[END]
+
+[0001130A]
+[JPN]
+$zoom14;$colc0c0c0;　「紫・−６」\n　「緑・−８」$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　「보라・-6」\n　「초록・-8」$colc0c0c0;
+[END]
+
+[00011347]
+[JPN]
+$zoom14;$colc0c0c0;「意識・消失・前に・これだけはッ」$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;「의식・잃기・전에・이것만은!」$colc0c0c0;
+[END]
+
+[00011388]
+[JPN]
+$zoom13;ピック　ジャブ
+[KOR]
+$zoom13;픽 잽
+[END]
+
+[0001139F]
+[JPN]
+$zoom13;肉絶ちの疾風
+[KOR]
+$zoom13;살끊는 질풍
+[END]
+
+[000113B4]
+[JPN]
+$zoom13;私語厳禁（ＨバーストＥＰ）
+[KOR]
+$zoom13;잡담 엄금(H 버스트 EP)
+[END]
+
+[000113D7]
+[JPN]
+$zoom13;発狂
+[KOR]
+$zoom13;발광
+[END]
+
+[000113E4]
+[JPN]
+$zoom14;$col7AF9FB;　室内にメタンガスが充満した$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　실내에 메탄가스가 찼다$colc0c0c0;
+[END]
+
+[0001141F]
+[JPN]
+$zoom13;骨絶ちの疾風
+[KOR]
+$zoom13;뼈끊는 질풍
+[END]
+
+[00011434]
+[JPN]
+$zoom13;着火
+[KOR]
+$zoom13;점화
+[END]
+
+[00011441]
+[JPN]
+$zoom13;腐敗ガス（Ｌポイズン）
+[KOR]
+$zoom13;부패 가스(L 포이즌)
+[END]

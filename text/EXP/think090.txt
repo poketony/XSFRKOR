@@ -1,0 +1,201 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think090.sb
+# SHA256: 1102e321954e96c8391a5f5d21c480656f1ffc605ac1b7ed611068254a33ed0f
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000E06C]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000E081]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000E09C]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000E0C9]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000E0DC]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000E0E7]
+[JPN]
+■防御弱体思考
+[KOR]
+■방어약화사고
+[END]
+
+[0000E0F6]
+[JPN]
+■攻撃弱体思考
+[KOR]
+■공격약화사고
+[END]
+
+[0000E105]
+[JPN]
+■ヘイスト・回復思考
+[KOR]
+■헤이스트·회복사고
+[END]
+
+[0000E11A]
+[JPN]
+■味方のナンバー？
+[KOR]
+■아군 번호?
+[END]
+
+[0000E12D]
+[JPN]
+■SPEED25
+[KOR]
+■SPEED25
+[END]
+
+[0000E137]
+[JPN]
+■クイックハズレ攻撃
+[KOR]
+■퀵 실패 공격
+[END]
+
+[0000E14C]
+[JPN]
+■味方の中からHP低いやつのレート
+[KOR]
+■아군 중 HP 낮은 녀석의 비율
+[END]
+
+[0000E16D]
+[JPN]
+■味方は何人？
+[KOR]
+■아군 몇 명?
+[END]
+
+[0000E17C]
+[JPN]
+$zoom13;種爆弾
+[KOR]
+$zoom13;종자탄
+[END]
+
+[0000E18B]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[0000E19C]
+[JPN]
+$zoom13;シェイブパワー
+[KOR]
+$zoom13;셰이브 파워
+[END]
+
+[0000E1B3]
+[JPN]
+$zoom13;シェイブブレイン
+[KOR]
+$zoom13;셰이브 브레인
+[END]
+
+[0000E1CC]
+[JPN]
+$zoom13;シェイブオーラ
+[KOR]
+$zoom13;셰이브 오라
+[END]
+
+[0000E1E3]
+[JPN]
+$zoom13;メディカ
+[KOR]
+$zoom13;메디카
+[END]
+
+[0000E1F4]
+[JPN]
+■gno004_ATK_Phase
+[KOR]
+■gno004_ATK_Phase
+[END]
+
+[0000E207]
+[JPN]
+■gno004_DEF_Phase
+[KOR]
+■gno004_DEF_Phase
+[END]
+
+[0000E21A]
+[JPN]
+$zoom14;$colc0c0c0;　　三戦立ちの構えを崩した！
+[KOR]
+$zoom14;$colc0c0c0;　　삼전서기 자세를 깼다!
+[END]
+
+[0000E24A]
+[JPN]
+■連携ナンバー
+[KOR]
+■연계 번호
+[END]
+
+[0000E259]
+[JPN]
+$zoom13;右下段回し蹴り
+[KOR]
+$zoom13;우하단돌려차기
+[END]
+
+[0000E270]
+[JPN]
+$zoom13;羅刹門・改　２７Ｆ
+[KOR]
+$zoom13;나찰문·개　27F
+[END]
+
+[0000E28B]
+[JPN]
+$zoom13;三戦立ち
+[KOR]
+$zoom13;삼전서기
+[END]
+
+[0000E29C]
+[JPN]
+$zoom14;$colc0c0c0;　　　　三戦立ちの構え！\n　カウンタースタイルになった
+[KOR]
+$zoom14;$colc0c0c0;　　　　삼전서기 자세!\n　카운터 스타일이 됐다
+[END]
+
+[0000E2E6]
+[JPN]
+$zoom13;残心
+[KOR]
+$zoom13;잔심
+[END]

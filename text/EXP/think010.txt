@@ -1,0 +1,54 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think010.sb
+# SHA256: 563082a480b2094ba124857ca84edcac4f76d7b480959664a0a44ceeb01c48c4
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000BAD8]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000BAED]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000BB08]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000BB35]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000BB48]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000BB53]
+[JPN]
+$zoom15;$col7AF9FB;　現在のイベントスロットをメモリー$colc0c0c0;
+[KOR]
+$zoom15;$col7AF9FB;　현재 이벤트 슬롯을 기억$colc0c0c0;
+[END]
+
+[0000BB94]
+[JPN]
+$zoom13;サギタ　ライフル
+[KOR]
+$zoom13;사기타 라이플
+[END]

@@ -1,0 +1,145 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think048.sb
+# SHA256: 8bc0f72ca2e2ad5aeb41c2b17813c7a8d7a5774c3af8cabbb1c6224c1ea7591c
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000D928]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000D93D]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000D958]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000D985]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000D998]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000D9A3]
+[JPN]
+$zoom13;黒塚（Ｌポイズン）
+[KOR]
+$zoom13;구로즈카(L 포이즌)
+[END]
+
+[0000D9BE]
+[JPN]
+$zoom13;鉄輪　前ジテ
+[KOR]
+$zoom13;철륜 전 시테
+[END]
+
+[0000D9D3]
+[JPN]
+$zoom13;鉄輪　後ジテ
+[KOR]
+$zoom13;철륜 후 시테
+[END]
+
+[0000D9E8]
+[JPN]
+$zoom13;枕慈童
+[KOR]
+$zoom13;침자동
+[END]
+
+[0000D9F7]
+[JPN]
+$col7AF9FB;$zoom15;　対属性ボルテージＭＡＸ！
+[KOR]
+$col7AF9FB;$zoom15;　대속성 볼티지 MAX!
+[END]
+
+[0000DA25]
+[JPN]
+$zoom13;葵上呪殺（Ｌスロウ）
+[KOR]
+$zoom13;규상 주살(L 슬로)
+[END]
+
+[0000DA42]
+[JPN]
+$zoom13;安達ヶ原氷結
+[KOR]
+$zoom13;안달원 빙결
+[END]
+
+[0000DA57]
+[JPN]
+$zoom13;筋力退散（Ｌヘビー）
+[KOR]
+$zoom13;근력 퇴산(L 헤비)
+[END]
+
+[0000DA74]
+[JPN]
+$zoom13;精神退散（ＬエーテルＰＤ）
+[KOR]
+$zoom13;정신 퇴산(L 에테르 PD)
+[END]
+
+[0000DA97]
+[JPN]
+$zoom13;ダブルタップス
+[KOR]
+$zoom13;더블 탭스
+[END]
+
+[0000DAAE]
+[JPN]
+$zoom13;フルマガジンショット
+[KOR]
+$zoom13;풀 매거진 샷
+[END]
+
+[0000DACB]
+[JPN]
+$zoom13;オペレーションＡ
+[KOR]
+$zoom13;오퍼레이션 A
+[END]
+
+[0000DAE4]
+[JPN]
+$zoom13;撤退
+[KOR]
+$zoom13;철수
+[END]
+
+[0000DAF1]
+[JPN]
+$zoom13;チェーンガン
+[KOR]
+$zoom13;체인 건
+[END]
+
+[0000DB06]
+[JPN]
+$zoom13;エネルギー爆雷
+[KOR]
+$zoom13;에너지 폭뢰
+[END]

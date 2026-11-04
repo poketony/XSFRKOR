@@ -1,0 +1,565 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think015.sb
+# SHA256: 229d6a5144da92fb013fdf283539d567db7c225eefb34bdd038db74e64f336d6
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000EC44]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000EC59]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000EC74]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000ECA1]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000ECB4]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000ECBF]
+[JPN]
+■■サンダーヴェール
+[KOR]
+■■선더 베일
+[END]
+
+[0000ECEA]
+[JPN]
+■■アーマーフィールド
+[KOR]
+■■아머 필드
+[END]
+
+[0000ED01]
+[JPN]
+■■ランダム数
+[KOR]
+■■난수
+[END]
+
+[0000ED10]
+[JPN]
+■■リフレッシュ１
+[KOR]
+■■리프레시 1
+[END]
+
+[0000ED23]
+[JPN]
+■■リフレッシュ2
+[KOR]
+■■리프레시 2
+[END]
+
+[0000ED35]
+[JPN]
+■■味方のHPチェック
+[KOR]
+■■아군 HP 확인
+[END]
+
+[0000ED60]
+[JPN]
+■■味方回復
+[KOR]
+■■아군회복
+[END]
+
+[0000ED6D]
+[JPN]
+■■BC+1 ブーストＯＮ
+[KOR]
+■■BC+1 부스트 ON
+[END]
+
+[0000ED83]
+[JPN]
+■■ブーストＯＮ
+[KOR]
+■■부스트 ON
+[END]
+
+[0000ED94]
+[JPN]
+■■ヘルマンThinkLevel1
+[KOR]
+■■헤르만 ThinkLevel1
+[END]
+
+[0000EDAC]
+[JPN]
+■■ヘルマンThinkLevel2
+[KOR]
+■■헤르만 ThinkLevel2
+[END]
+
+[0000EDC4]
+[JPN]
+■■ヘルマンThinkLevel3
+[KOR]
+■■헤르만 ThinkLevel3
+[END]
+
+[0000EE1E]
+[JPN]
+■■女性がいない
+[KOR]
+■■여성 없음
+[END]
+
+[0000EE2F]
+[JPN]
+■■女性発見
+[KOR]
+■■여성발견
+[END]
+
+[0000EE3C]
+[JPN]
+■■C0女性以外攻撃
+[KOR]
+■■C0 여성외공격
+[END]
+
+[0000EE4F]
+[JPN]
+■■C1-0女性以外攻撃
+[KOR]
+■■C1-0 여성외공격
+[END]
+
+[0000EE64]
+[JPN]
+■■C1-1女性以外攻撃
+[KOR]
+■■C1-1 여성외공격
+[END]
+
+[0000EE79]
+[JPN]
+■■C2女性以外攻撃
+[KOR]
+■■C2 여성외공격
+[END]
+
+[0000EE8C]
+[JPN]
+■■カウンターブースト
+[KOR]
+■■카운터 부스트
+[END]
+
+[0000EEA3]
+[JPN]
+ぶーすとかうんと　　
+[KOR]
+부스트 카운트　　
+[END]
+
+[0000EEB8]
+[JPN]
+■■ステータス異常Ｈ
+[KOR]
+■■스테이터스 이상H
+[END]
+
+[0000EECD]
+[JPN]
+■■ステータス異常Ｌ
+[KOR]
+■■스테이터스 이상L
+[END]
+
+[0000EEE2]
+[JPN]
+■■異常者なし
+[KOR]
+■■이상자없음
+[END]
+
+[0000EEF1]
+[JPN]
+★Womanplayerget
+[KOR]
+★Womanplayerget
+[END]
+
+[0000EF02]
+[JPN]
+★Womanplayerget0
+[KOR]
+★Womanplayerget0
+[END]
+
+[0000EF14]
+[JPN]
+★Womanplayerget1
+[KOR]
+★Womanplayerget1
+[END]
+
+[0000EF26]
+[JPN]
+★Womanplayerget2
+[KOR]
+★Womanplayerget2
+[END]
+
+[0000EF38]
+[JPN]
+★Womanplayerget99
+[KOR]
+★Womanplayerget99
+[END]
+
+[0000EF4B]
+[JPN]
+■■Womanplayerget
+[KOR]
+■■Womanplayerget
+[END]
+
+[0000EF5E]
+[JPN]
+■■Womanplayerget0
+[KOR]
+■■Womanplayerget0
+[END]
+
+[0000EF72]
+[JPN]
+■■Womanplayerget1
+[KOR]
+■■Womanplayerget1
+[END]
+
+[0000EF86]
+[JPN]
+■■Womanplayerget2
+[KOR]
+■■Womanplayerget2
+[END]
+
+[0000EF9A]
+[JPN]
+■■Womanplayerget99
+[KOR]
+■■Womanplayerget99
+[END]
+
+[0000EFAF]
+[JPN]
+$zoom13;センテンツァ（Ｌスロウ）
+[KOR]
+$zoom13;센텐차(L 슬로)
+[END]
+
+[0000EFD0]
+[JPN]
+$zoom13;ファインレイ
+[KOR]
+$zoom13;파인 레이
+[END]
+
+[0000EFE5]
+[JPN]
+$zoom13;センテンツァ
+[KOR]
+$zoom13;센텐차
+[END]
+
+[0000EFFA]
+[JPN]
+攻撃３
+[KOR]
+공격 3
+[END]
+
+[0000F001]
+[JPN]
+$zoom13;リフレッシュＬ
+[KOR]
+$zoom13;리프레시 L
+[END]
+
+[0000F018]
+[JPN]
+$zoom13;リフレッシュＨ
+[KOR]
+$zoom13;리프레시 H
+[END]
+
+[0000F02F]
+[JPN]
+$zoom13;シェイブアイ
+[KOR]
+$zoom13;셰이브 아이
+[END]
+
+[0000F044]
+[JPN]
+$zoom13;メディカ
+[KOR]
+$zoom13;메디카
+[END]
+
+[0000F055]
+[JPN]
+$zoom13;アーマーフィールド
+[KOR]
+$zoom13;아머 필드
+[END]
+
+[0000F070]
+[JPN]
+$zoom13;雷の恩寵
+[KOR]
+$zoom13;번개은총
+[END]
+
+[0000F081]
+[JPN]
+$zoom14;$col7AF9FB;センテンツァに雷のエーテルが満ちた$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;센텐차에 번개 에테르가 충만해졌다$colc0c0c0;
+[END]
+
+[0000F0C2]
+[JPN]
+★★フレアヴェール
+[KOR]
+★★플레어 베일
+[END]
+
+[0000F0D5]
+[JPN]
+★★アタッカー
+[KOR]
+★★어태커
+[END]
+
+[0000F0FA]
+[JPN]
+★★ThinkLevel1
+[KOR]
+★★ThinkLevel1
+[END]
+
+[0000F10A]
+[JPN]
+★★ThinkLevel2
+[KOR]
+★★ThinkLevel2
+[END]
+
+[0000F11A]
+[JPN]
+★★ThinkLevel3
+[KOR]
+★★ThinkLevel3
+[END]
+
+[0000F140]
+[JPN]
+★人形以外に用はない！
+[KOR]
+★인형만 필요하다!
+[END]
+
+[0000F16D]
+[JPN]
+★さあ！その人形を渡すんだ！
+[KOR]
+★자! 그 인형을 넘겨라!
+[END]
+
+[0000F18A]
+[JPN]
+★ランダム数
+[KOR]
+★난수
+[END]
+
+[0000F197]
+[JPN]
+★
+[KOR]
+★
+[END]
+
+[0000F1B0]
+[JPN]
+★ブーストカウントアップ+1
+[KOR]
+★부스트 카운트 증가+1
+[END]
+
+[0000F1E1]
+[JPN]
+★ブーストカウントアップ+3
+[KOR]
+★부스트 카운트 증가+3
+[END]
+
+[0000F1FC]
+[JPN]
+★ノーマルブースト１
+[KOR]
+★노멀 부스트 1
+[END]
+
+[0000F211]
+[JPN]
+★カウンターブースト
+[KOR]
+★카운터 부스트
+[END]
+
+[0000F226]
+[JPN]
+★ノーマルブースト２
+[KOR]
+★노멀 부스트 2
+[END]
+
+[0000F23B]
+[JPN]
+★女性がいない
+[KOR]
+★여성 없음
+[END]
+
+[0000F24A]
+[JPN]
+★女性発見
+[KOR]
+★여성발견
+[END]
+
+[0000F255]
+[JPN]
+★C0女性以外攻撃
+[KOR]
+★C0 여성외공격
+[END]
+
+[0000F266]
+[JPN]
+★C1-0女性以外攻撃
+[KOR]
+★C1-0 여성외공격
+[END]
+
+[0000F279]
+[JPN]
+★C1-1女性以外攻撃
+[KOR]
+★C1-1 여성외공격
+[END]
+
+[0000F28C]
+[JPN]
+★C2女性以外攻撃
+[KOR]
+★C2 여성외공격
+[END]
+
+[0000F29D]
+[JPN]
+★Womanplayerget2 0
+[KOR]
+★Womanplayerget2 0
+[END]
+
+[0000F2B1]
+[JPN]
+★Womanplayerget2 1
+[KOR]
+★Womanplayerget2 1
+[END]
+
+[0000F2C5]
+[JPN]
+★Womanplayerget2 2
+[KOR]
+★Womanplayerget2 2
+[END]
+
+[0000F2D9]
+[JPN]
+★Womanplayerget2 99
+[KOR]
+★Womanplayerget2 99
+[END]
+
+[0000F2EE]
+[JPN]
+★現在のブースト数
+[KOR]
+★현재 부스트 수
+[END]
+
+[0000F301]
+[JPN]
+$zoom13;アンピュルシオン（Ｌウィーク）
+[KOR]
+$zoom13;앵퓔시옹(L 위크)
+[END]
+
+[0000F328]
+[JPN]
+$zoom13;エガリテランチャー
+[KOR]
+$zoom13;에갈리테 런처
+[END]
+
+[0000F343]
+[JPN]
+$zoom13;アタッカー
+[KOR]
+$zoom13;어태커
+[END]
+
+[0000F356]
+[JPN]
+$zoom14;$col7AF9FB;自律プログラムが攻撃型へシフトした$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;자율 프로그램이 공격형이 됐다$colc0c0c0;
+[END]
+
+[0000F397]
+[JPN]
+$zoom13;追加弾倉転送
+[KOR]
+$zoom13;추가탄창전송
+[END]
+
+[0000F3AC]
+[JPN]
+$zoom14;$col7AF9FB;エガリテに追加弾倉が転送された$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;에갈리테에 추가탄창이 전송됐다$colc0c0c0;
+[END]

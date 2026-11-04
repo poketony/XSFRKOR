@@ -1,0 +1,215 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think101.sb
+# SHA256: ff2158b6f9f0b09d14d6faa4749980764c03e41f653a6c544f8666e8135ada84
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000D85C]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000D871]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000D88C]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000D8B9]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000D8CC]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000D8D7]
+[JPN]
+$zoom14;$colc0c0c0;　　やっと２５匹か・・・\n　　まだまだ宴は続くぞ！$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　겨우 25마리냐・・・\n　　아직 잔치는 계속돼!$colc0c0c0;
+[END]
+
+[0000D928]
+[JPN]
+$zoom14;$colc0c0c0;　　　　残り５０！\n　宴は始まったばかりだ！$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　　　남은 건 50!\n　잔치는 막 시작됐다!$colc0c0c0;
+[END]
+
+[0000D973]
+[JPN]
+$zoom14;$col7AF9FB;　　　７５匹突破！\n　　宴は最高潮だな！！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　　75마리 돌파!\n　　잔치는 절정이다!!$colc0c0c0;
+[END]
+
+[0000D9BC]
+[JPN]
+$zoom14;$col7AF9FB;　　　　　あと５匹！！！$colc0c0c0;\n良くやった！　ん？疲労してるな？\nこれは俺からの褒美だ！受け取れぇー！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　　　　앞으로 5마리!!!$colc0c0c0;\n잘했다!　응? 지쳤구나?\n내가 주는 상이다! 받아라아ー!$colc0c0c0;
+[END]
+
+[0000DA46]
+[JPN]
+■■召喚した兵士の数1
+[KOR]
+■■소환한 병사 수 1
+[END]
+
+[0000DA5C]
+[JPN]
+■ユニットナンバー
+[KOR]
+■유닛 번호
+[END]
+
+[0000DA6F]
+[JPN]
+■■ck
+[KOR]
+■■ck
+[END]
+
+[0000DA76]
+[JPN]
+■■召喚した兵士の数2
+[KOR]
+■■소환한 병사 수 2
+[END]
+
+[0000DA8C]
+[JPN]
+■■ATK_Lv_4_Phase
+[KOR]
+■■ATK_Lv_4_Phase
+[END]
+
+[0000DA9F]
+[JPN]
+■■ATK_Lv_3_Phase
+[KOR]
+■■ATK_Lv_3_Phase
+[END]
+
+[0000DAB2]
+[JPN]
+■■ATK_Lv_2_Phase
+[KOR]
+■■ATK_Lv_2_Phase
+[END]
+
+[0000DAC5]
+[JPN]
+■■Normal_ATK_Phase
+[KOR]
+■■Normal_ATK_Phase
+[END]
+
+[0000DADA]
+[JPN]
+■味方のナンバーは？
+[KOR]
+■아군 번호는?
+[END]
+
+[0000DAEF]
+[JPN]
+■SPEED25
+[KOR]
+■SPEED25
+[END]
+
+[0000DAF9]
+[JPN]
+$zoom13;誓いの握手
+[KOR]
+$zoom13;맹세악수
+[END]
+
+[0000DB0C]
+[JPN]
+$zoom13;従属の証明
+[KOR]
+$zoom13;종속증명
+[END]
+
+[0000DB1F]
+[JPN]
+$zoom13;甘い囁き
+[KOR]
+$zoom13;달콤밀어
+[END]
+
+[0000DB30]
+[JPN]
+$zoom13;震える声
+[KOR]
+$zoom13;떨림음성
+[END]
+
+[0000DB41]
+[JPN]
+$zoom13;マーチ　ザ　メロス
+[KOR]
+$zoom13;마치 더 멜로스
+[END]
+
+[0000DB5C]
+[JPN]
+$zoom13;満月の小夜曲
+[KOR]
+$zoom13;만월의소야곡
+[END]
+
+[0000DB71]
+[JPN]
+$zoom13;メディカ
+[KOR]
+$zoom13;메디카
+[END]
+
+[0000DB82]
+[JPN]
+$zoom13;癒しの水
+[KOR]
+$zoom13;치유의물
+[END]
+
+[0000DB93]
+[JPN]
+■■mem1
+[KOR]
+■■mem1
+[END]
+
+[0000DB9C]
+[JPN]
+■■solct
+[KOR]
+■■solct
+[END]
+
+[0000DBA6]
+[JPN]
+$zoom13;舞踏会への招待状
+[KOR]
+$zoom13;무도회 초대장
+[END]

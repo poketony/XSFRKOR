@@ -1,0 +1,89 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think011.sb
+# SHA256: b59006550a1f1d31ecef051db9538f5b489ea70f38eb2d8f87b2b5fb2e4d050e
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000C99C]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000C9B1]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000C9CC]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000C9F9]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000CA0C]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000CA17]
+[JPN]
+$zoom13;マクシミリアン　Ｇ４
+[KOR]
+$zoom13;막시밀리안 G4
+[END]
+
+[0000CA34]
+[JPN]
+$zoom13;グレネード
+[KOR]
+$zoom13;그레네이드
+[END]
+
+[0000CA47]
+[JPN]
+$zoom13;ハイアムズＰ８８Ｒ
+[KOR]
+$zoom13;하이암즈 P88R
+[END]
+
+[0000CA62]
+[JPN]
+$zoom13;スタングレネード（Ｌブラック）
+[KOR]
+$zoom13;스턴 그레네이드(L 블랙)
+[END]
+
+[0000CA89]
+[JPN]
+$col7AF9FB;$zoom17;　恐れるな！クズども！
+[KOR]
+$col7AF9FB;$zoom17;　겁내 마! 쓰레기들!
+[END]
+
+[0000CAB3]
+[JPN]
+$col7AF9FB;$zoom17;　我が部隊の力！教えてやれ！
+[KOR]
+$col7AF9FB;$zoom17;　우리 부대 힘! 보여 줘라!
+[END]
+
+[0000CAE3]
+[JPN]
+$zoom13;１２．７ｍｍ機関銃
+[KOR]
+$zoom13;12.7mm 기관총
+[END]

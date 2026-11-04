@@ -1,0 +1,68 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think995.sb
+# SHA256: 69e8c09d541593783d07d0ff3eb13731da367e6e71853dc22700719e510a53f0
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000B480]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000B495]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000B4B0]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000B4DD]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000B4F0]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000B4FB]
+[JPN]
+$zoom13;２０Ｙレイドバッシュ
+[KOR]
+$zoom13;20Y 레이드 배시
+[END]
+
+[0000B518]
+[JPN]
+$zoom13;スムース　ボアＥ１
+[KOR]
+$zoom13;스무스 보어 E1
+[END]
+
+[0000B533]
+[JPN]
+$zoom13;自動追尾レーザー
+[KOR]
+$zoom13;자동 추적 레이저
+[END]
+
+[0000B54C]
+[JPN]
+■■■■■■メッセージ表示０
+[KOR]
+■■■■■■메시지 표시 0
+[END]

@@ -1,0 +1,26 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think074.sb
+# SHA256: 50721f8e1d43d8073c83f2cd960f0c4284a0462198815c44b169334ba6245d86
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[000058F8]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000590D]
+[JPN]
+★現在の技
+[KOR]
+★현재기술
+[END]
+
+[00005918]
+[JPN]
+$zoom13;５．５６ｍｍＵ−ＴＩＣ弾
+[KOR]
+$zoom13;5.56mm U-TIC 탄
+[END]

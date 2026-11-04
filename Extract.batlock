@@ -1,0 +1,9 @@
+@echo off
+setlocal
+chcp 65001 >nul
+set "PYTHONIOENCODING=utf-8"
+python -B "%~dp0tools\rebuild_assets.py" extract
+set "RESULT=%ERRORLEVEL%"
+if not "%RESULT%"=="0" echo [FAILED] Existing translations were not overwritten. Check the error above.
+if /i not "%~1"=="--no-pause" pause
+exit /b %RESULT%

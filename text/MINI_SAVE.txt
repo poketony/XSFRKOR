@@ -1,0 +1,11 @@
+# FREAKS-MINI-SAVE: JPN-KOR v1
+# SHA256: 7f292089bb9dc299f809fd5dc29610b6dc3c6943ba6aefde942598c7733ba205
+# PS2 browser system font: CP932/ASCII only; no custom Hangul. Single line, <=26 encoded bytes.
+# Empty KOR keeps original. Existing memory-card saves may retain their old title/icon.
+
+[000000C0]
+[JPN]
+ことばのパズルもじぴったん
+[KOR]
+Language Puzzle Xenopitan
+[END]

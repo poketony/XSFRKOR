@@ -1,0 +1,89 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think083.sb
+# SHA256: a1bc964464a2b3de73fdca93ee293c875ebb77c3ab52545923478c509e1f021f
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00005BF8]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[00005C0D]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[00005C28]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00005C55]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[00005C6A]
+[JPN]
+■プロテクトカウント
+[KOR]
+■프로텍트 카운트
+[END]
+
+[00005C7F]
+[JPN]
+■ナンバーは1？
+[KOR]
+■번호는 1?
+[END]
+
+[00005C8F]
+[JPN]
+■ナンバーは2？
+[KOR]
+■번호는 2?
+[END]
+
+[00005C9F]
+[JPN]
+$zoom13;突進
+[KOR]
+$zoom13;돌진
+[END]
+
+[00005CAC]
+[JPN]
+$zoom13;ギロチンバイト
+[KOR]
+$zoom13;길로틴 바이트
+[END]
+
+[00005CC3]
+[JPN]
+$zoom13;ダストストーム
+[KOR]
+$zoom13;더스트 스톰
+[END]
+
+[00005CDA]
+[JPN]
+$zoom14;　砂埃がアールヴァクルを包んだ！
+[KOR]
+$zoom14;　모래가 아르바크르를 감쌌다!
+[END]
+
+[00005D03]
+[JPN]
+■ナンバーは3？
+[KOR]
+■번호는 3?
+[END]

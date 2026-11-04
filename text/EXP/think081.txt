@@ -1,0 +1,831 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think081.sb
+# SHA256: cedcd6fbcfc408cf2a8afb61e35bfa56b9536c14f587408fb12f95a58f19453d
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00010118]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0001012D]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[00010148]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00010175]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[00010188]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[00010193]
+[JPN]
+■行動回数
+[KOR]
+■행동횟수
+[END]
+
+[0001019E]
+[JPN]
+■チェンジカウント数
+[KOR]
+■체인지 카운트 수
+[END]
+
+[000101B3]
+[JPN]
+■mirror_Kill_think
+[KOR]
+■mirror_Kill_think
+[END]
+
+[000101C7]
+[JPN]
+■mirror_think
+[KOR]
+■mirror_think
+[END]
+
+[000101D6]
+[JPN]
+■ターゲットナンバー
+[KOR]
+■타깃 번호
+[END]
+
+[000101EB]
+[JPN]
+■ターゲットＬＶ
+[KOR]
+■타깃 LV
+[END]
+
+[000101FC]
+[JPN]
+■乱数
+[KOR]
+■난수
+[END]
+
+[00010203]
+[JPN]
+■記憶の車輪思考
+[KOR]
+■기억바퀴 사고
+[END]
+
+[00010214]
+[JPN]
+■Mary_Set_Para
+[KOR]
+■Mary_Set_Para
+[END]
+
+[00010224]
+[JPN]
+■Mary_phase1
+[KOR]
+■Mary_phase1
+[END]
+
+[00010232]
+[JPN]
+■Mary_phase2
+[KOR]
+■Mary_phase2
+[END]
+
+[00010240]
+[JPN]
+■Mary_phase3
+[KOR]
+■Mary_phase3
+[END]
+
+[0001024E]
+[JPN]
+■Shemhazai_Set_Para
+[KOR]
+■Shemhazai_Set_Para
+[END]
+
+[00010263]
+[JPN]
+■Shemhazai_Phase1
+[KOR]
+■Shemhazai_Phase1
+[END]
+
+[00010276]
+[JPN]
+■Shemhazai_Phase2
+[KOR]
+■Shemhazai_Phase2
+[END]
+
+[00010289]
+[JPN]
+■Azazel_Set_Para
+[KOR]
+■Azazel_Set_Para
+[END]
+
+[0001029B]
+[JPN]
+■Azazel_phase1
+[KOR]
+■Azazel_phase1
+[END]
+
+[000102AB]
+[JPN]
+■Azazel_Phase2
+[KOR]
+■Azazel_Phase2
+[END]
+
+[000102BB]
+[JPN]
+■シェムハザイ思考
+[KOR]
+■셰므하자이 사고
+[END]
+
+[000102CE]
+[JPN]
+■アザゼル思考
+[KOR]
+■아자젤 사고
+[END]
+
+[000102DD]
+[JPN]
+$zoom14;$col7AF9FB;記憶の車輪が動き出した！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;기억의 바퀴가 움직였다!$colc0c0c0;
+[END]
+
+[00010314]
+[JPN]
+$zoom13;記憶の車輪
+[KOR]
+$zoom13;기억바퀴
+[END]
+
+[00010327]
+[JPN]
+$zoom14;$col7AF9FB;　　　白き衣が目覚めた！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　　흰옷이 깨어났다!$colc0c0c0;
+[END]
+
+[0001035E]
+[JPN]
+■rate
+[KOR]
+■rate
+[END]
+
+[00010365]
+[JPN]
+■レベル下一桁が奇数なら/3
+[KOR]
+■레벨 일의자리 홀수면/3
+[END]
+
+[00010380]
+[JPN]
+■レベル下一桁が偶数なら/2
+[KOR]
+■레벨 일의자리 짝수면/2
+[END]
+
+[0001039B]
+[JPN]
+$zoom14;$colc0c0c0;　真実の鏡からくもりが消え\n$col7AF9FB;　　　　ケイオスの魂\n$colc0c0c0;　　　　を映し出した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　진실의 거울이 맑아져\n$col7AF9FB;　　　　케이오스의 영혼\n$colc0c0c0;　　　　을 비추었다$colc0c0c0;
+[END]
+
+[00010416]
+[JPN]
+$zoom13;グァダルーペの記憶
+[KOR]
+$zoom13;과달루페의 기억
+[END]
+
+[00010431]
+[JPN]
+■記憶CHAOSナンバー
+[KOR]
+■기억 CHAOS 번호
+[END]
+
+[00010445]
+[JPN]
+$zoom14;$colc0c0c0;　真実の鏡からくもりが消え\n$col7AF9FB;　　　　コスモスの魂\n$colc0c0c0;　　　　を映し出した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　진실의 거울이 맑아져\n$col7AF9FB;　　　　KOS-MOS의 영혼\n$colc0c0c0;　　　　을 비추었다$colc0c0c0;
+[END]
+
+[000104C0]
+[JPN]
+■記憶KOSMOSナンバー
+[KOR]
+■기억 KOSMOS 번호
+[END]
+
+[000104D5]
+[JPN]
+$zoom14;$colc0c0c0;　真実の鏡からくもりが消え\n$col7AF9FB;　　　　シオンの魂\n$colc0c0c0;　　　　を映し出した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　진실의 거울이 맑아져\n$col7AF9FB;　　　　시온의 영혼\n$colc0c0c0;　　　　을 비추었다$colc0c0c0;
+[END]
+
+[0001054E]
+[JPN]
+■記憶SHIONナンバー
+[KOR]
+■기억 SHION 번호
+[END]
+
+[00010562]
+[JPN]
+$zoom14;$colc0c0c0;　真実の鏡からくもりが消え\n$col7AF9FB;　　　　　ジンの魂\n$colc0c0c0;　　　　を映し出した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　진실의 거울이 맑아져\n$col7AF9FB;　　　　　진의 영혼\n$colc0c0c0;　　　　을 비추었다$colc0c0c0;
+[END]
+
+[000105DB]
+[JPN]
+■記憶JINナンバー
+[KOR]
+■기억 JIN 번호
+[END]
+
+[000105ED]
+[JPN]
+$zoom14;$colc0c0c0;　真実の鏡からくもりが消え\n$col7AF9FB;　　　　ジギーの魂\n$colc0c0c0;　　　　を映し出した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　진실의 거울이 맑아져\n$col7AF9FB;　　　　지기의 영혼\n$colc0c0c0;　　　　을 비추었다$colc0c0c0;
+[END]
+
+[00010666]
+[JPN]
+■記憶ZIGGYナンバー
+[KOR]
+■기억 ZIGGY 번호
+[END]
+
+[0001067A]
+[JPN]
+$zoom14;$colc0c0c0;　真実の鏡からくもりが消え\n$col7AF9FB;　　　　　モモの魂\n$colc0c0c0;　　　　を映し出した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　진실의 거울이 맑아져\n$col7AF9FB;　　　　　모모의 영혼\n$colc0c0c0;　　　　을 비추었다$colc0c0c0;
+[END]
+
+[000106F3]
+[JPN]
+■記憶MOMO
+[KOR]
+■기억MOMO
+[END]
+
+[000106FE]
+[JPN]
+$zoom14;$colc0c0c0;　真実の鏡からくもりが消え\n$col7AF9FB;　　　　Ｊｒ．の魂\n$colc0c0c0;　　　　を映し出した$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　진실의 거울이 맑아져\n$col7AF9FB;　　　　Jr.의 영혼\n$colc0c0c0;　　　　을 비추었다$colc0c0c0;
+[END]
+
+[00010777]
+[JPN]
+■記憶JRナンバー
+[KOR]
+■기억 JR 번호
+[END]
+
+[00010788]
+[JPN]
+$zoom14;$col7AF9FB;　真実の鏡が魂を吸い尽くした！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　진실의 거울, 영혼 전부 흡수!$colc0c0c0;
+[END]
+
+[000107C5]
+[JPN]
+$zoom14;$colc0c0c0;　真実の鏡はくもり始めた$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　진실의 거울이 흐려진다$colc0c0c0;
+[END]
+
+[000107FC]
+[JPN]
+■ランダムターゲットゲット
+[KOR]
+■랜덤 타깃 획득
+[END]
+
+[00010817]
+[JPN]
+■Shemhazai_act_count
+[KOR]
+■Shemhazai_act_count
+[END]
+
+[0001082D]
+[JPN]
+■Azazel_act_count
+[KOR]
+■Azazel_act_count
+[END]
+
+[00010840]
+[JPN]
+■7
+[KOR]
+■7
+[END]
+
+[00010844]
+[JPN]
+■5
+[KOR]
+■5
+[END]
+
+[00010848]
+[JPN]
+■6
+[KOR]
+■6
+[END]
+
+[0001084C]
+[JPN]
+■バーストＥＰ
+[KOR]
+■버스트 EP
+[END]
+
+[0001085B]
+[JPN]
+$zoom14;$col7AF9FB;　白き衣は癒しの土地を見つめた$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　흰옷은 치유의 땅을 바라봤다$colc0c0c0;
+[END]
+
+[00010898]
+[JPN]
+■チャージタイム
+[KOR]
+■차지 타임
+[END]
+
+[000108A9]
+[JPN]
+■Ｌスリープ
+[KOR]
+■L 슬립
+[END]
+
+[000108B6]
+[JPN]
+■マリアブースト
+[KOR]
+■마리아 부스트
+[END]
+
+[000108C7]
+[JPN]
+■カウンターブースト
+[KOR]
+■카운터 부스트
+[END]
+
+[000108DC]
+[JPN]
+$zoom14;$col7AF9FB;　情熱の第一声が目覚めた！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　정열의 첫말이 깨어났다!$colc0c0c0;
+[END]
+
+[00010915]
+[JPN]
+■ターゲット全て女性
+[KOR]
+■타깃 전원 여성
+[END]
+
+[0001092A]
+[JPN]
+■ターゲット女性0,1
+[KOR]
+■타깃 여성 0,1
+[END]
+
+[0001093E]
+[JPN]
+■ターゲット０か２女性
+[KOR]
+■타깃 0 또는 2 여성
+[END]
+
+[00010955]
+[JPN]
+■ターゲット０女性
+[KOR]
+■타깃 0 여성
+[END]
+
+[00010968]
+[JPN]
+■ターゲット１，２女性
+[KOR]
+■타깃 1,2 여성
+[END]
+
+[0001097F]
+[JPN]
+■ターゲット１女性
+[KOR]
+■타깃 1 여성
+[END]
+
+[00010992]
+[JPN]
+■ターゲット２女性
+[KOR]
+■타깃 2 여성
+[END]
+
+[000109A5]
+[JPN]
+$zoom14;$col7AF9FB;　ターゲットが消えた！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　타깃이 사라졌다!$colc0c0c0;
+[END]
+
+[000109DA]
+[JPN]
+■ターゲット女性いない
+[KOR]
+■타깃 여성 없음
+[END]
+
+[000109F1]
+[JPN]
+■ターゲット
+[KOR]
+■타깃
+[END]
+
+[000109FE]
+[JPN]
+■シェムハザイカウンターブースト
+[KOR]
+■셰므하자이 카운터 부스트
+[END]
+
+[00010A1F]
+[JPN]
+$zoom14;$col7AF9FB;　争いへの扇動が目覚めた！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　다툼의 선동이 깨어났다!$colc0c0c0;
+[END]
+
+[00010A58]
+[JPN]
+■アザゼルカウンターブースト
+[KOR]
+■아자젤 카운터 부스트
+[END]
+
+[00010A75]
+[JPN]
+■攻撃者CHAOS
+[KOR]
+■공격자CHAOS
+[END]
+
+[00010A83]
+[JPN]
+■攻撃者KOSMOS
+[KOR]
+■공격자KOSMOS
+[END]
+
+[00010A92]
+[JPN]
+■攻撃者SHION
+[KOR]
+■공격자SHION
+[END]
+
+[00010AA0]
+[JPN]
+■攻撃者JIN
+[KOR]
+■공격자JIN
+[END]
+
+[00010AAC]
+[JPN]
+■攻撃者ZIGGY
+[KOR]
+■공격자ZIGGY
+[END]
+
+[00010ABA]
+[JPN]
+■攻撃者MOMO
+[KOR]
+■공격자MOMO
+[END]
+
+[00010AC7]
+[JPN]
+■攻撃者JR
+[KOR]
+■공격자JR
+[END]
+
+[00010AD2]
+[JPN]
+■記憶ＩＤ
+[KOR]
+■기억 ID
+[END]
+
+[00010ADD]
+[JPN]
+■調べたキャラＩＤ
+[KOR]
+■조사한 캐릭터 ID
+[END]
+
+[00010AF0]
+[JPN]
+■同じならナンバーを返す
+[KOR]
+■같으면 번호 반환
+[END]
+
+[00010B09]
+[JPN]
+■いない場合は９９を返す
+[KOR]
+■없으면 99 반환
+[END]
+
+[00010B22]
+[JPN]
+■0女
+[KOR]
+■0여
+[END]
+
+[00010B28]
+[JPN]
+■1男
+[KOR]
+■1남
+[END]
+
+[00010B2E]
+[JPN]
+■女
+[KOR]
+■여
+[END]
+
+[00010B33]
+[JPN]
+■男
+[KOR]
+■남
+[END]
+
+[00010B38]
+[JPN]
+★★★★★オブジェ終了！！！！！！！！
+[KOR]
+★★★★★오브젝트종료!!!!!!!!
+[END]
+
+[00010B5F]
+[JPN]
+★★★★★ターンチェックデスカウント
+[KOR]
+★★★★★턴 체크 데스 카운트
+[END]
+
+[00010B84]
+[JPN]
+$zoom21;$col7AF9FB;　３$colc0c0c0;
+[KOR]
+$zoom21;$col7AF9FB;　3$colc0c0c0;
+[END]
+
+[00010BA7]
+[JPN]
+$zoom21;$col7AF9FB;　２$colc0c0c0;
+[KOR]
+$zoom21;$col7AF9FB;　2$colc0c0c0;
+[END]
+
+[00010BCA]
+[JPN]
+$zoom21;$col7AF9FB;　１$colc0c0c0;
+[KOR]
+$zoom21;$col7AF9FB;　1$colc0c0c0;
+[END]
+
+[00010BED]
+[JPN]
+$zoom21;$col7AF9FB;　０$colc0c0c0;
+[KOR]
+$zoom21;$col7AF9FB;　0$colc0c0c0;
+[END]
+
+[00010C10]
+[JPN]
+■ターンエンドチェック２終了
+[KOR]
+■턴 종료 확인 2 종료
+[END]
+
+[00010C2D]
+[JPN]
+■攻撃者なし
+[KOR]
+■공격자없음
+[END]
+
+[00010C3A]
+[JPN]
+■マリア思考
+[KOR]
+■마리아사고
+[END]
+
+[00010C47]
+[JPN]
+■ターンエンドチェック３終了
+[KOR]
+■턴 종료 확인 3 종료
+[END]
+
+[00010C64]
+[JPN]
+■レベル一桁
+[KOR]
+■레벨1자리
+[END]
+
+[00010C71]
+[JPN]
+■レベル二桁
+[KOR]
+■레벨2자리
+[END]
+
+[00010C7E]
+[JPN]
+■ＥＰ多いやつ
+[KOR]
+■EP 많은 녀석
+[END]
+
+[00010C8D]
+[JPN]
+$zoom13;聖母の愛情
+[KOR]
+$zoom13;성모애정
+[END]
+
+[00010CA0]
+[JPN]
+$zoom13;ソドムクエイク
+[KOR]
+$zoom13;소돔 퀘이크
+[END]
+
+[00010CB7]
+[JPN]
+$zoom13;ルシフェルの雄叫び
+[KOR]
+$zoom13;루시퍼의 포효
+[END]
+
+[00010CD2]
+[JPN]
+$zoom13;光り輝く四つの車輪（ＬポイズンＥＰ）
+[KOR]
+$zoom13;빛나는 네 수레바퀴(L 포이즌 EP)
+[END]
+
+[00010CFF]
+[JPN]
+$zoom13;欺瞞を浴びたユリ（Ｌウィーク）
+[KOR]
+$zoom13;기만에 물든 백합(L 위크)
+[END]
+
+[00010D26]
+[JPN]
+$zoom13;心に貫く失望の光（ＬエーテルＤＤ）
+[KOR]
+$zoom13;마음 꿰뚫는 실망의 빛(L 에테르 DD)
+[END]
+
+[00010D51]
+[JPN]
+$zoom13;降臨し甘い囁き（Ｌスタン）
+[KOR]
+$zoom13;강림한 단 속삭임(L 스턴)
+[END]
+
+[00010D74]
+[JPN]
+$zoom13;聖母被昇天
+[KOR]
+$zoom13;성모 승천
+[END]
+
+[00010D87]
+[JPN]
+$zoom13;情熱の眼差し
+[KOR]
+$zoom13;정열의 눈빛
+[END]
+
+[00010D9C]
+[JPN]
+$zoom13;魂の浄化
+[KOR]
+$zoom13;영혼정화
+[END]
+
+[00010DAD]
+[JPN]
+$zoom13;虐殺への扇動
+[KOR]
+$zoom13;학살의 선동
+[END]
+
+[00010DC2]
+[JPN]
+$zoom13;ゲヘナ
+[KOR]
+$zoom13;게헨나
+[END]
+
+[00010DD1]
+[JPN]
+$zoom13;フレアブラスト
+[KOR]
+$zoom13;플레어블래스트
+[END]
+
+[00010DE8]
+[JPN]
+$zoom13;サンダーブラスト
+[KOR]
+$zoom13;선더 블래스트
+[END]
+
+[00010E01]
+[JPN]
+$zoom13;癒しの御告げ
+[KOR]
+$zoom13;치유의 계시
+[END]
+
+[00010E16]
+[JPN]
+$zoom13;バベルの嘆き
+[KOR]
+$zoom13;바벨의 탄식
+[END]

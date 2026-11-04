@@ -1,0 +1,11 @@
+# FREAKS-LABELS: JPN-KOR v1
+# SHA256: 8c99ebfecbbd66ae709dd830754415ae621354b6f2ea18f5a3ef21edb50794ca
+# Empty KOR keeps original. Preserve display controls; references are relocated automatically.
+
+# NOTICE / 500px
+[00123C3C]
+[JPN]
+{01:01}エンサイクロペディアの項目が増えました。
+[KOR]
+{01:01}엔사이클로피디아 항목이 추가됐습니다.
+[END]

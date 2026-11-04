@@ -1,0 +1,173 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think047.sb
+# SHA256: ff0a2d58a7f0dcf36c11e2cf2bd63ad39dda43010a9118e9a12f8d1712365987
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000E474]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000E489]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000E4A4]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000E4D1]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000E4E4]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000E4EF]
+[JPN]
+$zoom13;マクシミリアン　Ｇ４
+[KOR]
+$zoom13;막시밀리안 G4
+[END]
+
+[0000E50C]
+[JPN]
+$zoom13;グレネード
+[KOR]
+$zoom13;그레네이드
+[END]
+
+[0000E51F]
+[JPN]
+$zoom13;ハイアムズＰ８８Ｒ
+[KOR]
+$zoom13;하이암즈 P88R
+[END]
+
+[0000E53A]
+[JPN]
+$zoom13;スタングレネード（Ｌブラック）
+[KOR]
+$zoom13;스턴 그레네이드(L 블랙)
+[END]
+
+[0000E561]
+[JPN]
+$zoom13;ダブルタップス
+[KOR]
+$zoom13;더블 탭스
+[END]
+
+[0000E578]
+[JPN]
+$zoom13;フルマガジンショット
+[KOR]
+$zoom13;풀 매거진 샷
+[END]
+
+[0000E595]
+[JPN]
+$zoom13;オペレーションＡ
+[KOR]
+$zoom13;오퍼레이션 A
+[END]
+
+[0000E5AE]
+[JPN]
+$zoom13;撤退
+[KOR]
+$zoom13;철수
+[END]
+
+[0000E5BB]
+[JPN]
+$zoom13;チェーンガン
+[KOR]
+$zoom13;체인 건
+[END]
+
+[0000E5D0]
+[JPN]
+$zoom13;エネルギー爆雷
+[KOR]
+$zoom13;에너지 폭뢰
+[END]
+
+[0000E5E7]
+[JPN]
+$zoom13;黒塚（Ｌポイズン）
+[KOR]
+$zoom13;구로즈카(L 포이즌)
+[END]
+
+[0000E602]
+[JPN]
+$zoom13;鉄輪　前ジテ
+[KOR]
+$zoom13;철륜 전 시테
+[END]
+
+[0000E617]
+[JPN]
+$zoom13;鉄輪　後ジテ
+[KOR]
+$zoom13;철륜 후 시테
+[END]
+
+[0000E62C]
+[JPN]
+$zoom13;枕慈童
+[KOR]
+$zoom13;침자동
+[END]
+
+[0000E63B]
+[JPN]
+$col7AF9FB;$zoom15;　対属性ボルテージＭＡＸ！
+[KOR]
+$col7AF9FB;$zoom15;　대속성 볼티지 MAX!
+[END]
+
+[0000E669]
+[JPN]
+$zoom13;葵上呪殺（Ｌスロウ）
+[KOR]
+$zoom13;규상 주살(L 슬로)
+[END]
+
+[0000E686]
+[JPN]
+$zoom13;安達ヶ原氷結
+[KOR]
+$zoom13;안달원 빙결
+[END]
+
+[0000E69B]
+[JPN]
+$zoom13;筋力退散（Ｌヘビー）
+[KOR]
+$zoom13;근력 퇴산(L 헤비)
+[END]
+
+[0000E6B8]
+[JPN]
+$zoom13;精神退散（ＬエーテルＰＤ）
+[KOR]
+$zoom13;정신 퇴산(L 에테르 PD)
+[END]

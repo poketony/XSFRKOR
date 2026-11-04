@@ -1,0 +1,145 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think012.sb
+# SHA256: ab76670958cd928bd10f87d0cc2d3ecf787e970bc25509e0eb5ffac5bdbf2ff8
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000CA10]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000CA25]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000CA40]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000CA6D]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000CA80]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000CA90]
+[JPN]
+★攻撃は突
+[KOR]
+★공격돌격
+[END]
+
+[0000CA9B]
+[JPN]
+$zoom13;$col7AF9FB;メインモニターにヒビが入った！$colc0c0c0;
+[KOR]
+$zoom13;$col7AF9FB;메인 모니터에 금이 갔다!$colc0c0c0;
+[END]
+
+[0000CAD8]
+[JPN]
+■ターゲットはＨＰ少ないやつ
+[KOR]
+■타깃은 HP가 적은 녀석
+[END]
+
+[0000CAF5]
+[JPN]
+■ターゲットはランダム
+[KOR]
+■타깃은 랜덤
+[END]
+
+[0000CB0C]
+[JPN]
+■ブーストＯＮでact3
+[KOR]
+■부스트 ON이면 act3
+[END]
+
+[0000CB21]
+[JPN]
+$zoom13;$col7AF9FB;メインモニターを破壊した！\n自動低温度捕獲システム異常$colc0c0c0;
+[KOR]
+$zoom13;$col7AF9FB;메인 모니터를 파괴했다!\n자동 저온 포획 시스템 이상$colc0c0c0;
+[END]
+
+[0000CB76]
+[JPN]
+■パリン実行■
+[KOR]
+■쨍 실행■
+[END]
+
+[0000CB85]
+[JPN]
+ぶーすとかうんと　　
+[KOR]
+부스트 카운트　　
+[END]
+
+[0000CB9A]
+[JPN]
+■50%切りブースト
+[KOR]
+■50% 미만 부스트
+[END]
+
+[0000CBAC]
+[JPN]
+■ダウン時カウンターブースト発動
+[KOR]
+■다운 시 카운터 부스트 발동
+[END]
+
+[0000CBCD]
+[JPN]
+■ぶースト1
+[KOR]
+■부스트 1
+[END]
+
+[0000CBD9]
+[JPN]
+■ぶースト2
+[KOR]
+■부스트 2
+[END]
+
+[0000CBE5]
+[JPN]
+$zoom13;オクトレイ
+[KOR]
+$zoom13;옥토레이
+[END]
+
+[0000CBF8]
+[JPN]
+$zoom13;ＡＳＭ　１２２９
+[KOR]
+$zoom13;ASM 1229
+[END]
+
+[0000CC11]
+[JPN]
+$zoom13;音速障壁突破
+[KOR]
+$zoom13;음속장벽돌파
+[END]

@@ -1,0 +1,467 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think043.sb
+# SHA256: 9d339f6c1b27bd7f5b5fae29dd8f3e59afa3bbffdda7d7d75990eaa98ffcb1c1
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[000068AC]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[000068C1]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[000068DC]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00006909]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[0000691E]
+[JPN]
+■■ヒス指数
+[KOR]
+■■히스지수
+[END]
+
+[0000692B]
+[JPN]
+■■行動ターン数
+[KOR]
+■■행동 턴 수
+[END]
+
+[0000693C]
+[JPN]
+■■combfirst
+[KOR]
+■■combfirst
+[END]
+
+[0000694A]
+[JPN]
+■■com１
+[KOR]
+■■com1
+[END]
+
+[00006954]
+[JPN]
+■■com２
+[KOR]
+■■com2
+[END]
+
+[0000695E]
+[JPN]
+■■com３
+[KOR]
+■■com3
+[END]
+
+[00006968]
+[JPN]
+$zoom14;$col7AF9FB;　Ｄフィールドが消えた・・$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　D 필드가 사라졌다・・・$colc0c0c0;
+[END]
+
+[000069A1]
+[JPN]
+■■ランダム数
+[KOR]
+■■난수
+[END]
+
+[000069B0]
+[JPN]
+■■リフレッシュ１
+[KOR]
+■■리프레시 1
+[END]
+
+[000069C3]
+[JPN]
+■■リフレッシュ2
+[KOR]
+■■리프레시 2
+[END]
+
+[000069D5]
+[JPN]
+■■ThinkLevel1
+[KOR]
+■■ThinkLevel1
+[END]
+
+[000069E5]
+[JPN]
+■■ThinkLevel2
+[KOR]
+■■ThinkLevel2
+[END]
+
+[000069F5]
+[JPN]
+■■ThinkLevel3
+[KOR]
+■■ThinkLevel3
+[END]
+
+[00006A05]
+[JPN]
+■■ThinkLevel4
+[KOR]
+■■ThinkLevel4
+[END]
+
+[00006A15]
+[JPN]
+■■遠隔攻撃者
+[KOR]
+■■원격공격자
+[END]
+
+[00006A24]
+[JPN]
+■■遠隔攻撃
+[KOR]
+■■원격공격
+[END]
+
+[00006A31]
+[JPN]
+■■遠隔攻撃防御
+[KOR]
+■■원격공격방어
+[END]
+
+[00006A42]
+[JPN]
+■■DamageLevel50
+[KOR]
+■■DamageLevel50
+[END]
+
+[00006A54]
+[JPN]
+■■DamageLevel0
+[KOR]
+■■DamageLevel0
+[END]
+
+[00006A7C]
+[JPN]
+$zoom14;$col7AF9FB;　歪んだ空間が弾道を鈍足にした！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　뒤틀린 공간이 탄도를 늦췄다!$colc0c0c0;
+[END]
+
+[00006ABB]
+[JPN]
+■■マーサ２
+[KOR]
+■■마사 2
+[END]
+
+[00006ADF]
+[JPN]
+■マーサ３
+[KOR]
+■마사 3
+[END]
+
+[00006B01]
+[JPN]
+■マーサ４
+[KOR]
+■마사 4
+[END]
+
+[00006B23]
+[JPN]
+■マーサ５
+[KOR]
+■마사 5
+[END]
+
+[00006B2E]
+[JPN]
+■マーサ６
+[KOR]
+■마사 6
+[END]
+
+[00006B39]
+[JPN]
+■ブーストカウント
+[KOR]
+■부스트 카운트
+[END]
+
+[00006B63]
+[JPN]
+$zoom13;審判の日
+[KOR]
+$zoom13;심판의날
+[END]
+
+[00006B74]
+[JPN]
+■■審判の日　ＢＣあり
+[KOR]
+■■심판의 날　BC 있음
+[END]
+
+[00006B8B]
+[JPN]
+■単発光あれ
+[KOR]
+■단발 광명
+[END]
+
+[00006B98]
+[JPN]
+■マーサ１１
+[KOR]
+■마사 11
+[END]
+
+[00006BBC]
+[JPN]
+■マーサ１２
+[KOR]
+■마사 12
+[END]
+
+[00006BC9]
+[JPN]
+■マーサ１３
+[KOR]
+■마사 13
+[END]
+
+[00006BD6]
+[JPN]
+■■審判の日　ＢＣなし
+[KOR]
+■■심판의 날　BC 없음
+[END]
+
+[00006BED]
+[JPN]
+■■クリティカルフラグ
+[KOR]
+■■크리티컬 플래그
+[END]
+
+[00006C04]
+[JPN]
+■■ＤＦ時の遠隔攻撃カウンター
+[KOR]
+■■DF 시 원격 공격 카운터
+[END]
+
+[00006C23]
+[JPN]
+■■ステータス異常Ｈ
+[KOR]
+■■스테이터스 이상H
+[END]
+
+[00006C38]
+[JPN]
+■■ステータス異常Ｌ
+[KOR]
+■■스테이터스 이상L
+[END]
+
+[00006C4D]
+[JPN]
+■■異常者なし
+[KOR]
+■■이상자없음
+[END]
+
+[00006C5C]
+[JPN]
+■■Ｄフィールド
+[KOR]
+■■D 필드
+[END]
+
+[00006C6D]
+[JPN]
+■■支援なし
+[KOR]
+■■지원없음
+[END]
+
+[00006C7A]
+[JPN]
+■■ビットゲット
+[KOR]
+■■비트 획득
+[END]
+
+[00006C8B]
+[JPN]
+■■30%ランダムｔｇｔ
+[KOR]
+■■30% 랜덤 tgt
+[END]
+
+[00006CA1]
+[JPN]
+■■30%０ｔｇｔ
+[KOR]
+■■30% 0tgt
+[END]
+
+[00006CB1]
+[JPN]
+■■30%１ｔｇｔ
+[KOR]
+■■30% 1tgt
+[END]
+
+[00006CC1]
+[JPN]
+■■いないのでランダム
+[KOR]
+■■없으므로 랜덤
+[END]
+
+[00006CD8]
+[JPN]
+■trgct
+[KOR]
+■trgct
+[END]
+
+[00006CE0]
+[JPN]
+$zoom13;ヴィシャスクリムゾン
+[KOR]
+$zoom13;비셔스 크림슨
+[END]
+
+[00006CFD]
+[JPN]
+$zoom13;マーサレスレイン
+[KOR]
+$zoom13;머시리스 레인
+[END]
+
+[00006D16]
+[JPN]
+$zoom13;エンジェルタワー（ＨＰ吸収）
+[KOR]
+$zoom13;엔젤 타워(HP 흡수)
+[END]
+
+[00006D3B]
+[JPN]
+$zoom13;フォーリンローズ
+[KOR]
+$zoom13;폴링 로즈
+[END]
+
+[00006D54]
+[JPN]
+$zoom13;Ｉｎ　ｔｈｅ　Ｂｅｇｉｎｎｉｎｇ
+[KOR]
+$zoom13;In the Beginning
+[END]
+
+[00006D7D]
+[JPN]
+$zoom13;フォーリンローズⅡ（ＬエーテルＤＤ）
+[KOR]
+$zoom13;폴링 로즈 Ⅱ(L 에테르 DD)
+[END]
+
+[00006DAA]
+[JPN]
+■トータルフレーム数
+[KOR]
+■총 프레임 수
+[END]
+
+[00006DBF]
+[JPN]
+■トータルフレーム数下一桁
+[KOR]
+■총 프레임 수 일의 자리
+[END]
+
+[00006DDA]
+[JPN]
+■行動回数
+[KOR]
+■행동횟수
+[END]
+
+[00006DE5]
+[JPN]
+■攻撃力
+[KOR]
+■공격력
+[END]
+
+[00006DEE]
+[JPN]
+$zoom13;グングニルの一撃
+[KOR]
+$zoom13;궁니르의 일격
+[END]
+
+[00006E07]
+[JPN]
+$zoom13;リフレッシュＬ
+[KOR]
+$zoom13;리프레시 L
+[END]
+
+[00006E1E]
+[JPN]
+$zoom13;リフレッシュＨ
+[KOR]
+$zoom13;리프레시 H
+[END]
+
+[00006E35]
+[JPN]
+$zoom13;ブーストＵＰ
+[KOR]
+$zoom13;부스트 UP
+[END]
+
+[00006E4A]
+[JPN]
+$zoom13;Ｄフィールド
+[KOR]
+$zoom13;D 필드
+[END]
+
+[00006E5F]
+[JPN]
+$zoom14;$col7AF9FB;　Ｅ．Ｓ．イサカル周辺のエーテルが収縮し\n　　光すら吸い込む歪みが空間に発生した$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　E.S. 잇사갈 주위 에테르가 수축해\n　　빛마저 빨아들이는 뒤틀림이 공간에 생겼다$colc0c0c0;
+[END]

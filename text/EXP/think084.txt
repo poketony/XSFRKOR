@@ -1,0 +1,159 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think084.sb
+# SHA256: 461e292f4ab8a40b168bbdf8880334a319faf9ac95db065b8c6e1fa6fa14d782
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[000060C8]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[000060DD]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[000060F8]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00006125]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[0000613A]
+[JPN]
+■エーテル思考
+[KOR]
+■에테르 사고
+[END]
+
+[00006149]
+[JPN]
+■ハイブリッド思考
+[KOR]
+■하이브리드 사고
+[END]
+
+[0000615C]
+[JPN]
+■思考終了
+[KOR]
+■사고종료
+[END]
+
+[00006167]
+[JPN]
+■ランダム
+[KOR]
+■랜덤
+[END]
+
+[00006172]
+[JPN]
+■ＨＰ低いの
+[KOR]
+■HP낮은녀석
+[END]
+
+[0000617F]
+[JPN]
+■エーテル思考１
+[KOR]
+■에테르 사고 1
+[END]
+
+[00006190]
+[JPN]
+■エーテル思考２
+[KOR]
+■에테르 사고 2
+[END]
+
+[000061A1]
+[JPN]
+■思考１
+[KOR]
+■사고 1
+[END]
+
+[000061AA]
+[JPN]
+■思考２
+[KOR]
+■사고 2
+[END]
+
+[000061B3]
+[JPN]
+■思考３
+[KOR]
+■사고 3
+[END]
+
+[000061BC]
+[JPN]
+$zoom13;螺旋の刃
+[KOR]
+$zoom13;나선칼날
+[END]
+
+[000061CD]
+[JPN]
+$zoom13;熱波
+[KOR]
+$zoom13;열파
+[END]
+
+[000061DA]
+[JPN]
+$zoom13;霧の遺産
+[KOR]
+$zoom13;안개유산
+[END]
+
+[000061EB]
+[JPN]
+$zoom13;連鎖からの追放
+[KOR]
+$zoom13;연쇄에서 추방
+[END]
+
+[00006202]
+[JPN]
+$zoom13;フレアブラスト
+[KOR]
+$zoom13;플레어블래스트
+[END]
+
+[00006219]
+[JPN]
+$zoom13;オーラブラスト
+[KOR]
+$zoom13;오라 블래스트
+[END]
+
+[00006230]
+[JPN]
+$zoom13;エーテルスピア
+[KOR]
+$zoom13;에테르 스피어
+[END]
+
+[00006247]
+[JPN]
+$zoom13;アタッカー
+[KOR]
+$zoom13;어태커
+[END]

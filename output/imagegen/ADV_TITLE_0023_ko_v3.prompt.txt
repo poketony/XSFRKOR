@@ -1,0 +1,33 @@
+Mode: built-in image_gen
+Edit target: graphics/ADV_TITLE_0023_ko_v2.png
+Color reference: graphics/ADV_TITLE_0023.png
+Final image: graphics/ADV_TITLE_0023_ko_v3.png
+
+Use case: lighting-weather (palette-only recoloring)
+Input image 1 is the EDIT TARGET: the already corrected Korean logo, 2048 x 768 RGBA PNG.
+Input image 2 is the ORIGINAL JAPANESE LOGO and the ONLY color reference.
+Request: match ONLY the colors of image 1 to image 2 as closely and literally as possible. This is a precise recoloring task, not a redesign.
+LOCK ALL GEOMETRY of image 1: preserve the exact corrected 제 (especially its single-bar ㅈ), 노코미, 초판, all outlines, edges, letter spacing, size, layout, eye, motif, badge, composition, 2048x768 canvas and existing alpha/transparency. Do not redraw or reposition anything.
+
+COLOR MATCH:
+The target is currently too bright and saturated. Use the original's darker, warmer, slightly muted title palette. Do NOT keep the target's neon orange, pure bright red, lemon-yellow or vivid electric blue.
+Main title fill: one shared vertical gradient across all four Korean syllables, sampled from the original. These are actual original interior RGB samples at original-image canvas y coordinates:
+y=16..24: RGB(199,2,1), hex #C70201;
+y=32: RGB(200,37,1), #C82501;
+y=40: RGB(206,57,2), #CE3902;
+y=56: RGB(213,67,2), #D54302;
+y=72: RGB(220,88,1), #DC5801;
+y=88: RGB(227,111,5), #E36F05;
+y=104: RGB(234,143,11), #EA8F0B;
+y=112: RGB(237,163,4), #EDA304;
+y=120: RGB(240,180,3), #F0B403.
+Map the original title's overall fill height y16..122 to the target title fill's overall top-to-bottom extent, preserving this exact uneven gradient distribution. At a given height all four syllables must share the same fill. Keep the dark red confined to the high strokes, muted orange through the middle, and amber/gold at the bottom. Bottom is #F0B403 golden amber, NOT bright #FFFF00 lemon yellow.
+
+Blue one-eye motif: original muted slate/navy blue-to-white gradient, not bright blue.
+Original exact samples: original y25..30 = RGB(58,74,115) #3A4A73; y60 = RGB(93,123,169) #5D7BA9; y70 = RGB(117,147,188) #7593BC; y80 = RGB(143,169,203) #8FA9CB; y95 = RGB(201,213,227) #C9D5E3; y110 = RGB(242,242,242) #F2F2F2.
+Map these colors along the target motif from its top to its bottom, preserving its exact shape and eye.
+
+Badge fill: solid original warm golden yellow RGB(245,210,4), #F5D204. No bright lemon yellow.
+Retain black and white outlines and black text. Preserve transparent alpha outside the artwork. Do not paint a background, glow, vignette, shadow, or checkerboard.
+Output the same complete 2048 x 768 image, changed ONLY in color. All Korean glyph shapes and all contours must remain identical to image 1.
+

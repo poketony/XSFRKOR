@@ -1,0 +1,796 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think065.sb
+# SHA256: f391296bd3b065a214f8cff69ff3e2069e1cf52ebdcaaca6dfc03a9f4dfd853b
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00010B8C]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[00010BA1]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[00010BBC]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00010BE9]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[00010BFC]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[00010C07]
+[JPN]
+■平均レベル
+[KOR]
+■평균 레벨
+[END]
+
+[00010C28]
+[JPN]
+■うせろぉぉー！
+[KOR]
+■꺼져어어ー!
+[END]
+
+[00010C39]
+[JPN]
+■止め攻撃思考
+[KOR]
+■마무리공격AI
+[END]
+
+[00010C48]
+[JPN]
+$zoom14;$colc0c0c0;　　決着への執念\n$col7AF9FB;　ジンで止めを刺せ！$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　결판의 집념\n$col7AF9FB;　진으로 끝장내라!$colc0c0c0;
+[END]
+
+[00010C98]
+[JPN]
+■ATK_Phase
+[KOR]
+■ATK_Phase
+[END]
+
+[00010CA4]
+[JPN]
+■攻撃開始チェックD_A_PhaseEND
+[KOR]
+■공격 시작 확인 D_A_PhaseEND
+[END]
+
+[00010CC3]
+[JPN]
+■攻撃開始チェックB_PhaseEND
+[KOR]
+■공격 시작 확인 B_PhaseEND
+[END]
+
+[00010CE0]
+[JPN]
+■Doppelganger_ATK_Phase
+[KOR]
+■Doppelganger_ATK_Phase
+[END]
+
+[00010CF9]
+[JPN]
+■See_ATK_Phase
+[KOR]
+■See_ATK_Phase
+[END]
+
+[00010D09]
+[JPN]
+■AAAB_PhaseEND
+[KOR]
+■AAAB_PhaseEND
+[END]
+
+[00010D19]
+[JPN]
+■Bind_ATK_Phase
+[KOR]
+■Bind_ATK_Phase
+[END]
+
+[00010D2A]
+[JPN]
+■攻撃者
+[KOR]
+■공격자
+[END]
+
+[00010D33]
+[JPN]
+■攻撃者ＩＤ
+[KOR]
+■공격자 ID
+[END]
+
+[00010D40]
+[JPN]
+■fatal_blow_DMG_Phase
+[KOR]
+■fatal_blow_DMG_Phase
+[END]
+
+[00010D57]
+[JPN]
+■耐性１
+[KOR]
+■내성 1
+[END]
+
+[00010D60]
+[JPN]
+■Normal_DMG_Phase
+[KOR]
+■Normal_DMG_Phase
+[END]
+
+[00010D9B]
+[JPN]
+■ATK_Phase1
+[KOR]
+■ATK_Phase1
+[END]
+
+[00010DA8]
+[JPN]
+$zoom14;$colc0c0c0;マーグリスは$col7AF9FB;　純粋な気　$colc0c0c0;を練り上げた$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;마굴리스는 $col7AF9FB;　순수한 기　$colc0c0c0;를 단련했다$colc0c0c0;
+[END]
+
+[00010E01]
+[JPN]
+■JinCheck1
+[KOR]
+■JinCheck1
+[END]
+
+[00010E0D]
+[JPN]
+■ジン発見
+[KOR]
+■진 발견
+[END]
+
+[00010E18]
+[JPN]
+■ジン発見ランダムカウント
+[KOR]
+■진 발견 랜덤 카운트
+[END]
+
+[00010E47]
+[JPN]
+■ジンへ攻撃
+[KOR]
+■진에게공격
+[END]
+
+[00010E54]
+[JPN]
+■Doubleone
+[KOR]
+■Doubleone
+[END]
+
+[00010E60]
+[JPN]
+$zoom14;$col7AF9FB;マーグリスは二重身をかき消した！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;마굴리스는 이중신을 지웠다!$colc0c0c0;
+[END]
+
+[00010E9F]
+[JPN]
+■分身抹殺後、１ターン空ける
+[KOR]
+■분신 말살 후 1턴을 쉰다
+[END]
+
+[00010EBC]
+[JPN]
+★強攻撃思考
+[KOR]
+★강공격사고
+[END]
+
+[00010EC9]
+[JPN]
+★回復思考
+[KOR]
+★회복사고
+[END]
+
+[00010ED4]
+[JPN]
+■分身２生存は？
+[KOR]
+■분신2 생존은?
+[END]
+
+[00010EF9]
+[JPN]
+■JinCheck2
+[KOR]
+■JinCheck2
+[END]
+
+[00010F05]
+[JPN]
+■ジン発見ランダムカウントハズレでスルー
+[KOR]
+■진 발견 랜덤 카운트 실패로 통과
+[END]
+
+[00010F2E]
+[JPN]
+■攻撃３
+[KOR]
+■공격 3
+[END]
+
+[00010F37]
+[JPN]
+■攻撃１
+[KOR]
+■공격 1
+[END]
+
+[00010F40]
+[JPN]
+■攻撃２
+[KOR]
+■공격 2
+[END]
+
+[00010F49]
+[JPN]
+■攻撃４
+[KOR]
+■공격 4
+[END]
+
+[00010F52]
+[JPN]
+■攻撃終了
+[KOR]
+■공격종료
+[END]
+
+[00010F5D]
+[JPN]
+■インパクト攻撃１
+[KOR]
+■임팩트 공격 1
+[END]
+
+[00010F70]
+[JPN]
+■インパクト攻撃２
+[KOR]
+■임팩트 공격 2
+[END]
+
+[00010F83]
+[JPN]
+■インパクト攻撃３
+[KOR]
+■임팩트 공격 3
+[END]
+
+[00010F96]
+[JPN]
+■Doubletwo
+[KOR]
+■Doubletwo
+[END]
+
+[00010FA2]
+[JPN]
+■1B_PhaseEND
+[KOR]
+■1B_PhaseEND
+[END]
+
+[00010FB0]
+[JPN]
+■自分のユニットナンバーは？
+[KOR]
+■자신의 유닛 번호는?
+[END]
+
+[00010FCD]
+[JPN]
+■分身一体目でHP４０以下D_A_PhaseEND
+[KOR]
+■첫분신 HP40이하D_A_PhaseEND
+[END]
+
+[00010FF2]
+[JPN]
+■分身一体目でHP30以下D_A_PhaseEND
+[KOR]
+■첫분신 HP30이하D_A_PhaseEND
+[END]
+
+[00011015]
+[JPN]
+■分身一体目でHP30以下B_PhaseEND
+[KOR]
+■첫분신 HP30이하B_PhaseEND
+[END]
+
+[00011036]
+[JPN]
+■2B_PhaseEND
+[KOR]
+■2B_PhaseEND
+[END]
+
+[00011044]
+[JPN]
+■JinCheck
+[KOR]
+■JinCheck
+[END]
+
+[0001104F]
+[JPN]
+■3B_PhaseEND
+[KOR]
+■3B_PhaseEND
+[END]
+
+[0001105D]
+[JPN]
+■AdvanceRate
+[KOR]
+■AdvanceRate
+[END]
+
+[0001107F]
+[JPN]
+$zoom13;内縛印
+[KOR]
+$zoom13;내박인
+[END]
+
+[0001108E]
+[JPN]
+$zoom14;$col7AF9FB;　　　不動の印　第壱を結んだ！$colc0c0c0;\n場の霊気が縛りつけられた感じがする$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　　부동의 인　제1을 맺었다!$colc0c0c0;\n주변의 영기가 묶인 듯한 느낌이다$colc0c0c0;
+[END]
+
+[000110FA]
+[JPN]
+$zoom14;$col7AF9FB;　強制Ｈストップまで残り３$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　강제 H 스톱까지 앞으로 3$colc0c0c0;
+[END]
+
+[00011147]
+[JPN]
+$zoom13;外伍鈷印
+[KOR]
+$zoom13;외오고인
+[END]
+
+[00011158]
+[JPN]
+$zoom14;$col7AF9FB;　　　不動の印　第弐を結んだ！$colc0c0c0;\n明王の加護により　霊気が無力化した$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　　부동의 인　제2를 맺었다!$colc0c0c0;\n명왕의 가호로　영기가 무력화됐다$colc0c0c0;
+[END]
+
+[000111C4]
+[JPN]
+$zoom14;$col7AF9FB;　強制Ｈストップまで残り２$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　강제 H 스톱까지 앞으로 2$colc0c0c0;
+[END]
+
+[00011211]
+[JPN]
+$zoom13;諸天救勅印
+[KOR]
+$zoom13;제천구칙인
+[END]
+
+[00011224]
+[JPN]
+$zoom14;$col7AF9FB;　　　不動の印　第参を結んだ！$colc0c0c0;\n　諸天の力で霊気を覆い包囲した！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　　부동의 인　제3을 맺었다!$colc0c0c0;\n　제천의 힘으로 영기를 에워쌌다!$colc0c0c0;
+[END]
+
+[0001128E]
+[JPN]
+$zoom14;$col7AF9FB;　　強制Ｈストップまで残り１！\n　　非常に危険な状態になった！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　강제 H 스톱까지 앞으로 1!\n　　매우 위험한 상태가 됐다!$colc0c0c0;
+[END]
+
+[000112EB]
+[JPN]
+■キャラが-1なのでＤＭＧ思考抜けます
+[KOR]
+■캐릭터가 -1이므로 DMG 사고 종료
+[END]
+
+[00011310]
+[JPN]
+■炎カウンター
+[KOR]
+■불꽃 카운터
+[END]
+
+[0001131F]
+[JPN]
+■エンチャント火判定
+[KOR]
+■인챈트 불꽃 판정
+[END]
+
+[00011334]
+[JPN]
+■エンチャント火カウンター
+[KOR]
+■인챈트 불꽃 카운터
+[END]
+
+[0001134F]
+[JPN]
+■雷カウンター
+[KOR]
+■번개 카운터
+[END]
+
+[0001135E]
+[JPN]
+■エンチャント雷判定
+[KOR]
+■인챈트 번개 판정
+[END]
+
+[00011373]
+[JPN]
+■エンチャント雷カウンター
+[KOR]
+■인챈트 번개 카운터
+[END]
+
+[0001138E]
+[JPN]
+■止めカウンター
+[KOR]
+■마무리 카운터
+[END]
+
+[0001139F]
+[JPN]
+$zoom13;荼枳尼護破斬
+[KOR]
+$zoom13;다키니호파참
+[END]
+
+[000113B4]
+[JPN]
+$zoom13;摩醯首羅斬
+[KOR]
+$zoom13;마혜수라참
+[END]
+
+[000113C7]
+[JPN]
+$zoom13;瞋恚雷天呪
+[KOR]
+$zoom13;진에뇌천주
+[END]
+
+[000113DA]
+[JPN]
+$zoom13;燐火火界呪
+[KOR]
+$zoom13;인화화계주
+[END]
+
+[000113ED]
+[JPN]
+$zoom13;影寂二重印
+[KOR]
+$zoom13;영적이중인
+[END]
+
+[00011400]
+[JPN]
+$zoom13;重圧
+[KOR]
+$zoom13;중압
+[END]
+
+[0001140D]
+[JPN]
+$zoom13;影寂二重印　封殺
+[KOR]
+$zoom13;영적이중인　봉살
+[END]
+
+[00011426]
+[JPN]
+$zoom13;外縛印
+[KOR]
+$zoom13;외박인
+[END]
+
+[00011435]
+[JPN]
+$zoom14;$col7AF9FB;　　　　不動の印　終焉を結んだ！\n不動の法が完成し強制Ｈストップになった！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;　　　　부동의 인　종언을 맺었다!\n부동법이 완성돼 강제 H 스톱에 걸렸다!$colc0c0c0;
+[END]
+
+[0001149E]
+[JPN]
+★攻撃DoppelATK
+[KOR]
+★공격DoppelATK
+[END]
+
+[000114AE]
+[JPN]
+★攻撃DoppelHI_ATK
+[KOR]
+★공격DoppelHI_ATK
+[END]
+
+[000114C1]
+[JPN]
+★攻撃DoppelCRE
+[KOR]
+★공격DoppelCRE
+[END]
+
+[000114D1]
+[JPN]
+★ノーマル攻撃思考思考
+[KOR]
+★노멀 공격 사고 사고
+[END]
+
+[000114E8]
+[JPN]
+★回復補佐思考
+[KOR]
+★회복보조사고
+[END]
+
+[000114F7]
+[JPN]
+★ダメージ変換ＯＮ
+[KOR]
+★대미지 변환 ON
+[END]
+
+[0001150A]
+[JPN]
+★自分のＨＰ
+[KOR]
+★자신의 HP
+[END]
+
+[00011517]
+[JPN]
+★分身1死亡時攻撃フラグ初期化
+[KOR]
+★분신1 사망시 공격플래그리셋
+[END]
+
+[00011535]
+[JPN]
+★分身2死亡時攻撃フラグ初期化
+[KOR]
+★분신2 사망시 공격플래그리셋
+[END]
+
+[00011553]
+[JPN]
+★攻撃2
+[KOR]
+★공격2
+[END]
+
+[0001155B]
+[JPN]
+★イナズマ
+[KOR]
+★번개
+[END]
+
+[00011566]
+[JPN]
+$zoom14;$colc0c0c0;マーグリスの二重身は消え去った$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;마굴리스의 이중신이 사라졌다$colc0c0c0;
+[END]
+
+[000115A3]
+[JPN]
+★ラリアート
+[KOR]
+★래리어트
+[END]
+
+[000115B0]
+[JPN]
+★PCの状態は？
+[KOR]
+★PC 상태는?
+[END]
+
+[000115BF]
+[JPN]
+★攻撃発生
+[KOR]
+★공격발생
+[END]
+
+[000115CA]
+[JPN]
+★回復カウント
+[KOR]
+★회복 카운트
+[END]
+
+[000115D9]
+[JPN]
+★攻撃ミス
+[KOR]
+★공격실패
+[END]
+
+[000115E4]
+[JPN]
+★攻撃成功
+[KOR]
+★공격성공
+[END]
+
+[000115EF]
+[JPN]
+$zoom13;メディカ
+[KOR]
+$zoom13;메디카
+[END]
+
+[00011600]
+[JPN]
+$zoom13;メディカ２
+[KOR]
+$zoom13;메디카 2
+[END]
+
+[00011613]
+[JPN]
+★オブジェ終了
+[KOR]
+★오브젝트종료
+[END]
+
+[00011622]
+[JPN]
+★DoubleCast
+[KOR]
+★DoubleCast
+[END]
+
+[0001162F]
+[JPN]
+★DoppelDMG_ON
+[KOR]
+★DoppelDMG_ON
+[END]
+
+[0001163E]
+[JPN]
+$zoom14;$col7AF9FB;マーグリスの体力が蝕まれた$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;마굴리스의 체력이 잠식됐다$colc0c0c0;
+[END]
+
+[00011677]
+[JPN]
+★マーグリスの体力が蝕まれた
+[KOR]
+★마굴리스의 체력이 잠식됐다
+[END]
+
+[00011694]
+[JPN]
+★ターンチェンジ
+[KOR]
+★턴 체인지
+[END]
+
+[000116A5]
+[JPN]
+★ダメージ2
+[KOR]
+★대미지 2
+[END]
+
+[000116B1]
+[JPN]
+★攻撃した方
+[KOR]
+★공격한 쪽
+[END]
+
+[000116BE]
+[JPN]
+★ダメージ０
+[KOR]
+★대미지 0
+[END]
+
+[000116CB]
+[JPN]
+★攻撃された分身のダメージ
+[KOR]
+★공격받은 분신의 대미지
+[END]
+
+[000116E6]
+[JPN]
+■faderate
+[KOR]
+■faderate
+[END]
+
+[000116F1]
+[JPN]
+■失った後のマーグリスのＨＰ
+[KOR]
+■잃은 후 마굴리스의 HP
+[END]
+
+[0001170E]
+[JPN]
+■調べたキャラＩＤ
+[KOR]
+■조사한 캐릭터 ID
+[END]
+
+[00011721]
+[JPN]
+■生きてるなら返す
+[KOR]
+■살아 있으면 반환
+[END]

@@ -1,0 +1,243 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think016.sb
+# SHA256: 68f3532cf97a0fdb335a49ad88d6e3f2dd4e5079648f223d01e35f5294305e85
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000D1B4]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000D1C9]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000D1E4]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000D211]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000D224]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000D22F]
+[JPN]
+■■体液吸収
+[KOR]
+■■체액흡수
+[END]
+
+[0000D23C]
+[JPN]
+■■女性
+[KOR]
+■■여성
+[END]
+
+[0000D245]
+[JPN]
+■■男性
+[KOR]
+■■남성
+[END]
+
+[0000D24E]
+[JPN]
+$zoom14;$colc0c0c0;　　吸収した体液を解析中・・$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　흡수 체액 분석 중・・・$colc0c0c0;
+[END]
+
+[0000D289]
+[JPN]
+$zoom14;$colc0c0c0;　　ゲノム解析・・・失敗$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　게놈 해석・・・ 실패$colc0c0c0;
+[END]
+
+[0000D2C0]
+[JPN]
+$zoom14;$colc0c0c0;　　ゲノム解析・・・完了$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;　　게놈 해석・・・ 완료$colc0c0c0;
+[END]
+
+[0000D2F7]
+[JPN]
+■属性は
+[KOR]
+■속성은
+[END]
+
+[0000D300]
+[JPN]
+■打撃属性ダメージ
+[KOR]
+■타격 속성 대미지
+[END]
+
+[0000D313]
+[JPN]
+$col7AF9FB;$zoom14;　少し体質が硬化した
+[KOR]
+$col7AF9FB;$zoom14;　체질이 좀 굳어졌다
+[END]
+
+[0000D33B]
+[JPN]
+■■攻撃者uno
+[KOR]
+■■공격자uno
+[END]
+
+[0000D349]
+[JPN]
+■■ゲノムカウント
+[KOR]
+■■게놈 카운트
+[END]
+
+[0000D35C]
+[JPN]
+■■ck
+[KOR]
+■■ck
+[END]
+
+[0000D363]
+[JPN]
+■■ユニットナンバー
+[KOR]
+■■유닛 번호
+[END]
+
+[0000D378]
+[JPN]
+■SPEED25
+[KOR]
+■SPEED25
+[END]
+
+[0000D382]
+[JPN]
+$zoom13;横殴打
+[KOR]
+$zoom13;횡타격
+[END]
+
+[0000D391]
+[JPN]
+$zoom13;すくい上げ
+[KOR]
+$zoom13;퍼 올리기
+[END]
+
+[0000D3A4]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[0000D3B5]
+[JPN]
+$zoom13;シェイブオーラ
+[KOR]
+$zoom13;셰이브 오라
+[END]
+
+[0000D3CC]
+[JPN]
+$zoom13;体液吸収
+[KOR]
+$zoom13;체액흡수
+[END]
+
+[0000D3DD]
+[JPN]
+$zoom13;ブーストワン
+[KOR]
+$zoom13;부스트 원
+[END]
+
+[0000D3F2]
+[JPN]
+■■mem1
+[KOR]
+■■mem1
+[END]
+
+[0000D3FB]
+[JPN]
+■■solct
+[KOR]
+■■solct
+[END]
+
+[0000D405]
+[JPN]
+■■ポス
+[KOR]
+■■포스
+[END]
+
+[0000D40E]
+[JPN]
+$zoom13;全能性カルス
+[KOR]
+$zoom13;전능성캘러스
+[END]
+
+[0000D423]
+[JPN]
+■生存者なしの場合は自分
+[KOR]
+■생존자가 없으면 자신
+[END]
+
+[0000D43C]
+[JPN]
+■CHAOS遺伝子
+[KOR]
+■CHAOS유전자
+[END]
+
+[0000D44A]
+[JPN]
+■KOSMOS遺伝子
+[KOR]
+■KOSMOS유전자
+[END]
+
+[0000D459]
+[JPN]
+■それ以外の遺伝子
+[KOR]
+■그 외의 유전자
+[END]
+
+[0000D46C]
+[JPN]
+$zoom13;精神吸収
+[KOR]
+$zoom13;정신흡수
+[END]

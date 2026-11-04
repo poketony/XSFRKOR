@@ -1,0 +1,89 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: cf/sc1049.sb
+# SHA256: efb8bc6c3482737262aa029f585fbe77f0ba34f3c6491d913f23b1468b34ec83
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00001566]
+[JPN]
+ロケーター反応キャラ番号：0
+[KOR]
+로케이터 반응 캐릭터 번호:0
+[END]
+
+[00001586]
+[JPN]
+ロケーター番号：800
+[KOR]
+로케이터 번호:800
+[END]
+
+[0000159E]
+[JPN]
+ロケーター番号：802
+[KOR]
+로케이터 번호:802
+[END]
+
+[000015B2]
+[JPN]
+その他のロケーター
+[KOR]
+기타 로케이터
+[END]
+
+[000015C5]
+[JPN]
+ロケーター反応キャラ番号：11
+[KOR]
+로케이터 반응 캐릭터 번호:11
+[END]
+
+[00001621]
+[JPN]
+  破壊番号：
+[KOR]
+  파괴 번호:
+[END]
+
+[0000162E]
+[JPN]
+50を破壊
+[KOR]
+50 파괴
+[END]
+
+[00001637]
+[JPN]
+52を破壊
+[KOR]
+52 파괴
+[END]
+
+[00001640]
+[JPN]
+54を破壊
+[KOR]
+54 파괴
+[END]
+
+[00001649]
+[JPN]
+その他を破壊
+[KOR]
+기타 파괴
+[END]
+
+[0000165B]
+[JPN]
+マップ分割によりジャンプなし
+[KOR]
+맵 분할로 점프 없음
+[END]
+
+[0000168A]
+[JPN]
+その他 ?
+[KOR]
+기타 ?
+[END]

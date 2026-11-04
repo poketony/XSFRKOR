@@ -1,0 +1,117 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think095.sb
+# SHA256: d3c31385e60f4ec53093ad0966d5ad4cce8247cd4159318d9d1bcadcfb4a4e42
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000C2F4]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000C309]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000C324]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000C351]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000C364]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000C36F]
+[JPN]
+■冷カウント
+[KOR]
+■냉기카운트
+[END]
+
+[0000C37C]
+[JPN]
+■inoki
+[KOR]
+■inoki
+[END]
+
+[0000C384]
+[JPN]
+■冷カウント2
+[KOR]
+■냉기카운트2
+[END]
+
+[0000C392]
+[JPN]
+■冷カウント3
+[KOR]
+■냉기카운트3
+[END]
+
+[0000C3A0]
+[JPN]
+■冷カウント4
+[KOR]
+■냉기카운트4
+[END]
+
+[0000C3AE]
+[JPN]
+■冷カウント5
+[KOR]
+■냉기카운트5
+[END]
+
+[0000C3BC]
+[JPN]
+■イベントスロットスキルＵＰ
+[KOR]
+■이벤트 슬롯 스킬 UP
+[END]
+
+[0000C3D9]
+[JPN]
+$zoom13;アックスクールナックル
+[KOR]
+$zoom13;액스 쿨 너클
+[END]
+
+[0000C3F8]
+[JPN]
+$zoom13;フリジッドウェーブ
+[KOR]
+$zoom13;프리지드 웨이브
+[END]
+
+[0000C413]
+[JPN]
+$zoom13;コキュートスカノン
+[KOR]
+$zoom13;코퀴토스 캐논
+[END]
+
+[0000C42E]
+[JPN]
+$zoom13;アイスブラスト
+[KOR]
+$zoom13;아이스블래스트
+[END]

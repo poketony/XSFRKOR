@@ -1,0 +1,292 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think082.sb
+# SHA256: 84f24e468ac00f43ee80ee9f042c90b967bdce473ca2e2d5edb395b81ff33340
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[0000EA5C]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[0000EA71]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[0000EA8C]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[0000EAB9]
+[JPN]
+■■■■モモの技＝
+[KOR]
+■■■■모모 기술=
+[END]
+
+[0000EACC]
+[JPN]
+きゃんせる
+[KOR]
+취소
+[END]
+
+[0000EAD7]
+[JPN]
+$zoom14;Ｕ．Ｍ．Ｎ．相転移砲　ー拡散ー
+[KOR]
+$zoom14;U.M.N. 상전이포　ー확산ー
+[END]
+
+[0000EAFE]
+[JPN]
+$zoom14;Ｕ．Ｍ．Ｎ．相転移砲　ー直線ー
+[KOR]
+$zoom14;U.M.N. 상전이포　ー직선ー
+[END]
+
+[0000EB25]
+[JPN]
+■復活
+[KOR]
+■부활
+[END]
+
+[0000EB2C]
+[JPN]
+■ThinkLevel1
+[KOR]
+■ThinkLevel1
+[END]
+
+[0000EB3A]
+[JPN]
+■ThinkLevel2
+[KOR]
+■ThinkLevel2
+[END]
+
+[0000EB48]
+[JPN]
+■ThinkLevel3
+[KOR]
+■ThinkLevel3
+[END]
+
+[0000EB56]
+[JPN]
+■AttackPhase1
+[KOR]
+■AttackPhase1
+[END]
+
+[0000EB65]
+[JPN]
+■AttackPhase2
+[KOR]
+■AttackPhase2
+[END]
+
+[0000EB74]
+[JPN]
+■AttackPhase3
+[KOR]
+■AttackPhase3
+[END]
+
+[0000EB83]
+[JPN]
+■復活前ダメージ思考
+[KOR]
+■부활전 대미지사고
+[END]
+
+[0000EB98]
+[JPN]
+■ヒットフラグ
+[KOR]
+■히트 플래그
+[END]
+
+[0000EBA7]
+[JPN]
+■防御カウンター
+[KOR]
+■방어 카운터
+[END]
+
+[0000EBB8]
+[JPN]
+■回避カウンター
+[KOR]
+■회피 카운터
+[END]
+
+[0000EBE7]
+[JPN]
+■コンボ浮かし
+[KOR]
+■콤보 띄우기
+[END]
+
+[0000EC05]
+[JPN]
+■OmegaATKtimer
+[KOR]
+■OmegaATKtimer
+[END]
+
+[0000EC15]
+[JPN]
+■OmegaATK1cont
+[KOR]
+■OmegaATK1cont
+[END]
+
+[0000EC43]
+[JPN]
+■浮かし
+[KOR]
+■띄우기
+[END]
+
+[0000EC4C]
+[JPN]
+■AIRatkCT
+[KOR]
+■AIRatkCT
+[END]
+
+[0000EC57]
+[JPN]
+■コンボブーストtgt
+[KOR]
+■콤보 부스트 tgt
+[END]
+
+[0000EC6B]
+[JPN]
+■コンボブーストrnd
+[KOR]
+■콤보 부스트 rnd
+[END]
+
+[0000EC7F]
+[JPN]
+■0除算だから帰還します
+[KOR]
+■0으로 나눠 복귀합니다
+[END]
+
+[0000EC97]
+[JPN]
+■３０％以下
+[KOR]
+■30% 이하
+[END]
+
+[0000ECA4]
+[JPN]
+■ステータス異常Ｈ
+[KOR]
+■스테이터스 이상H
+[END]
+
+[0000ECB7]
+[JPN]
+■ステータス異常Ｌ
+[KOR]
+■스테이터스 이상L
+[END]
+
+[0000ECCA]
+[JPN]
+■異常者なし
+[KOR]
+■이상자없음
+[END]
+
+[0000ECD7]
+[JPN]
+$zoom13;下賎に存在意義無し（Ｌブラック）
+[KOR]
+$zoom13;천한 자는 존재 의의 없다(L 블랙)
+[END]
+
+[0000ED00]
+[JPN]
+$zoom13;死への誘い（Ｌスロウ）
+[KOR]
+$zoom13;죽음의 유혹(L 슬로)
+[END]
+
+[0000ED1F]
+[JPN]
+$zoom13;崇高な波動
+[KOR]
+$zoom13;숭고한파동
+[END]
+
+[0000ED45]
+[JPN]
+$zoom13;次元の交差
+[KOR]
+$zoom13;차원교차
+[END]
+
+[0000ED58]
+[JPN]
+$zoom13;痴れ者への罰（Ｌブラック）
+[KOR]
+$zoom13;어리석은 자의 벌(L 블랙)
+[END]
+
+[0000ED7B]
+[JPN]
+$zoom13;参入儀礼（Ｌスロウ）
+[KOR]
+$zoom13;입문 의례(L 슬로)
+[END]
+
+[0000EDAB]
+[JPN]
+$zoom13;墓標縛り（ブーストロック）
+[KOR]
+$zoom13;묘비 속박(부스트 록)
+[END]
+
+[0000EDCE]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[0000EDDF]
+[JPN]
+$zoom13;リフレッシュＨ
+[KOR]
+$zoom13;리프레시 H
+[END]
+
+[0000EDF6]
+[JPN]
+$zoom13;リフレッシュＬ
+[KOR]
+$zoom13;리프레시 L
+[END]
+
+[0000EE0D]
+[JPN]
+$zoom13;ガルテスの憎呪（戒め）
+[KOR]
+$zoom13;가르테스 증오주(계율)
+[END]

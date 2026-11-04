@@ -1,0 +1,229 @@
+# FREAKS-EXP-SB: JPN-KOR v1
+# SOURCE: yamamoto/think/think086.sb
+# SHA256: 2f72f7a1826a28953754108190ca78eacbbacec576fd03d0fb936cd7e23bcf0b
+# Empty KOR preserves original bytes. Keep JPN, IDs and control tokens.
+# Write literal \n for a line break.
+
+[00006C7C]
+[JPN]
+勝利者ゆにっと！！！
+[KOR]
+승리자 유닛!!!
+[END]
+
+[00006C91]
+[JPN]
+■■■■■■■敵のアタック
+[KOR]
+■■■■■■■적의 공격
+[END]
+
+[00006CAC]
+[JPN]
+■■■■■■■ろ〜〜〜〜〜んぐこ〜〜〜〜〜る
+[KOR]
+■■■■■■■로~~~~~옹 코~~~~~올
+[END]
+
+[00006CD9]
+[JPN]
+■■■■モモ機の技＝
+[KOR]
+■■■■모모기 기술=
+[END]
+
+[00006CEE]
+[JPN]
+■警戒中
+[KOR]
+■경계중
+[END]
+
+[00006CF7]
+[JPN]
+■ThinkLevel1
+[KOR]
+■ThinkLevel1
+[END]
+
+[00006D05]
+[JPN]
+■ThinkLevel2
+[KOR]
+■ThinkLevel2
+[END]
+
+[00006D13]
+[JPN]
+■ThinkLevel3
+[KOR]
+■ThinkLevel3
+[END]
+
+[00006D21]
+[JPN]
+■DamegeCount
+[KOR]
+■DamegeCount
+[END]
+
+[00006D2F]
+[JPN]
+$zoom14;$col7AF9FB;突然の珍客にスカラベイユは驚いている！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;뜻밖의 진객에 스카라베유는 놀랐다!$colc0c0c0;
+[END]
+
+[00006D74]
+[JPN]
+$zoom14;$col7AF9FB;スカラベイユは珍客に対し一礼した$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;스카라베유는 진객에게 인사했다$colc0c0c0;
+[END]
+
+[00006DB3]
+[JPN]
+$zoom14;$col7AF9FB;スカラベイユは珍客を敵とみなした！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;스카라베유는 진객을 적으로 봤다!$colc0c0c0;
+[END]
+
+[00006DF4]
+[JPN]
+$zoom14;$col7AF9FB;スカラベイユは珍客に対し無礼者と判断した！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;스카라베유는 진객을 무례한 자로 판단했다!$colc0c0c0;
+[END]
+
+[00006E3D]
+[JPN]
+$zoom14;$col7AF9FB;スカラベイユは警戒している$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;스카라베유는 경계하고 있다$colc0c0c0;
+[END]
+
+[00006E76]
+[JPN]
+■dont_like
+[KOR]
+■dont_like
+[END]
+
+[00006E82]
+[JPN]
+■kill_u
+[KOR]
+■kill_u
+[END]
+
+[00006E8B]
+[JPN]
+$zoom14;$col7AF9FB;スカラベイユはギアを一段上げた！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;스카라베유는 기어를 1단 올렸다!$colc0c0c0;
+[END]
+
+[00006ECA]
+[JPN]
+$zoom14;$colc0c0c0;スカラベイユはトップギアまで加速し\n$col7AF9FB;　　　音速の領域を手に入れた！$colc0c0c0;
+[KOR]
+$zoom14;$colc0c0c0;스카라베유는 톱 기어까지 가속해\n$col7AF9FB;　　　음속의 영역에 도달했다!$colc0c0c0;
+[END]
+
+[00006F36]
+[JPN]
+$zoom14;$col7AF9FB;かなり怒ってる様子だ！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;몹시 화난 모양이다!$colc0c0c0;
+[END]
+
+[00006F6B]
+[JPN]
+$zoom14;$col7AF9FB;スカラベイユはバテた！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;스카라베유는 지쳤다!$colc0c0c0;
+[END]
+
+[00006FA0]
+[JPN]
+$zoom14;$col7AF9FB;スカラベイユは音速の壁を突破し\n光速の領域を手に入れた！$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;스카라베유는 음속 벽을 돌파해\n광속의 영역에 도달했다!$colc0c0c0;
+[END]
+
+[00006FF7]
+[JPN]
+$zoom14;$col7AF9FB;どこまでいくんだスカラベイユ！？$colc0c0c0;
+[KOR]
+$zoom14;$col7AF9FB;어디까지 가느냐 스카라베유!?$colc0c0c0;
+[END]
+
+[00007036]
+[JPN]
+★0除算だから帰還します
+[KOR]
+★0으로 나눠 복귀합니다
+[END]
+
+[0000704E]
+[JPN]
+★３０％以下
+[KOR]
+★30% 이하
+[END]
+
+[0000705B]
+[JPN]
+★コンボブーストtgt
+[KOR]
+★콤보 부스트 tgt
+[END]
+
+[0000706F]
+[JPN]
+★コンボブーストrnd
+[KOR]
+★콤보 부스트 rnd
+[END]
+
+[00007083]
+[JPN]
+$zoom13;ブレードアタック
+[KOR]
+$zoom13;블레이드 어택
+[END]
+
+[0000709C]
+[JPN]
+$zoom13;夢の一刺し（Ｌスタン）
+[KOR]
+$zoom13;꿈의 일침(L 스턴)
+[END]
+
+[000070BB]
+[JPN]
+$zoom13;圧縮波動砲
+[KOR]
+$zoom13;압축파동포
+[END]
+
+[000070CE]
+[JPN]
+$zoom13;墓標縛り（Ｈバインド）
+[KOR]
+$zoom13;묘비 속박(H 바인드)
+[END]
+
+[000070ED]
+[JPN]
+$zoom13;クイック
+[KOR]
+$zoom13;퀵
+[END]
+
+[000070FE]
+[JPN]
+$zoom13;腐敗ガス（Ｌポイズン）
+[KOR]
+$zoom13;부패 가스(L 포이즌)
+[END]
