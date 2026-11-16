@@ -18,6 +18,10 @@
 
 **튜토리얼은 `MINI_SPR_159.png`의 완성 화면(640×448)을 수정해 `MINI_SPR_159_KOR.png`로 저장합니다.** 별도 `160.png`는 필요 없으며 BAT가 두 원본 텍스처에 자동 분배합니다. 예전 `159_KOR`·`160_KOR`도 지원하지만 같은 픽셀의 수정 내용이 충돌하면 중단합니다. [통합 화면 사용법](../codex-lab/freaks/MINI-GRAPHICS.md#튜토리얼-전체-화면)을 참고하세요.
 
+**`MINI_SPR_054.png`는 말풍선별 완성 문장을 조립한 364×336 편집본입니다.** 기존 글자 영역을 수정해 `MINI_SPR_054_KOR.png`로 저장하고 같은 BAT를 실행하세요. 말풍선 테두리·배경은 미리보기이므로 유지합니다. 기존 256×256 시트의 `_KOR.png`도 계속 지원합니다. [배치와 편집 범위](../codex-lab/freaks/MINI-GRAPHICS.md#054-말풍선-문구)
+
+**엔딩의 `MINI_SPR_192_KOR.png`·`193_KOR.png`는 한 쌍입니다.** 각각 ‘올 클리어!!’·‘축하합니다!!’이며, `192`의 ‘다’ 타일도 `193` 문구에서 사용합니다. 타일 자리를 유지하고 같은 BAT를 실행하면 글자 선택표와 가운데 위치도 함께 반영됩니다. 결과 `MINI.ELF`·`WWROM.DAT`를 함께 적용하세요. [글꼴·타일 구성·검증](../codex-lab/freaks/MINI-GRAPHICS.md#엔딩-축하-문구)
+
 세부 대상은 [기존 메뉴](../codex-lab/freaks/GRAPHICS-PIPELINE.md)와 [MINI 그림](../codex-lab/freaks/MINI-GRAPHICS.md)에 정리했습니다.
 
 추가된 24개도 같은 BAT로 리빌드합니다.
