@@ -7,7 +7,7 @@
 [JPN]
 　セーブ
 [KOR]
-　저장
+저장
 [END]
 
 # MAIN_MENU / 140px
@@ -23,7 +23,7 @@
 [JPN]
 オプション
 [KOR]
-옵션
+　옵션
 [END]
 
 # MAIN_MENU / 140px
