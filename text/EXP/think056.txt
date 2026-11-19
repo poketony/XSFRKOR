@@ -57,14 +57,14 @@ $zoom13;브레이크 아머
 [JPN]
 $zoom14;$col7AF9FB;防御シールド耐久力が５０％低下した$colc0c0c0;
 [KOR]
-$zoom14;$col7AF9FB;방어 실드 내구력이 50% 저하됐다$colc0c0c0;
+$zoom14;$col7AF9FB;방어 실드의 내구력이 50% 줄었다$colc0c0c0;
 [END]
 
 [00008984]
 [JPN]
 $zoom14;$col7AF9FB;　　防御シールドが破られた！$colc0c0c0;
 [KOR]
-$zoom14;$col7AF9FB;　　방어 실드가 뚫렸다!$colc0c0c0;
+$zoom14;$col7AF9FB;　　방어 실드가 깨졌다!$colc0c0c0;
 [END]
 
 [000089BF]
@@ -218,7 +218,7 @@ $zoom14;$col7AF9FB;　오테크 전송$colc0c0c0;
 [JPN]
 $zoom14;$colc0c0c0;ヴァンダーカム艦長は歯軋りしている
 [KOR]
-$zoom14;$colc0c0c0;반더캄 함장은 이를 갈고 있다
+$zoom14;$colc0c0c0;반더컴 함장은 이를 갈고 있다
 [END]
 
 [00008D06]
@@ -232,7 +232,7 @@ $zoom14;$colc0c0c0;반더캄 함장은 이를 갈고 있다
 [JPN]
 $zoom14;$col7AF9FB;　　　エーテル機関室修復完了\n　ナグルファルのＥＰが全回復した$colc0c0c0;
 [KOR]
-$zoom14;$col7AF9FB;　　　에테르 기관실 복구 완료\n　나글파르의 EP가 전부 회복됐다$colc0c0c0;
+$zoom14;$col7AF9FB;　　　에테르 기관실 복구 완료\n　나글파르의 EP가 모두 회복됐다$colc0c0c0;
 [END]
 
 [00008D90]
@@ -316,7 +316,7 @@ $zoom14;$col7AF9FB;　　보조연료시동$colc0c0c0;
 [JPN]
 $zoom14;$col7AF9FB;ナグルファル乗組員が脱走しはじめた！\n　　主砲エネルギー充填率５０％\n$colc0c0c0;
 [KOR]
-$zoom14;$col7AF9FB;나글파르 승무원들이 탈주하기 시작했다!\n　　주포 에너지 충전율 50%\n$colc0c0c0;
+$zoom14;$col7AF9FB;나글파르의 승무원들이 탈주하기 시작했다!\n　　주포 에너지 충전율 50%\n$colc0c0c0;
 [END]
 
 [0000909D]

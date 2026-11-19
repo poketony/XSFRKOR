@@ -71,7 +71,7 @@ $zoom14;$col0fd0e0;　오르기아 눈,$cola05050; 푸르게$col0fd0e0; 빛났�
 [JPN]
 $zoom14;$col7AF9FB;　　毒の効果がアップした$colc0c0c0;
 [KOR]
-$zoom14;$col7AF9FB;　　독의 효과가 상승했다$colc0c0c0;
+$zoom14;$col7AF9FB;　　독의 효과가 강해졌다$colc0c0c0;
 [END]
 
 [000107FB]

@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# These build inputs include byte-checked tables; do not translate line endings.
+/tools/build_data/** -text

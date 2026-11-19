@@ -386,7 +386,7 @@ $zoom13;내박인
 [JPN]
 $zoom14;$col7AF9FB;　　　不動の印　第壱を結んだ！$colc0c0c0;\n場の霊気が縛りつけられた感じがする$colc0c0c0;
 [KOR]
-$zoom14;$col7AF9FB;　　　부동의 인　제1을 맺었다!$colc0c0c0;\n주변의 영기가 묶인 듯한 느낌이다$colc0c0c0;
+$zoom14;$col7AF9FB;　　　부동의 인, 첫 번째를 맺었다!$colc0c0c0;\n주변의 영기가 속박된 듯하다$colc0c0c0;
 [END]
 
 [000110FA]

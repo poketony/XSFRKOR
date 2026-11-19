@@ -29,7 +29,7 @@
 [JPN]
 ■■■■モモの技＝
 [KOR]
-■■■■모모 기술=
+■■■■모모의 기술=
 [END]
 
 [0000CCD8]
@@ -71,7 +71,7 @@
 [JPN]
 $zoom14;$col7AF9FB;　不邪見が解けた！$colc0c0c0;
 [KOR]
-$zoom14;$col7AF9FB;　불사견이 해제됐다!$colc0c0c0;
+$zoom14;$col7AF9FB;　불사견이 풀렸다!$colc0c0c0;
 [END]
 
 [0000CD7C]
@@ -211,7 +211,7 @@ $zoom13;불사견
 [JPN]
 $zoom14;$col7AF9FB;　　対ブレイクの構え\n　物理攻撃の耐性を得た$colc0c0c0;
 [KOR]
-$zoom14;$col7AF9FB;　　브레이크에 맞서는 태세\n　물리 공격 내성을 얻었다$colc0c0c0;
+$zoom14;$col7AF9FB;　　브레이크에 대비한 태세\n　물리 공격 내성을 얻었다$colc0c0c0;
 [END]
 
 [0000CF9C]
@@ -225,12 +225,12 @@ $zoom13;위압
 [JPN]
 $zoom13;真言　一唱　　−命中率アップ−
 [KOR]
-$zoom13;진언　일창　　-명중률 상승-
+$zoom13;진언 일창　　−명중률 상승−
 [END]
 
 [0000CFD0]
 [JPN]
 $zoom13;裏真言　三唱　　−剣に霊気が満ちた−
 [KOR]
-$zoom13;이면 진언　삼창　　-검에 영기가 충만해졌다-
+$zoom13;이면 진언 삼창　　−검에 영기가 충만하다−
 [END]

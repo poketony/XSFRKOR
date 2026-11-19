@@ -2,18 +2,31 @@
 
 **`text`의 번역문 또는 `graphics`의 `_KOR.png`를 수정하고 루트 `Rebuild.bat`를 실행하면 됩니다.** 일반 TXT는 `[KOR]`, EXP 주민·퀘스트·보물 TXT는 따옴표 안을 수정합니다. 결과는 `rebuilt`에 원래 게임 파일명으로 나옵니다. `unpacked`·`decompressed`에 남긴 원본 기준본은 편집하지 않습니다.
 
-2026-10-31 용량 정리 후에는 **필수 원본 584개만 남겼으며 저장소 안의 ISO·음성/영상 사본·통째 EXP 아카이브는 삭제했습니다.** 일반 추출·리빌드는 그대로 동작하고 외부 ROM 환경에 의존하지 않습니다. 분석 지식은 [주제별 안내](codex-lab/README.md)에서 찾을 수 있습니다.
+## 새 체크아웃 준비
+
+에셋 빌더는 `tools/`와 `tools/build_data/`를 사용합니다. **`codex-lab`과 외부 ROM 작업 폴더는 필요하지 않습니다.** Windows에서 Python 3.12와 기본 글꼴 `a고딕16.ttf`·`a고딕14.ttf`를 준비한 뒤, 저장소 루트에서 실행합니다.
+
+```powershell
+python -m pip install -r tools/requirements.txt
+python -B tools/rebuild_assets.py prepare --iso "C:\path\Xenosaga Freaks (Japan).iso"
+.\Rebuild.bat --verify --no-pause
+.\Rebuild.bat --no-pause
+```
+
+마지막 줄 대신 `python -B tools/rebuild_assets.py rebuild`를 실행해도 됩니다. `Rebuild.bat`를 더블클릭해도 리빌드됩니다. 설치 글꼴 대신 별도 TTF/OTF를 사용하려면 Python 명령 끝에 `--font "C:\path\font.ttf"`를 붙입니다. 지정한 글꼴은 세 계열에 모두 적용됩니다.
+
+원본은 Git에 포함하지 않습니다. `prepare`는 지원하는 일본판 디스크(SLPS-25353)의 해시를 확인하고, `unpacked/`와 `decompressed/`에 빌드에 필요한 **584개(약 168 MiB)**만 준비합니다. ISO나 전체 EXP 아카이브의 사본은 만들지 않습니다. 기존 원본이 있는 경우 `prepare --source-tree "C:\path\prepared-checkout"`로 검증된 파일을 가져올 수 있습니다. 대상 폴더에 이미 같은 원본이 있으면 다시 쓰지 않으며, 해시가 다른 파일은 덮어쓰지 않고 중단합니다.
 
 ## 작업 순서
 
 1. `text`의 번역란에 번역하거나, `graphics`의 PNG 옆에 수정본을 `원래이름_KOR.png`로 저장합니다.
-2. 이 저장소의 **`Rebuild.bat`**를 실행합니다. 빈 KOR는 문자열 바이트를 바꾸지 않고 미수정 PNG도 적용하지 않지만, 확정한 공용·MINI 한글 폰트는 항상 만듭니다. `Extract.bat`는 누락된 편집 원본을 다시 만들며 기존 번역은 덮어쓰지 않습니다.
+2. 이 저장소의 **`Rebuild.bat`**를 실행합니다. 빈 KOR는 문자열 바이트를 바꾸지 않고 미수정 PNG도 적용하지 않지만, 확정한 공용·MINI 한글 폰트는 항상 만듭니다. 편집 원본을 다시 추출하려면 `python -B tools/rebuild_assets.py extract`를 사용합니다. 기존 번역은 덮어쓰지 않습니다.
 3. `rebuilt`의 게임 파일을 외부 **`C:\Users\JO\Desktop\XENO_ARC\Xenosaga\XenosagaFreaks\UNPACKED`**의 같은 상대 경로에 직접 옮깁니다. ELF·GRP·공통 폰트는 해당 빌드의 결과를 모두 함께 반영합니다. 파일 목록과 해시는 `Rebuild.bat` 옆의 `build.json`에서 확인하며, 이 JSON은 게임에 옮기지 않습니다.
 4. 외부 **`XenosagaFreaks\Rebuild.bat`**를 실행하면 `XenosagaFreaks_KOR.iso`가 나옵니다.
 
 저장소와 외부 ROM 공간은 독립적입니다. 자동 복사·링크·다른 작업 폴더에서 원본을 찾는 동작은 없습니다. 외부 빌더에는 원본 ISO·BIG·UltraISO가 필요 없습니다. 두 BAT는 각각 에셋 변환과 ISO 생성을 담당합니다.
 
-Python 3.12와 필요한 라이브러리는 현재 PC에 설치돼 있습니다. 기본 한글 글꼴은 **공용 GOTHIC: a고딕16**, **MINI: a고딕14**입니다. 글꼴 이름의 숫자는 출력 픽셀 크기가 아닙니다. 공용은 20×20 칸에 17px, MINI는 16×16 칸에 14px로 그리며 글자별 확대·축소는 하지 않습니다. XS2KOR와 같은 고정 대응표로 한자 2,350칸을 한글로 대체하고, 그 밖의 가나·영숫자·기호와 기준 원본은 보존합니다. **미번역 일본어의 해당 한자도 한글로 보이는 것은 승인한 방식의 결과입니다.** 공용 문자열은 대응 한자의 Shift-JIS 코드, MINI 한글은 EUC-KR 2바이트 값을 사용합니다. KS X 1001의 2,350자 밖의 한글·자모는 거부합니다. EXP의 기존 기본 글꼴(맑은 고딕)과 코드 배정은 이번 선택에서 변경하지 않았습니다. TTF/OTF를 저장소 `Rebuild.bat`에 드롭하면 종전처럼 세 계열에 한 글꼴을 일괄 지정합니다. 글꼴 파일 자체는 복사하지 않고 설치된 파일을 읽습니다. 쓰기 없는 검사는 저장소 `Rebuild.bat --verify --no-pause`, 외부 `Rebuild.bat --check --no-pause`입니다.
+기본 한글 글꼴은 **공용 GOTHIC: a고딕16**, **MINI: a고딕14**입니다. 글꼴 이름의 숫자는 출력 픽셀 크기가 아닙니다. 공용은 20×20 칸에 17px, MINI는 16×16 칸에 14px로 그리며 글자별 확대·축소는 하지 않습니다. XS2KOR와 같은 고정 대응표로 한자 2,350칸을 한글로 대체하고, 그 밖의 가나·영숫자·기호와 기준 원본은 보존합니다. **미번역 일본어의 해당 한자도 한글로 보이는 것은 승인한 방식의 결과입니다.** 공용 문자열은 대응 한자의 Shift-JIS 코드, MINI 한글은 EUC-KR 2바이트 값을 사용합니다. KS X 1001의 2,350자 밖의 한글·자모는 거부합니다. EXP는 본편에서 확정한 **Pretendard SemiBold 20px**의 한글 픽셀을 저장소 내부 스냅샷으로 사용하며, 체험판용 코드 배정과 원문 글리프 보존 방식을 유지합니다. TTF/OTF를 저장소 `Rebuild.bat`에 드롭하면 종전처럼 세 계열에 한 글꼴을 일괄 지정합니다. 글꼴 파일 자체는 복사하지 않고 설치된 파일을 읽습니다. 쓰기 없는 검사는 저장소 `Rebuild.bat --verify --no-pause`, 외부 `Rebuild.bat --check --no-pause`입니다.
 
 ## 자료 위치
 
@@ -27,7 +40,9 @@ Python 3.12와 필요한 라이브러리는 현재 PC에 설치돼 있습니다.
 | `decompressed/LNCH`, `ADV`, `DTB` | 변환에 필요한 TM++·GOTHIC 폰트 기준본 |
 | `decompressed/MINI/WWROM.DAT` | 변환에 필요한 폰트·스프라이트·사전 등의 기준본 |
 | `decompressed/EXP/XENOSAGA` | SB·맵 BIN·메뉴·전투 데이터·폰트·선별 그래픽 등의 필수 원본 |
-| `codex-lab/freaks` | 검증된 빌드 모듈, 분석 도구, 테스트, 포맷 설명, 검증 기록 |
+| [`tools/`](tools) | 실사용 에셋 리빌드·검증·원본 준비 코드 |
+| [`tools/build_data/`](tools/build_data/README.md) | 빌드 기준 목록, 글자 대응표, 체험판 폰트 픽셀, 제노피탄 퍼즐 편집 데이터 |
+| `codex-lab/freaks` | 로컬 분석·시험 기록. 빌드와 무관하며 새 체크아웃에는 없음 |
 
 `SCEN*.DAT`는 원래 비압축이므로 해제본을 중복 생성하지 않았습니다. 영상·음성 사본은 용량 정리 때 제거했습니다. `.tmpp`는 게임의 이미지 바이너리이지 포토샵 편집용 PNG가 아닙니다. 전체 원본이 필요한 과거의 ISO 재현·전수조사 검사는 원본 자료를 수동 복원한 뒤에만 재실행할 수 있습니다.
 
@@ -38,6 +53,8 @@ ADV 대사는 **`text/SCEN00.txt`~`SCEN06.txt`**, 데이터베이스는 **`text/
 저장 아이콘 부제는 **`graphics/SAVE_ICON_SUBTITLE_KOR.png`** 한 장으로 런처·ADV 두 사본에 적용합니다. MINI의 PS2 브라우저 저장 제목은 **`text/MINI_SAVE.txt`**에서 바꿉니다. 브라우저 제목은 게임 한글 폰트를 사용하지 않으므로 영문·일본어만 지원합니다. [대상·제한·사용법](codex-lab/freaks/SAVE-ASSETS.md)을 참고하세요.
 
 **체험판 그래픽은 `graphics/EXP`의 PNG를 수정해 옆에 `_KOR.png`로 저장하고 같은 `Rebuild.bat`를 실행합니다.** 메뉴 39장·맵 이름 17종·안내/로고 4장입니다. 메뉴·라벨은 불투명 회색조, `titlefan.png`는 RGBA와 투명도를 유지합니다. 결과는 `rebuilt/EXP/FILES`에 나오며 외부 `UNPACKED/EXP/FILES`로 수동 반영합니다. [EXP 그래픽 사용법](graphics/EXP/README.md)을 참고하세요.
+
+2026-11-18 XS2KOR의 번역 433항목과 메뉴·지명 그래픽 56장, 확정 한글 픽셀을 이식했습니다. 일반 리빌드는 다른 저장소를 읽지 않습니다. [이식 범위·보류 항목·검증](codex-lab/freaks/EXP-XS2-PORT.md)을 참고하세요.
 
 저장·로드·포맷 안내와 옵션 설명은 `text/SYSTEM_LNCH.txt`, `text/SYSTEM_ADV.txt`의 KOR에서 번역합니다. [시스템 문구 사용법과 남은 대상](codex-lab/freaks/SYSTEM-STRUCTURE.md)에 제어 코드와 메모리카드 제목의 별도 제한을 적었습니다.
 
@@ -65,6 +82,4 @@ EXP의 결과 `rebuilt/EXP/FILES/...`는 외부 `UNPACKED/EXP/FILES/...`로, `re
 
 검증: 내부 분리 파일 4,850개 확인, 압축된 1,232개는 원본 MIPS 해제 함수와 바이트 단위 일치. ADV 분기·폰트·에셋 합성 회귀 테스트도 통과했습니다. **원본 파일 136개로 재구축한 ISO는 원본 전체 SHA-256과 일치**했습니다. 번역 적용 후의 실제 게임 플레이 검증은 별도입니다.
 
-분석·시험 코드와 기록은 [codex-lab](codex-lab/freaks/README.md)에 남깁니다. 실사용 편집 파일은 루트 `text`·`graphics`이며 lab의 기존 템플릿을 번역할 필요는 없습니다. 다른 Xenosaga 저장소에 대한 실행 의존성은 없고 커밋·푸시는 하지 않았습니다.
-
-루트 BAT도 `codex-lab/freaks/tools`의 실행 모듈과 기준 목록을 사용합니다. 이 모듈·기준 목록과 `unpacked`·`decompressed`는 임시 시험 파일이 아니므로 삭제하지 않습니다.
+본문의 `codex-lab/` 링크는 기존 로컬 분석 기록을 가리킵니다. 새 체크아웃에서는 열리지 않아도 빌드에는 영향이 없습니다. 실제 편집본은 루트 `text`·`graphics`와 [제노피탄 퍼즐 데이터](tools/build_data/README.md)에 있습니다.

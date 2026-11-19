@@ -1,0 +1,10 @@
+version = 1
+
+[[stages]]
+index = 0
+name = "달걀"
+description = "달걀을 세우는 것보다 쉬워요"
+hints = ["다음 조각도 생각하며 놓아 보세요", "한 번에 여러 단어도 만들 수 있어요"]
+preplaced = "사나고"
+inventory = "과자기기차표차무기"
+route = [{x=2, y=2}, {x=2, y=3}, {x=2, y=4}, {x=4, y=2}, {x=4, y=3}, {x=4, y=4}, {x=3, y=4}]

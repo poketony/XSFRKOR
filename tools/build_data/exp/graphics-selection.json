@@ -1,0 +1,764 @@
+{
+  "menu": {
+    "yosikawa/ctrl01.xtx": {
+      "sha256": "69b3bd4b50d1afc8ad03ceff5ff8fdd0b9a16ffa8cacc5f77e457d64cc388e43",
+      "rectangles": [
+        {
+          "key": "ctrl_l2_r2",
+          "xywh": [
+            44,
+            23,
+            76,
+            17
+          ]
+        },
+        {
+          "key": "ctrl_l1_r1",
+          "xywh": [
+            44,
+            65,
+            76,
+            17
+          ]
+        },
+        {
+          "key": "ctrl_dpad",
+          "xywh": [
+            49,
+            111,
+            47,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_select",
+          "xywh": [
+            42,
+            157,
+            74,
+            17
+          ]
+        },
+        {
+          "key": "ctrl_left_stick",
+          "xywh": [
+            47,
+            203,
+            61,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_right_stick",
+          "xywh": [
+            401,
+            203,
+            61,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_start",
+          "xywh": [
+            222,
+            223,
+            69,
+            17
+          ]
+        },
+        {
+          "key": "ctrl_button",
+          "xywh": [
+            426,
+            22,
+            33,
+            18
+          ]
+        },
+        {
+          "key": "ctrl_button",
+          "xywh": [
+            426,
+            62,
+            33,
+            18
+          ]
+        },
+        {
+          "key": "ctrl_button",
+          "xywh": [
+            426,
+            102,
+            33,
+            18
+          ]
+        },
+        {
+          "key": "ctrl_button",
+          "xywh": [
+            426,
+            142,
+            33,
+            18
+          ]
+        },
+        {
+          "key": "ctrl_menu_category",
+          "xywh": [
+            21,
+            331,
+            121,
+            17
+          ]
+        },
+        {
+          "key": "ctrl_menu_open_close",
+          "xywh": [
+            383,
+            331,
+            103,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_character_switch",
+          "xywh": [
+            30,
+            375,
+            102,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_confirm",
+          "xywh": [
+            419,
+            371,
+            25,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_cursor_1",
+          "xywh": [
+            39,
+            421,
+            66,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_cancel",
+          "xywh": [
+            394,
+            411,
+            82,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_skill_reset",
+          "xywh": [
+            369,
+            452,
+            123,
+            30
+          ]
+        },
+        {
+          "key": "ctrl_unused",
+          "xywh": [
+            57,
+            467,
+            36,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_cursor_2",
+          "xywh": [
+            44,
+            513,
+            66,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_navigator_angle",
+          "xywh": [
+            374,
+            512,
+            110,
+            30
+          ]
+        },
+        {
+          "key": "ctrl_leader_switch",
+          "xywh": [
+            215,
+            532,
+            98,
+            30
+          ]
+        },
+        {
+          "key": "ctrl_status",
+          "xywh": [
+            68,
+            868,
+            55,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_skill",
+          "xywh": [
+            77,
+            928,
+            37,
+            16
+          ]
+        },
+        {
+          "key": "ctrl_party",
+          "xywh": [
+            6,
+            948,
+            54,
+            16
+          ]
+        }
+      ]
+    },
+    "yosikawa/font.xtx": {
+      "sha256": "ce83cc04e00c81de4182d45c6465b3a5d9c26f640a11e591babf18a1bcb75d00",
+      "rectangles": [
+        {
+          "key": "font_character_select",
+          "xywh": [
+            8,
+            384,
+            96,
+            18
+          ]
+        }
+      ]
+    },
+    "yosikawa/obj01.xtx": {
+      "sha256": "15f7792e6510fb3f40f19af5d6bf27d7df160ba3a9d2ef60714496bc79050209",
+      "rectangles": [
+        {
+          "key": "obj_item",
+          "xywh": [
+            8,
+            288,
+            50,
+            18
+          ]
+        },
+        {
+          "key": "obj_special_item",
+          "xywh": [
+            74,
+            288,
+            75,
+            18
+          ]
+        },
+        {
+          "key": "obj_normal_attack",
+          "xywh": [
+            339,
+            288,
+            55,
+            18
+          ]
+        },
+        {
+          "key": "obj_special_attack",
+          "xywh": [
+            410,
+            288,
+            42,
+            18
+          ]
+        },
+        {
+          "key": "obj_accessory",
+          "xywh": [
+            8,
+            324,
+            97,
+            18
+          ]
+        },
+        {
+          "key": "obj_ether",
+          "xywh": [
+            8,
+            360,
+            52,
+            18
+          ]
+        },
+        {
+          "key": "obj_skill",
+          "xywh": [
+            76,
+            360,
+            41,
+            18
+          ]
+        },
+        {
+          "key": "obj_solo",
+          "xywh": [
+            132,
+            360,
+            42,
+            18
+          ]
+        },
+        {
+          "key": "obj_duo",
+          "xywh": [
+            190,
+            360,
+            42,
+            18
+          ]
+        },
+        {
+          "key": "obj_class",
+          "xywh": [
+            248,
+            360,
+            48,
+            18
+          ]
+        },
+        {
+          "key": "obj_battle_formation",
+          "xywh": [
+            312,
+            360,
+            63,
+            18
+          ]
+        },
+        {
+          "key": "obj_learned_skill",
+          "xywh": [
+            391,
+            358,
+            66,
+            18
+          ]
+        },
+        {
+          "key": "obj_tutorial",
+          "xywh": [
+            303,
+            394,
+            81,
+            18
+          ]
+        },
+        {
+          "key": "obj_equipped_skill",
+          "xywh": [
+            8,
+            428,
+            66,
+            18
+          ]
+        },
+        {
+          "key": "obj_ether_skill",
+          "xywh": [
+            90,
+            428,
+            88,
+            18
+          ]
+        },
+        {
+          "key": "obj_leader_change",
+          "xywh": [
+            194,
+            428,
+            94,
+            18
+          ]
+        }
+      ]
+    }
+  },
+  "labels": [
+    {
+      "id": 134,
+      "path": "simajiri/esd/ce001_999.esd",
+      "offset": 10688,
+      "name": "m01-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "2e7740a84bc1fe9f10ac0af840382058367a8d1856de539f37ddddf89d75c928"
+    },
+    {
+      "id": 159,
+      "path": "simajiri/esd/ce002_999.esd",
+      "offset": 10688,
+      "name": "m02-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "72bfe7f925682dbf0c44139f7e4f32239396e1df5128d694f2f6bbe0a136784c"
+    },
+    {
+      "id": 160,
+      "path": "simajiri/esd/ce003_999.esd",
+      "offset": 10688,
+      "name": "m03-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "bf5131fd314bafcd9047aa8d264d84e51cc6dd956373c6454e471ca189fc6f79"
+    },
+    {
+      "id": 169,
+      "path": "simajiri/esd/ce004_999.esd",
+      "offset": 10688,
+      "name": "m04-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "55dd7a7b4567e831c9ed6f1c07887ca7d16a90dd1100142577965367bdab1572"
+    },
+    {
+      "id": 171,
+      "path": "simajiri/esd/ce005_999.esd",
+      "offset": 10688,
+      "name": "m05-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "6eea39cc7136540183daf1b1dd31b95e7bb2aaaaca034bf87a372247f7bf08ce"
+    },
+    {
+      "id": 175,
+      "path": "simajiri/esd/ce006_999.esd",
+      "offset": 10688,
+      "name": "m06-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "2e6c9f84b8a8c5bc8d848bbcea917b96ec3a6757959c9f6f303b65bdb56b4d57"
+    },
+    {
+      "id": 182,
+      "path": "simajiri/esd/ce007_999.esd",
+      "offset": 10688,
+      "name": "m07-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "e9c8f4cec8ec9d3c736e321ca2f9d755b1be539391d6642db51f2ddda0d94548"
+    },
+    {
+      "id": 183,
+      "path": "simajiri/esd/ce008_999.esd",
+      "offset": 10688,
+      "name": "m08-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "fd7fd800ab0c523f312a715d8f4100d70c0de6c804dd77b46a7293bdab88ce6a"
+    },
+    {
+      "id": 192,
+      "path": "simajiri/esd/ce009_999.esd",
+      "offset": 10688,
+      "name": "m09-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "3a709a766585f0dc417ce46d9b1383b3061469eb38b140aa086194a7a4c20962"
+    },
+    {
+      "id": 208,
+      "path": "simajiri/esd/ce010_999.esd",
+      "offset": 10688,
+      "name": "m10-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "d6e4f002f769652fb58a3dc7058ac6383538cf364a40e67d8bae5ffd677b953e"
+    },
+    {
+      "id": 209,
+      "path": "simajiri/esd/ce011_999.esd",
+      "offset": 10688,
+      "name": "m11-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "b2edb89a6550b38fd9ce9c1223bf811d67b9f8b59ca91470886f1eedb87e6be6"
+    },
+    {
+      "id": 218,
+      "path": "simajiri/esd/ce012_999.esd",
+      "offset": 10688,
+      "name": "m12-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "a0ff75dc77914e29a597b54c4c976f090785c02c5dd57acab6351c3849e2a0de"
+    },
+    {
+      "id": 219,
+      "path": "simajiri/esd/ce013_999.esd",
+      "offset": 10688,
+      "name": "m13-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "71f53500ea70d095a96693de09145b1c273c7bf23afad348fb903707bef9cccb"
+    },
+    {
+      "id": 226,
+      "path": "simajiri/esd/ce014_999.esd",
+      "offset": 10688,
+      "name": "m14-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "fe3fbd86e3fb2c2c063ef7025b2115fbb837352c00680abed0e46fef58603772"
+    },
+    {
+      "id": 228,
+      "path": "simajiri/esd/ce015_999.esd",
+      "offset": 10688,
+      "name": "m15-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "a0b51f289bc4f827259d6fcbe8375c095a7ac7e860c884b7e01eb587d535b4d9"
+    },
+    {
+      "id": 229,
+      "path": "simajiri/esd/ce016_999.esd",
+      "offset": 10688,
+      "name": "m16-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "6ab3c67b485ba6d73a5c4c44e740c958da9a5ea8ff9f3f31b501a87bd32ecad9"
+    },
+    {
+      "id": 239,
+      "path": "simajiri/esd/ce017_999.esd",
+      "offset": 10688,
+      "name": "m17d-a.bmp",
+      "width": 256,
+      "height": 32,
+      "bpp": 8,
+      "flags": 0,
+      "palette_offset": 28416,
+      "sha256": "994622e1b34c786c3f1b2ee9d4ca77a29951bea14065c2ca1af95b5ff197ffb4"
+    }
+  ],
+  "raster": [
+    {
+      "path": "yajima/mnt_set.jpg",
+      "sha256": "7b9ddeeb993996ffabfdcf9426c148688c045e1908b00d7f58e2892c99707247",
+      "shape": [
+        448,
+        512,
+        3
+      ],
+      "category": "instructions"
+    },
+    {
+      "path": "yajima/tuto.jpg",
+      "sha256": "877944cfd8321babb7ff6865568fc6ae2123b911282e710d72c9892b0c28f77a",
+      "shape": [
+        448,
+        512,
+        3
+      ],
+      "category": "instructions"
+    },
+    {
+      "path": "yajima/titlefan.bin",
+      "sha256": "f85819e178c7620b6124eebe8229d7c64ca5d99b992ddbe6dbbbf4b87042ca9b",
+      "shape": [
+        448,
+        512,
+        4
+      ],
+      "category": "logo"
+    },
+    {
+      "path": "yajima/gameov2.jpg",
+      "sha256": "54a50214fb0f14b45b65fcf06c703e54b7b013e9458b00e8b9cbf9a528e40943",
+      "shape": [
+        448,
+        512,
+        3
+      ],
+      "category": "logo"
+    }
+  ],
+  "unresolved_background_candidates": [
+    {
+      "id": 5593,
+      "path": "model/map/E2_KML04.txy",
+      "name": "kml4_kanban02",
+      "bank": 0,
+      "material": 33,
+      "record": 3600,
+      "psm": 19,
+      "region": [
+        896,
+        128,
+        128,
+        128
+      ],
+      "clut": [
+        480,
+        208
+      ]
+    },
+    {
+      "id": 5593,
+      "path": "model/map/E2_KML11.txy",
+      "name": "kml4_kanban02",
+      "bank": 0,
+      "material": 42,
+      "record": 4464,
+      "psm": 19,
+      "region": [
+        640,
+        128,
+        128,
+        128
+      ],
+      "clut": [
+        464,
+        192
+      ]
+    }
+  ],
+  "optional_effect_glyphs": [
+    {
+      "id": 534,
+      "locations": [
+        {
+          "path": "simajiri/esd/pe000_008.esd",
+          "offset": 8192,
+          "name": "moji03.bmp",
+          "width": 256,
+          "height": 256,
+          "bpp": 8,
+          "flags": 0,
+          "palette_offset": 104000
+        }
+      ]
+    },
+    {
+      "id": 794,
+      "locations": [
+        {
+          "path": "simajiri/esd/pe000_037.esd",
+          "offset": 9216,
+          "name": "moji02.bmp",
+          "width": 128,
+          "height": 128,
+          "bpp": 4,
+          "flags": 0,
+          "palette_offset": 52736
+        }
+      ]
+    },
+    {
+      "id": 896,
+      "locations": [
+        {
+          "path": "simajiri/esd/pe000_502.esd",
+          "offset": 41728,
+          "name": "kazemoji.bmp",
+          "width": 256,
+          "height": 256,
+          "bpp": 8,
+          "flags": 0,
+          "palette_offset": 113344
+        }
+      ]
+    },
+    {
+      "id": 1303,
+      "locations": [
+        {
+          "path": "simajiri/esp/pe002.esp",
+          "offset": 8320,
+          "name": "jin_moji01.bmp",
+          "width": 64,
+          "height": 64,
+          "bpp": 4,
+          "flags": 1,
+          "palette_offset": 28032
+        }
+      ]
+    },
+    {
+      "id": 1536,
+      "locations": [
+        {
+          "path": "simajiri/esp/pe562.esp",
+          "offset": 64,
+          "name": "mu.bmp",
+          "width": 64,
+          "height": 64,
+          "bpp": 4,
+          "flags": 1,
+          "palette_offset": 12608
+        }
+      ]
+    }
+  ],
+  "menu_editable_images": 39,
+  "menu_write_rectangles": 42
+}

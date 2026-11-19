@@ -43,7 +43,7 @@
 [JPN]
 $col7AF9FB;$zoom15;　カイザーシールドに亀裂が生じた！
 [KOR]
-$col7AF9FB;$zoom15;　카이저 실드에 균열이 생겼다!
+$col7AF9FB;$zoom15;　카이저 실드에 금이 갔다!
 [END]
 
 [0000C689]
@@ -57,7 +57,7 @@ $col7AF9FB;$zoom15;　가소롭군!\n　승리를 서둘러 쓸 때를 틀렸군
 [JPN]
 $col7AF9FB;$zoom15;　カイザーシールドが崩壊した！
 [KOR]
-$col7AF9FB;$zoom15;　카이저 실드가 무너졌다!
+$col7AF9FB;$zoom15;　카이저 실드가 붕괴했다!
 [END]
 
 [0000C6FB]

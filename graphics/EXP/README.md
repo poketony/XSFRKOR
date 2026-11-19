@@ -2,6 +2,8 @@
 
 **이 폴더의 PNG를 수정해 옆에 `원래이름_KOR.png`로 저장한 뒤, 저장소 루트 `Rebuild.bat`를 실행하면 됩니다.** 결과 `rebuilt/EXP/FILES/...`를 외부 `UNPACKED/EXP/FILES/...`의 같은 경로로 직접 옮깁니다. 원본 PNG와 크기는 유지하세요.
 
+2026-11-18 본편 편집본과 원본 픽셀·크기·마스크 의미가 일치하는 메뉴 39장과 지명 17장의 `_KOR.png`를 이식했습니다. `tuto`, `mnt_set`, `titlefan`, `gameov2`는 이번 이식에 포함하지 않았습니다. [이식 기록](../../codex-lab/freaks/EXP-XS2-PORT.md)을 참고하세요.
+
 | PNG | 편집 내용 |
 | --- | --- |
 | `ctrl_*`, `font_character_select`, `obj_*` | 메뉴 글자 39장. 불투명 회색조로 편집하며 원래 팔레트에 맞춰 16단계로 자동 양자화 |

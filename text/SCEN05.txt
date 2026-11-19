@@ -227,7 +227,7 @@
 {03:00}「들어라. 그리고 잠자코 따라와!」{09}{0B}
 [END]
 
-# SCENE05_01_010 / CHOICES
+# SCENE05_01_010 / CHOICES / DUP:SCEN-0128 x9
 [00000743]
 [JPN]
 エルザへ移動
@@ -451,7 +451,7 @@
 {03:00}「으아아아아아아아아아아아아악!」
 [END]
 
-# SCENE05_02_000 / MESSAGE
+# SCENE05_02_000 / MESSAGE / DUP:SCEN-0229 x127
 [00000E55]
 [JPN]
 {09}{0B}
@@ -674,7 +674,7 @@
 도망친다
 [END]
 
-# SCENE05_02_010 / MESSAGE
+# SCENE05_02_010 / MESSAGE / DUP:SCEN-0908 x2
 [00001590]
 [JPN]
 {0B}{03:01}{0C}スコットクン{0D}
@@ -1037,7 +1037,7 @@
 생각한다
 [END]
 
-# SCENE05_02_020 / MESSAGE
+# SCENE05_02_020 / MESSAGE / DUP:SCEN-0908 x2
 [00002011]
 [JPN]
 {0B}{03:01}{0C}スコットクン{0D}
@@ -1158,7 +1158,7 @@
 {03:00}「스콧 군!」{09}{0B}
 [END]
 
-# SCENE05_02_030 / MESSAGE
+# SCENE05_02_030 / MESSAGE / DUP:SCEN-0909 x2
 [000023EE]
 [JPN]
 {0B}{03:01}{0C}スコットクン{0D}
@@ -1268,7 +1268,7 @@
 선착장으로 이동
 [END]
 
-# SCENE05_03_000 / MESSAGE
+# SCENE05_03_000 / MESSAGE / DUP:SCEN-0540 x4
 [00002744]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1278,7 +1278,7 @@
 {03:00}「앗!?」{09}{0B}
 [END]
 
-# SCENE05_03_000 / MESSAGE
+# SCENE05_03_000 / MESSAGE / DUP:SCEN-0541 x4
 [0000276E]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -1288,7 +1288,7 @@
 {03:00}「어!? 알렌? ・・・뭐 하는 거야?」{09}{0B}
 [END]
 
-# SCENE05_03_000 / MESSAGE
+# SCENE05_03_000 / MESSAGE / DUP:SCEN-0542 x3
 [000027B7]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1323,7 +1323,7 @@ Jr.와 이야기한다
 {03:00}「알렌・・・ 너 뭔가 숨기는 거 아냐?」{09}{0B}
 [END]
 
-# SCENE05_03_000 / MESSAGE
+# SCENE05_03_000 / MESSAGE / DUP:SCEN-0547 x2
 [000028AD]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1335,7 +1335,7 @@ Jr.와 이야기한다
 　아, 그, 그럼! 급해서!」{09}{0B}
 [END]
 
-# SCENE05_03_000 / MESSAGE
+# SCENE05_03_000 / MESSAGE / DUP:SCEN-0548 x2
 [0000290C]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -1365,7 +1365,7 @@ Jr.와 이야기한다
 {03:00}「잠깐 기다려, 아직 얘기 안 끝났어」{09}{0B}
 [END]
 
-# SCENE05_03_000 / MESSAGE
+# SCENE05_03_000 / MESSAGE / DUP:SCEN-0543 x2
 [000029DA]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -1377,7 +1377,7 @@ Jr.와 이야기한다
 　게다가 그 이상한 장비는 뭐야?」{09}{0B}
 [END]
 
-# SCENE05_03_000 / MESSAGE
+# SCENE05_03_000 / MESSAGE / DUP:SCEN-0544 x2
 [00002A50]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1391,7 +1391,7 @@ Jr.와 이야기한다
 　아, 빨리 주임님께 가져다드려야겠다」{09}{0B}
 [END]
 
-# SCENE05_03_000 / MESSAGE
+# SCENE05_03_000 / MESSAGE / DUP:SCEN-0545 x2
 [00002B0C]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -1401,7 +1401,7 @@ Jr.와 이야기한다
 {03:00}「뭐? 그런 장비로는 안 보이는데?」{09}{0B}
 [END]
 
-# SCENE05_03_000 / MESSAGE
+# SCENE05_03_000 / MESSAGE / DUP:SCEN-0546 x2
 [00002B55]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1413,7 +1413,7 @@ Jr.와 이야기한다
 　그치?」{09}{0B}
 [END]
 
-# SCENE05_03_010 / CHOICES
+# SCENE05_03_010 / CHOICES / DUP:SCEN-0072 x14
 [00002C2E]
 [JPN]
 エルザへ移動
@@ -1431,7 +1431,7 @@ Jr.와 이야기한다
 생각한다
 [END]
 
-# SCENE05_03_010 / MESSAGE
+# SCENE05_03_010 / MESSAGE / DUP:SCEN-0073 x39
 [00002C96]
 [JPN]
 {0B}{0C}エルザへ移動しますか？
@@ -1439,7 +1439,7 @@ Jr.와 이야기한다
 {0B}{0C}엘자로 이동하겠습니까?
 [END]
 
-# SCENE05_03_010 / CHOICES
+# SCENE05_03_010 / CHOICES / DUP:SCEN-0058 x130
 [00002CB1]
 [JPN]
 はい
@@ -1449,7 +1449,7 @@ Jr.와 이야기한다
 아니요
 [END]
 
-# SCENE05_03_010 / MESSAGE
+# SCENE05_03_010 / MESSAGE / DUP:SCEN-0059 x250
 [00002CCA]
 [JPN]
 {0B}
@@ -1457,7 +1457,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_03_010 / MESSAGE
+# SCENE05_03_010 / MESSAGE / DUP:SCEN-0059 x250
 [00002CDD]
 [JPN]
 {0B}
@@ -1465,7 +1465,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_03_010 / MESSAGE
+# SCENE05_03_010 / MESSAGE / DUP:SCEN-0910 x2
 [00002CE4]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1486,7 +1486,7 @@ Jr.와 이야기한다
 {03:03}　지금 돌아가면 곤란하다니까・・・”{09}{0B}
 [END]
 
-# SCENE05_03_010 / MESSAGE
+# SCENE05_03_010 / MESSAGE / DUP:SCEN-0074 x30
 [00002D75]
 [JPN]
 {0B}{0C}ファウンデーションへ移動しますか？
@@ -1494,7 +1494,7 @@ Jr.와 이야기한다
 {0B}{0C}파운데이션으로 이동하겠습니까?
 [END]
 
-# SCENE05_03_010 / CHOICES
+# SCENE05_03_010 / CHOICES / DUP:SCEN-0058 x130
 [00002D9C]
 [JPN]
 はい
@@ -1504,7 +1504,7 @@ Jr.와 이야기한다
 아니요
 [END]
 
-# SCENE05_03_010 / MESSAGE
+# SCENE05_03_010 / MESSAGE / DUP:SCEN-0059 x250
 [00002DB5]
 [JPN]
 {0B}
@@ -1512,7 +1512,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_03_010 / MESSAGE
+# SCENE05_03_010 / MESSAGE / DUP:SCEN-0059 x250
 [00002DC8]
 [JPN]
 {0B}
@@ -1520,7 +1520,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_03_010 / MESSAGE
+# SCENE05_03_010 / MESSAGE / DUP:SCEN-0911 x3
 [00002DCF]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1532,7 +1532,7 @@ Jr.와 이야기한다
 {03:03}　이 장비를 가져가시라고 해야 하는데・・・”{09}{0B}
 [END]
 
-# SCENE05_03_030 / CHOICES
+# SCENE05_03_030 / CHOICES / DUP:SCEN-0080 x21
 [00002E81]
 [JPN]
 デュランダルドックへ移動
@@ -1542,7 +1542,7 @@ Jr.와 이야기한다
 주민과 이야기한다
 [END]
 
-# SCENE05_03_030 / MESSAGE
+# SCENE05_03_030 / MESSAGE / DUP:SCEN-0082 x27
 [00002EAB]
 [JPN]
 {0B}{0C}デュランダルドックへ移動しますか？
@@ -1550,7 +1550,7 @@ Jr.와 이야기한다
 {0B}{0C}뒤랑달 선착장으로 이동하겠습니까?
 [END]
 
-# SCENE05_03_030 / CHOICES
+# SCENE05_03_030 / CHOICES / DUP:SCEN-0058 x130
 [00002ED2]
 [JPN]
 はい
@@ -1560,7 +1560,7 @@ Jr.와 이야기한다
 아니요
 [END]
 
-# SCENE05_03_030 / MESSAGE
+# SCENE05_03_030 / MESSAGE / DUP:SCEN-0059 x250
 [00002EEB]
 [JPN]
 {0B}
@@ -1568,7 +1568,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_03_030 / MESSAGE
+# SCENE05_03_030 / MESSAGE / DUP:SCEN-0059 x250
 [00002EFE]
 [JPN]
 {0B}
@@ -1590,7 +1590,7 @@ Jr.와 이야기한다
 {03:03}　그 괴상한 기계 좀 들어 줄까?”{09}{0B}
 [END]
 
-# SCENE05_03_040 / CHOICES
+# SCENE05_03_040 / CHOICES / DUP:SCEN-0056 x13
 [00002FEC]
 [JPN]
 下層廊下へ移動
@@ -1606,7 +1606,7 @@ Jr.와 이야기한다
 생각한다
 [END]
 
-# SCENE05_03_040 / MESSAGE
+# SCENE05_03_040 / MESSAGE / DUP:SCEN-0910 x2
 [00003044]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1616,7 +1616,7 @@ Jr.와 이야기한다
 {03:03}“이런 소동을 일으켜 놓고 브리지에 갈 순 없잖아”{09}{0B}
 [END]
 
-# SCENE05_03_040 / MESSAGE
+# SCENE05_03_040 / MESSAGE / DUP:SCEN-0057 x34
 [00003091]
 [JPN]
 {0B}{0C}デュランダルへ移動しますか？
@@ -1624,7 +1624,7 @@ Jr.와 이야기한다
 {0B}{0C}뒤랑달로 이동하겠습니까?
 [END]
 
-# SCENE05_03_040 / CHOICES
+# SCENE05_03_040 / CHOICES / DUP:SCEN-0058 x130
 [000030B2]
 [JPN]
 はい
@@ -1634,7 +1634,7 @@ Jr.와 이야기한다
 아니요
 [END]
 
-# SCENE05_03_040 / MESSAGE
+# SCENE05_03_040 / MESSAGE / DUP:SCEN-0059 x250
 [000030CB]
 [JPN]
 {0B}
@@ -1642,7 +1642,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_03_040 / MESSAGE
+# SCENE05_03_040 / MESSAGE / DUP:SCEN-0059 x250
 [000030DE]
 [JPN]
 {0B}
@@ -1650,7 +1650,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_03_040 / MESSAGE
+# SCENE05_03_040 / MESSAGE / DUP:SCEN-0911 x3
 [000030E5]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1662,7 +1662,7 @@ Jr.와 이야기한다
 {03:03}　이 장비를 가져가시라고 해야 하는데・・・”{09}{0B}
 [END]
 
-# SCENE05_03_060 / CHOICES
+# SCENE05_03_060 / CHOICES / DUP:SCEN-0071 x17
 [00003160]
 [JPN]
 居住区廊下へ移動
@@ -1684,7 +1684,7 @@ Jr.와 이야기한다
 {03:03}　대체 어디로 가신 걸까?”{09}{0B}
 [END]
 
-# SCENE05_03_070 / CHOICES
+# SCENE05_03_070 / CHOICES / DUP:SCEN-0037 x10
 [00003206]
 [JPN]
 ＫＯＳ－ＭＯＳ調整室へ移動
@@ -1726,7 +1726,7 @@ KOS-MOS 조정실로 이동
 {03:03}　사람을 만나는 건 피해야겠지”{09}{0B}
 [END]
 
-# SCENE05_03_070 / MESSAGE
+# SCENE05_03_070 / MESSAGE / DUP:SCEN-0911 x3
 [00003376]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1738,7 +1738,7 @@ KOS-MOS 조정실로 이동
 {03:03}　이 장비를 가져가시라고 해야 하는데・・・”{09}{0B}
 [END]
 
-# SCENE05_03_100 / CHOICES
+# SCENE05_03_100 / CHOICES / DUP:SCEN-0055 x30
 [000033F1]
 [JPN]
 下層廊下へ移動
@@ -1931,7 +1931,7 @@ KOS-MOS 조정실로 이동
 {03:00}「아, 잠깐만요!!」{09}{0B}
 [END]
 
-# SCENE05_04_010 / MESSAGE
+# SCENE05_04_010 / MESSAGE / DUP:SCEN-0157 x2
 [00003A15]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1941,7 +1941,7 @@ KOS-MOS 조정실로 이동
 {03:00}「대체 뭐 하자는 거야・・・ 정말!」{09}{0B}
 [END]
 
-# SCENE05_04_010 / MESSAGE
+# SCENE05_04_010 / MESSAGE / DUP:SCEN-0158 x5
 [00003A58]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1951,7 +1951,7 @@ KOS-MOS 조정실로 이동
 {03:00}「!?」{09}{0B}
 [END]
 
-# SCENE05_04_010 / MESSAGE
+# SCENE05_04_010 / MESSAGE / DUP:SCEN-0159 x2
 [00003A80]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -1961,7 +1961,7 @@ KOS-MOS 조정실로 이동
 {03:00}「알렌・・・・ 여기서 뭐 하는 걸까~?」{09}{0B}
 [END]
 
-# SCENE05_04_010 / MESSAGE
+# SCENE05_04_010 / MESSAGE / DUP:SCEN-0160 x2
 [00003ACB]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -1973,7 +1973,7 @@ KOS-MOS 조정실로 이동
 　아니세요!? 어, 어, 어째서 이런 데에?」{09}{0B}
 [END]
 
-# SCENE05_04_010 / MESSAGE
+# SCENE05_04_010 / MESSAGE / DUP:SCEN-0161 x2
 [00003B48]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -1983,7 +1983,7 @@ KOS-MOS 조정실로 이동
 {03:00}「이런 데라니, 여기 내 방 앞이야」{09}{0B}
 [END]
 
-# SCENE05_04_010 / MESSAGE
+# SCENE05_04_010 / MESSAGE / DUP:SCEN-0162 x2
 [00003B8D]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2007,7 +2007,7 @@ KOS-MOS 조정실로 이동
 시온과 이야기한다
 [END]
 
-# SCENE05_04_010 / MESSAGE
+# SCENE05_04_010 / MESSAGE / DUP:SCEN-0164 x2
 [00003C29]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2042,7 +2042,7 @@ KOS-MOS 조정실로 이동
 　혹시 뭔가 숨기는 거 아냐・・・」{09}{0B}
 [END]
 
-# SCENE05_04_010 / MESSAGE
+# SCENE05_04_010 / MESSAGE / DUP:SCEN-0163 x2
 [00003D6E]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2056,7 +2056,7 @@ KOS-MOS 조정실로 이동
 　우연히 지나가던 길이라・・・」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0571 x2
 [00003E4E]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -2068,7 +2068,7 @@ KOS-MOS 조정실로 이동
 　다녀・・・ 알렌!!」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0572 x2
 [00003EAC]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2078,7 +2078,7 @@ KOS-MOS 조정실로 이동
 {03:00}「아, 큰일이다!」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0573 x2
 [00003ED9]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -2090,7 +2090,7 @@ KOS-MOS 조정실로 이동
 　시온이랑은 잘됐냐?」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0574 x2
 [00003F35]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2100,7 +2100,7 @@ KOS-MOS 조정실로 이동
 {03:00}「주임님이랑!? 무, 무슨 말이야?」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0575 x2
 [00003F77]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -2113,7 +2113,7 @@ KOS-MOS 조정실로 이동
 　분위기 좋았다며?」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0576 x2
 [00003FE3]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2145,7 +2145,7 @@ Jr.와 이야기한다
 {03:00}「・・・・・아, 모모!」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0583 x2
 [0000408B]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -2155,7 +2155,7 @@ Jr.와 이야기한다
 {03:00}「응?」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0584 x2
 [000040B9]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -2177,7 +2177,7 @@ Jr.와 이야기한다
 {03:03}　이 사태를 수습하려면 어떻게든 도망쳐야 해!!”{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0577 x2
 [00004182]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -2189,7 +2189,7 @@ Jr.와 이야기한다
 　그렇게 적극적인 줄 몰랐어」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0578 x2
 [000041EA]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2200,7 +2200,7 @@ Jr.와 이야기한다
 　대체 무슨 소리야?」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0579 x2
 [00004234]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -2224,7 +2224,7 @@ Jr.와 이야기한다
 　무슨 소린지 모르겠는데?」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0580 x2
 [00004301]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -2237,7 +2237,7 @@ Jr.와 이야기한다
 　그건 좀 심했어」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0581 x2
 [00004371]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -2251,7 +2251,7 @@ Jr.와 이야기한다
 　직접 배운 필살 멘트 알려 줄까?」{09}{0B}
 [END]
 
-# SCENE05_05_000 / MESSAGE
+# SCENE05_05_000 / MESSAGE / DUP:SCEN-0582 x2
 [00004404]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2286,7 +2286,7 @@ Jr.와 이야기한다
 　아니, 이럴 때가 아니야」{09}{0B}
 [END]
 
-# SCENE05_05_010 / CHOICES
+# SCENE05_05_010 / CHOICES / DUP:SCEN-0072 x14
 [000045B8]
 [JPN]
 エルザへ移動
@@ -2304,7 +2304,7 @@ Jr.와 이야기한다
 생각한다
 [END]
 
-# SCENE05_05_010 / MESSAGE
+# SCENE05_05_010 / MESSAGE / DUP:SCEN-0912 x3
 [00004620]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2316,7 +2316,7 @@ Jr.와 이야기한다
 {03:03}　놔뒀다간 상황만 점점 나빠질 거야”{09}{0B}
 [END]
 
-# SCENE05_05_010 / MESSAGE
+# SCENE05_05_010 / MESSAGE / DUP:SCEN-0912 x3
 [0000468D]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2328,7 +2328,7 @@ Jr.와 이야기한다
 {03:03}　놔뒀다간 상황만 점점 나빠질 거야”{09}{0B}
 [END]
 
-# SCENE05_05_010 / MESSAGE
+# SCENE05_05_010 / MESSAGE / DUP:SCEN-0912 x3
 [000046FA]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2352,7 +2352,7 @@ Jr.와 이야기한다
 {03:03}　지금 돌아가는 건 곤란하다니까・・・”{09}{0B}
 [END]
 
-# SCENE05_05_010 / MESSAGE
+# SCENE05_05_010 / MESSAGE / DUP:SCEN-0074 x30
 [000047CA]
 [JPN]
 {0B}{0C}ファウンデーションへ移動しますか？
@@ -2360,7 +2360,7 @@ Jr.와 이야기한다
 {0B}{0C}파운데이션으로 이동하겠습니까?
 [END]
 
-# SCENE05_05_010 / CHOICES
+# SCENE05_05_010 / CHOICES / DUP:SCEN-0058 x130
 [000047F1]
 [JPN]
 はい
@@ -2370,7 +2370,7 @@ Jr.와 이야기한다
 아니요
 [END]
 
-# SCENE05_05_010 / MESSAGE
+# SCENE05_05_010 / MESSAGE / DUP:SCEN-0059 x250
 [0000480A]
 [JPN]
 {0B}
@@ -2378,7 +2378,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_05_010 / MESSAGE
+# SCENE05_05_010 / MESSAGE / DUP:SCEN-0059 x250
 [0000481D]
 [JPN]
 {0B}
@@ -2400,7 +2400,7 @@ Jr.와 이야기한다
 {03:03}　로봇 아카데미로 돌아가실 거야”{09}{0B}
 [END]
 
-# SCENE05_05_040 / CHOICES
+# SCENE05_05_040 / CHOICES / DUP:SCEN-0913 x5
 [00004915]
 [JPN]
 デュランダルドックへ移動
@@ -2412,7 +2412,7 @@ Jr.와 이야기한다
 주민과 이야기한다
 [END]
 
-# SCENE05_05_040 / MESSAGE
+# SCENE05_05_040 / MESSAGE / DUP:SCEN-0082 x27
 [0000495A]
 [JPN]
 {0B}{0C}デュランダルドックへ移動しますか？
@@ -2420,7 +2420,7 @@ Jr.와 이야기한다
 {0B}{0C}뒤랑달 선착장으로 이동하겠습니까?
 [END]
 
-# SCENE05_05_040 / CHOICES
+# SCENE05_05_040 / CHOICES / DUP:SCEN-0058 x130
 [00004981]
 [JPN]
 はい
@@ -2430,7 +2430,7 @@ Jr.와 이야기한다
 아니요
 [END]
 
-# SCENE05_05_040 / MESSAGE
+# SCENE05_05_040 / MESSAGE / DUP:SCEN-0059 x250
 [0000499A]
 [JPN]
 {0B}
@@ -2438,7 +2438,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_05_040 / MESSAGE
+# SCENE05_05_040 / MESSAGE / DUP:SCEN-0059 x250
 [000049AD]
 [JPN]
 {0B}
@@ -2790,7 +2790,7 @@ Jr.와 이야기한다
 「
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0207 x13
 [0000538B]
 [JPN]
 {0C}
@@ -2812,7 +2812,7 @@ Jr.와 이야기한다
 {03:00}「잘 말했다! 그래야 조수 2호지!」{09}{0B}
 [END]
 
-# SCENE05_06_005 / CHOICES
+# SCENE05_06_005 / CHOICES / DUP:SCEN-0914 x2
 [0000542E]
 [JPN]
 ハカセと話す
@@ -2822,7 +2822,7 @@ Jr.와 이야기한다
 스콧 군과 이야기한다
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0915 x2
 [00005460]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -2836,7 +2836,7 @@ Jr.와 이야기한다
 　장대한 계획이다!」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0916 x2
 [000054F0]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -2847,7 +2847,7 @@ Jr.와 이야기한다
 　사랑과 우정의 이야기다!」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0917 x2
 [0000553B]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2860,7 +2860,7 @@ Jr.와 이야기한다
 　거대 로봇을 정비할 수 없어요」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0918 x2
 [000055C0]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -2874,7 +2874,7 @@ Jr.와 이야기한다
 　엘자에 연구소가 생기는 게지!」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0919 x2
 [00005663]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2886,7 +2886,7 @@ Jr.와 이야기한다
 　그런데 짐은 어떻게 옮기시게요?」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0920 x2
 [000056C5]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -2896,7 +2896,7 @@ Jr.와 이야기한다
 {03:00}「전송하는 게지・・・ 연구소를 통째로 말이다」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0921 x2
 [00005710]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2906,7 +2906,7 @@ Jr.와 이야기한다
 {03:00}「와, 그거 편하겠네요・・・・」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0922 x2
 [0000574D]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2916,7 +2916,7 @@ Jr.와 이야기한다
 {03:00}「아니,
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0207 x13
 [0000577A]
 [JPN]
 {0C}
@@ -2928,7 +2928,7 @@ Jr.와 이야기한다
 　　　　　　　　　　　　　　　　　　　　　　　　　」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0923 x2
 [000057C7]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2938,7 +2938,7 @@ Jr.와 이야기한다
 {03:00}「통째로요? 연구소를 전부!?」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0924 x2
 [0000580C]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -2948,7 +2948,7 @@ Jr.와 이야기한다
 {03:00}「바로 그거다!」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0925 x2
 [0000583D]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2958,7 +2958,7 @@ Jr.와 이야기한다
 {03:00}「그런 억지가 어디 있어요・・・」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0926 x2
 [0000587B]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -2968,7 +2968,7 @@ Jr.와 이야기한다
 {03:00}「억지든 뭐든, 한다면 하는 게다!」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0927 x2
 [000058C8]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2979,7 +2979,7 @@ Jr.와 이야기한다
 　좀 어떻게 안 될까?」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0928 x2
 [00005912]
 [JPN]
 {0B}{03:01}{0C}スコットクン{0D}
@@ -2989,7 +2989,7 @@ Jr.와 이야기한다
 {03:00}「왜요, 싫으세요?」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0929 x2
 [00005949]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -2999,7 +2999,7 @@ Jr.와 이야기한다
 {03:00}「음, 별로 기쁘진 않네」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0930 x2
 [0000598C]
 [JPN]
 {0B}{03:01}{0C}スコットクン{0D}
@@ -3011,7 +3011,7 @@ Jr.와 이야기한다
 　돌아온 조수 같은 건 어때요」{09}{0B}
 [END]
 
-# SCENE05_06_005 / MESSAGE
+# SCENE05_06_005 / MESSAGE / DUP:SCEN-0931 x2
 [000059EE]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3128,7 +3128,7 @@ Jr.와 이야기한다
 　잔말 말고 따라와라」{09}{0B}
 [END]
 
-# SCENE05_06_006 / CHOICES
+# SCENE05_06_006 / CHOICES / DUP:SCEN-0932 x2
 [00005D5C]
 [JPN]
 市街地へ移動
@@ -3140,7 +3140,7 @@ Jr.와 이야기한다
 스콧 군과 이야기한다
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0915 x2
 [00005DA9]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -3154,7 +3154,7 @@ Jr.와 이야기한다
 　장대한 계획이다!」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0916 x2
 [00005E39]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -3165,7 +3165,7 @@ Jr.와 이야기한다
 　사랑과 우정의 이야기다!」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0917 x2
 [00005E84]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3178,7 +3178,7 @@ Jr.와 이야기한다
 　거대 로봇을 정비할 수 없어요」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0918 x2
 [00005F09]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -3192,7 +3192,7 @@ Jr.와 이야기한다
 　엘자에 연구소가 생기는 게지!」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0919 x2
 [00005FAC]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3204,7 +3204,7 @@ Jr.와 이야기한다
 　그런데 짐은 어떻게 옮기시게요?」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0920 x2
 [0000600E]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -3214,7 +3214,7 @@ Jr.와 이야기한다
 {03:00}「전송하는 게지・・・ 연구소를 통째로 말이다」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0921 x2
 [00006059]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3224,7 +3224,7 @@ Jr.와 이야기한다
 {03:00}「와, 그거 편하겠네요・・・・」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0922 x2
 [00006096]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3234,7 +3234,7 @@ Jr.와 이야기한다
 {03:00}「아니,
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0207 x13
 [000060B9]
 [JPN]
 {0C}
@@ -3246,7 +3246,7 @@ Jr.와 이야기한다
 　　　　　　　　　　　　　　　　　　　　　　　　　」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0923 x2
 [00006106]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3256,7 +3256,7 @@ Jr.와 이야기한다
 {03:00}「통째로요? 연구소를 전부!?」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0924 x2
 [0000614B]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -3266,7 +3266,7 @@ Jr.와 이야기한다
 {03:00}「바로 그거다!」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0925 x2
 [0000617C]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3276,7 +3276,7 @@ Jr.와 이야기한다
 {03:00}「그런 억지가 어디 있어요・・・」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0926 x2
 [000061BA]
 [JPN]
 {0B}{03:01}{0C}ハカセ{0D}
@@ -3286,7 +3286,7 @@ Jr.와 이야기한다
 {03:00}「억지든 뭐든, 한다면 하는 게다!」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0927 x2
 [00006204]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3297,7 +3297,7 @@ Jr.와 이야기한다
 　좀 어떻게 안 될까?」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0928 x2
 [0000624E]
 [JPN]
 {0B}{03:01}{0C}スコットクン{0D}
@@ -3307,7 +3307,7 @@ Jr.와 이야기한다
 {03:00}「왜요, 싫으세요?」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0929 x2
 [00006285]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3317,7 +3317,7 @@ Jr.와 이야기한다
 {03:00}「음, 별로 기쁘진 않네」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0930 x2
 [000062C8]
 [JPN]
 {0B}{03:01}{0C}スコットクン{0D}
@@ -3329,7 +3329,7 @@ Jr.와 이야기한다
 　돌아온 조수 같은 건 어때요」{09}{0B}
 [END]
 
-# SCENE05_06_006 / MESSAGE
+# SCENE05_06_006 / MESSAGE / DUP:SCEN-0931 x2
 [0000632A]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3339,7 +3339,7 @@ Jr.와 이야기한다
 {03:00}「2호로 할게・・・」{09}{0B}
 [END]
 
-# SCENE05_06_010 / CHOICES
+# SCENE05_06_010 / CHOICES / DUP:SCEN-0913 x5
 [000063AA]
 [JPN]
 デュランダルドックへ移動
@@ -3351,7 +3351,7 @@ Jr.와 이야기한다
 주민과 이야기한다
 [END]
 
-# SCENE05_06_010 / MESSAGE
+# SCENE05_06_010 / MESSAGE / DUP:SCEN-0082 x27
 [000063EF]
 [JPN]
 {0B}{0C}デュランダルドックへ移動しますか？
@@ -3359,7 +3359,7 @@ Jr.와 이야기한다
 {0B}{0C}뒤랑달 선착장으로 이동하겠습니까?
 [END]
 
-# SCENE05_06_010 / CHOICES
+# SCENE05_06_010 / CHOICES / DUP:SCEN-0058 x130
 [00006416]
 [JPN]
 はい
@@ -3369,7 +3369,7 @@ Jr.와 이야기한다
 아니요
 [END]
 
-# SCENE05_06_010 / MESSAGE
+# SCENE05_06_010 / MESSAGE / DUP:SCEN-0059 x250
 [0000642F]
 [JPN]
 {0B}
@@ -3377,7 +3377,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_06_010 / MESSAGE
+# SCENE05_06_010 / MESSAGE / DUP:SCEN-0059 x250
 [00006442]
 [JPN]
 {0B}
@@ -3397,7 +3397,7 @@ Jr.와 이야기한다
 {03:03}　홀가분해진 얼굴이네. 고민거리는 해결했나?”{09}{0B}
 [END]
 
-# SCENE05_06_020 / CHOICES
+# SCENE05_06_020 / CHOICES / DUP:SCEN-0072 x14
 [00006515]
 [JPN]
 エルザへ移動
@@ -3415,7 +3415,7 @@ Jr.와 이야기한다
 생각한다
 [END]
 
-# SCENE05_06_020 / MESSAGE
+# SCENE05_06_020 / MESSAGE / DUP:SCEN-0073 x39
 [0000657D]
 [JPN]
 {0B}{0C}エルザへ移動しますか？
@@ -3423,7 +3423,7 @@ Jr.와 이야기한다
 {0B}{0C}엘자로 이동하겠습니까?
 [END]
 
-# SCENE05_06_020 / CHOICES
+# SCENE05_06_020 / CHOICES / DUP:SCEN-0058 x130
 [00006598]
 [JPN]
 はい
@@ -3433,7 +3433,7 @@ Jr.와 이야기한다
 아니요
 [END]
 
-# SCENE05_06_020 / MESSAGE
+# SCENE05_06_020 / MESSAGE / DUP:SCEN-0059 x250
 [000065B1]
 [JPN]
 {0B}
@@ -3441,7 +3441,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_06_020 / MESSAGE
+# SCENE05_06_020 / MESSAGE / DUP:SCEN-0059 x250
 [000065C4]
 [JPN]
 {0B}
@@ -3449,7 +3449,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_06_020 / MESSAGE
+# SCENE05_06_020 / MESSAGE / DUP:SCEN-0933 x9
 [000065CB]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3461,7 +3461,7 @@ Jr.와 이야기한다
 {03:03}　여기저기 돌아다닐 순 없잖아”{09}{0B}
 [END]
 
-# SCENE05_06_020 / MESSAGE
+# SCENE05_06_020 / MESSAGE / DUP:SCEN-0933 x9
 [0000662E]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3473,7 +3473,7 @@ Jr.와 이야기한다
 {03:03}　여기저기 돌아다닐 순 없잖아”{09}{0B}
 [END]
 
-# SCENE05_06_020 / MESSAGE
+# SCENE05_06_020 / MESSAGE / DUP:SCEN-0933 x9
 [00006691]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3485,7 +3485,7 @@ Jr.와 이야기한다
 {03:03}　여기저기 돌아다닐 순 없잖아”{09}{0B}
 [END]
 
-# SCENE05_06_020 / MESSAGE
+# SCENE05_06_020 / MESSAGE / DUP:SCEN-0074 x30
 [000066F4]
 [JPN]
 {0B}{0C}ファウンデーションへ移動しますか？
@@ -3493,7 +3493,7 @@ Jr.와 이야기한다
 {0B}{0C}파운데이션으로 이동하겠습니까?
 [END]
 
-# SCENE05_06_020 / CHOICES
+# SCENE05_06_020 / CHOICES / DUP:SCEN-0058 x130
 [0000671B]
 [JPN]
 はい
@@ -3503,7 +3503,7 @@ Jr.와 이야기한다
 아니요
 [END]
 
-# SCENE05_06_020 / MESSAGE
+# SCENE05_06_020 / MESSAGE / DUP:SCEN-0059 x250
 [00006734]
 [JPN]
 {0B}
@@ -3511,7 +3511,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_06_020 / MESSAGE
+# SCENE05_06_020 / MESSAGE / DUP:SCEN-0059 x250
 [00006747]
 [JPN]
 {0B}
@@ -3519,7 +3519,7 @@ Jr.와 이야기한다
 {0B}
 [END]
 
-# SCENE05_06_020 / MESSAGE
+# SCENE05_06_020 / MESSAGE / DUP:SCEN-0934 x3
 [0000674E]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3611,7 +3611,7 @@ Jr.와 이야기한다
 　남한테 들키면 골치 아파요!」{09}{0B}
 [END]
 
-# SCENE05_07_000 / MESSAGE
+# SCENE05_07_000 / MESSAGE / DUP:SCEN-0795 x2
 [00006A9E]
 [JPN]
 {0B}{03:01}{0C}モモ{0D}
@@ -3631,7 +3631,7 @@ Jr.와 이야기한다
 {03:00}「모모!? 큰일이다! 얼른 타요!!」{09}{0B}
 [END]
 
-# SCENE05_07_000 / CHOICES
+# SCENE05_07_000 / CHOICES / DUP:SCEN-0056 x13
 [00006B18]
 [JPN]
 下層廊下へ移動
@@ -3647,7 +3647,7 @@ Jr.와 이야기한다
 생각한다
 [END]
 
-# SCENE05_07_000 / MESSAGE
+# SCENE05_07_000 / MESSAGE / DUP:SCEN-0933 x9
 [00006B70]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3659,7 +3659,7 @@ Jr.와 이야기한다
 {03:03}　여기저기 돌아다닐 순 없잖아”{09}{0B}
 [END]
 
-# SCENE05_07_000 / MESSAGE
+# SCENE05_07_000 / MESSAGE / DUP:SCEN-0933 x9
 [00006BD3]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3671,7 +3671,7 @@ Jr.와 이야기한다
 {03:03}　여기저기 돌아다닐 순 없잖아”{09}{0B}
 [END]
 
-# SCENE05_07_000 / MESSAGE
+# SCENE05_07_000 / MESSAGE / DUP:SCEN-0933 x9
 [00006C36]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3683,7 +3683,7 @@ Jr.와 이야기한다
 {03:03}　여기저기 돌아다닐 순 없잖아”{09}{0B}
 [END]
 
-# SCENE05_07_000 / MESSAGE
+# SCENE05_07_000 / MESSAGE / DUP:SCEN-0934 x3
 [00006C99]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3697,7 +3697,7 @@ Jr.와 이야기한다
 {03:03}　박사님들은 대체 어쩌려는 거지?”{09}{0B}
 [END]
 
-# SCENE05_07_010 / CHOICES
+# SCENE05_07_010 / CHOICES / DUP:SCEN-0037 x10
 [00006D57]
 [JPN]
 ＫＯＳ－ＭＯＳ調整室へ移動
@@ -3783,7 +3783,7 @@ KOS-MOS 조정실로 이동
 {03:00}「・・・멋대로들 말하시네, 정말」{09}{0B}
 [END]
 
-# SCENE05_07_010 / MESSAGE
+# SCENE05_07_010 / MESSAGE / DUP:SCEN-0933 x9
 [00007020]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3795,7 +3795,7 @@ KOS-MOS 조정실로 이동
 {03:03}　여기저기 돌아다닐 순 없잖아”{09}{0B}
 [END]
 
-# SCENE05_07_010 / MESSAGE
+# SCENE05_07_010 / MESSAGE / DUP:SCEN-0933 x9
 [00007083]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3807,7 +3807,7 @@ KOS-MOS 조정실로 이동
 {03:03}　여기저기 돌아다닐 순 없잖아”{09}{0B}
 [END]
 
-# SCENE05_07_010 / MESSAGE
+# SCENE05_07_010 / MESSAGE / DUP:SCEN-0933 x9
 [000070E6]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3819,7 +3819,7 @@ KOS-MOS 조정실로 이동
 {03:03}　여기저기 돌아다닐 순 없잖아”{09}{0B}
 [END]
 
-# SCENE05_07_010 / MESSAGE
+# SCENE05_07_010 / MESSAGE / DUP:SCEN-0934 x3
 [00007149]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3833,7 +3833,7 @@ KOS-MOS 조정실로 이동
 {03:03}　박사님들은 대체 어쩌려는 거지?”{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0406 x2
 [00007221]
 [JPN]
 {0B}{03:01}{0C}ＫＯＳ－ＭＯＳ{0D}
@@ -3843,7 +3843,7 @@ KOS-MOS 조정실로 이동
 {03:00}「알렌?」{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0407 x2
 [00007252]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3853,7 +3853,7 @@ KOS-MOS 조정실로 이동
 {03:00}「KOS-MOS・・・ 너 혼자니?」{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0408 x2
 [00007295]
 [JPN]
 {0B}{03:01}{0C}ＫＯＳ－ＭＯＳ{0D}
@@ -3863,7 +3863,7 @@ KOS-MOS 조정실로 이동
 {03:00}「네, 현재 혼자서 대기 명령을 수행 중입니다」{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0409 x2
 [000072E2]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3875,7 +3875,7 @@ KOS-MOS 조정실로 이동
 　그럼 내가 조정 작업을 할게」{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0410 x2
 [0000733C]
 [JPN]
 {0B}{03:01}{0C}ＫＯＳ－ＭＯＳ{0D}
@@ -3887,7 +3887,7 @@ KOS-MOS 조정실로 이동
 　독실에서 휴식 중입니다. 호출할까요?」{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0411 x2
 [000073BA]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3911,7 +3911,7 @@ KOS-MOS 조정실로 이동
 　생각합니다만?」{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0412 x2
 [00007487]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3974,7 +3974,7 @@ KOS-MOS와 이야기한다
 　내려진 상태입니다」{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0413 x2
 [0000766B]
 [JPN]
 {0B}{03:01}{0C}ＫＯＳ－ＭＯＳ{0D}
@@ -3987,7 +3987,7 @@ KOS-MOS와 이야기한다
 　책임을 추궁당할 수 있습니다」{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0414 x2
 [000076F5]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -3999,7 +3999,7 @@ KOS-MOS와 이야기한다
 　아니면 내 명령은 못 듣겠다는 거야?」{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0415 x2
 [00007771]
 [JPN]
 {0B}{03:01}{0C}ＫＯＳ－ＭＯＳ{0D}
@@ -4010,7 +4010,7 @@ KOS-MOS와 이야기한다
 　문제없습니다」{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0416 x2
 [000077CA]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4021,7 +4021,7 @@ KOS-MOS와 이야기한다
 　금방 끝날 테니까」{09}{0B}
 [END]
 
-# SCENE05_08_000 / MESSAGE
+# SCENE05_08_000 / MESSAGE / DUP:SCEN-0031 x5
 [00007817]
 [JPN]
 {0B}{03:01}{0C}ＫＯＳ－ＭＯＳ{0D}
@@ -4273,7 +4273,7 @@ KOS-MOS와 이야기한다
 {03:03}　이상이 없는지 확인해 봐야・・・”{09}{0B}
 [END]
 
-# SCENE05_08_015 / MESSAGE
+# SCENE05_08_015 / MESSAGE / DUP:SCEN-0418 x2
 [00007FA9]
 [JPN]
 {0B}{03:01}{0C}ＫＯＳ－ＭＯＳ{0D}
@@ -4283,7 +4283,7 @@ KOS-MOS와 이야기한다
 {03:00}「시스템 재기동 확인」{09}{0B}
 [END]
 
-# SCENE05_08_015 / MESSAGE
+# SCENE05_08_015 / MESSAGE / DUP:SCEN-0419 x2
 [00007FE8]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4344,7 +4344,7 @@ KOS-MOS와 이야기한다
 　상대 시스템을 다운시키겠습니다냥」{09}{0B}
 [END]
 
-# SCENE05_08_015 / CHOICES
+# SCENE05_08_015 / CHOICES / DUP:SCEN-0055 x30
 [00008242]
 [JPN]
 下層廊下へ移動
@@ -4354,7 +4354,7 @@ KOS-MOS와 이야기한다
 조사한다
 [END]
 
-# SCENE05_08_015 / MESSAGE
+# SCENE05_08_015 / MESSAGE / DUP:SCEN-0935 x2
 [0000825E]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4366,7 +4366,7 @@ KOS-MOS와 이야기한다
 {03:03}　어디에도 못 가”{09}{0B}
 [END]
 
-# SCENE05_08_015 / MESSAGE
+# SCENE05_08_015 / MESSAGE / DUP:SCEN-0936 x2
 [000082B6]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4524,7 +4524,7 @@ KOS-MOS와 이야기한다
 　포획하겠습니다냥~」{09}{0B}
 [END]
 
-# SCENE05_08_020 / CHOICES
+# SCENE05_08_020 / CHOICES / DUP:SCEN-0099 x7
 [00008894]
 [JPN]
 下層廊下へ移動
@@ -4536,7 +4536,7 @@ KOS-MOS와 이야기한다
 KOS-MOS와 이야기한다
 [END]
 
-# SCENE05_08_020 / MESSAGE
+# SCENE05_08_020 / MESSAGE / DUP:SCEN-0935 x2
 [000088C7]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4548,7 +4548,7 @@ KOS-MOS와 이야기한다
 {03:03}　어디에도 못 가”{09}{0B}
 [END]
 
-# SCENE05_08_020 / MESSAGE
+# SCENE05_08_020 / MESSAGE / DUP:SCEN-0936 x2
 [0000891C]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4659,7 +4659,7 @@ KOS-MOS와 이야기한다
 {03:00}「박사님들은 대체 뭘 하는 거야!!」{09}{0B}
 [END]
 
-# SCENE05_08_030 / CHOICES
+# SCENE05_08_030 / CHOICES / DUP:SCEN-0037 x10
 [00008E13]
 [JPN]
 ＫＯＳ－ＭＯＳ調整室へ移動
@@ -4687,7 +4687,7 @@ KOS-MOS 조정실로 이동
 {03:03}　틀림없이 죽는다고!!”{09}{0B}
 [END]
 
-# SCENE05_08_030 / MESSAGE
+# SCENE05_08_030 / MESSAGE / DUP:SCEN-0937 x7
 [00008EC9]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4699,7 +4699,7 @@ KOS-MOS 조정실로 이동
 {03:03}　KOS-MOS를 고쳐 달라고 해야 해!”{09}{0B}
 [END]
 
-# SCENE05_08_030 / MESSAGE
+# SCENE05_08_030 / MESSAGE / DUP:SCEN-0937 x7
 [00008F3E]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4711,7 +4711,7 @@ KOS-MOS 조정실로 이동
 {03:03}　KOS-MOS를 고쳐 달라고 해야 해!”{09}{0B}
 [END]
 
-# SCENE05_08_030 / MESSAGE
+# SCENE05_08_030 / MESSAGE / DUP:SCEN-0938 x3
 [00008FB8]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4723,7 +4723,7 @@ KOS-MOS 조정실로 이동
 {03:03}　사정 설명을 들어야 해!!”{09}{0B}
 [END]
 
-# SCENE05_08_050 / CHOICES
+# SCENE05_08_050 / CHOICES / DUP:SCEN-0056 x13
 [00009064]
 [JPN]
 下層廊下へ移動
@@ -4739,7 +4739,7 @@ KOS-MOS 조정실로 이동
 생각한다
 [END]
 
-# SCENE05_08_050 / MESSAGE
+# SCENE05_08_050 / MESSAGE / DUP:SCEN-0937 x7
 [000090BC]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4751,7 +4751,7 @@ KOS-MOS 조정실로 이동
 {03:03}　KOS-MOS를 고쳐 달라고 해야 해!”{09}{0B}
 [END]
 
-# SCENE05_08_050 / MESSAGE
+# SCENE05_08_050 / MESSAGE / DUP:SCEN-0937 x7
 [00009131]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4763,7 +4763,7 @@ KOS-MOS 조정실로 이동
 {03:03}　KOS-MOS를 고쳐 달라고 해야 해!”{09}{0B}
 [END]
 
-# SCENE05_08_050 / MESSAGE
+# SCENE05_08_050 / MESSAGE / DUP:SCEN-0057 x34
 [000091A6]
 [JPN]
 {0B}{0C}デュランダルへ移動しますか？
@@ -4771,7 +4771,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}뒤랑달로 이동하겠습니까?
 [END]
 
-# SCENE05_08_050 / CHOICES
+# SCENE05_08_050 / CHOICES / DUP:SCEN-0058 x130
 [000091C7]
 [JPN]
 はい
@@ -4781,7 +4781,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_08_050 / MESSAGE
+# SCENE05_08_050 / MESSAGE / DUP:SCEN-0059 x250
 [000091E0]
 [JPN]
 {0B}
@@ -4789,7 +4789,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_08_050 / MESSAGE
+# SCENE05_08_050 / MESSAGE / DUP:SCEN-0059 x250
 [000091F3]
 [JPN]
 {0B}
@@ -4797,7 +4797,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_08_050 / MESSAGE
+# SCENE05_08_050 / MESSAGE / DUP:SCEN-0938 x3
 [000091FA]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4809,7 +4809,7 @@ KOS-MOS 조정실로 이동
 {03:03}　사정 설명을 들어야 해!!”{09}{0B}
 [END]
 
-# SCENE05_08_080 / CHOICES
+# SCENE05_08_080 / CHOICES / DUP:SCEN-0072 x14
 [000092DE]
 [JPN]
 エルザへ移動
@@ -4827,7 +4827,7 @@ KOS-MOS 조정실로 이동
 생각한다
 [END]
 
-# SCENE05_08_080 / MESSAGE
+# SCENE05_08_080 / MESSAGE / DUP:SCEN-0073 x39
 [00009346]
 [JPN]
 {0B}{0C}エルザへ移動しますか？
@@ -4835,7 +4835,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}엘자로 이동하겠습니까?
 [END]
 
-# SCENE05_08_080 / CHOICES
+# SCENE05_08_080 / CHOICES / DUP:SCEN-0058 x130
 [00009361]
 [JPN]
 はい
@@ -4845,7 +4845,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_08_080 / MESSAGE
+# SCENE05_08_080 / MESSAGE / DUP:SCEN-0059 x250
 [0000937A]
 [JPN]
 {0B}
@@ -4853,7 +4853,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_08_080 / MESSAGE
+# SCENE05_08_080 / MESSAGE / DUP:SCEN-0059 x250
 [0000938D]
 [JPN]
 {0B}
@@ -4861,7 +4861,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_08_080 / MESSAGE
+# SCENE05_08_080 / MESSAGE / DUP:SCEN-0937 x7
 [00009394]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4873,7 +4873,7 @@ KOS-MOS 조정실로 이동
 {03:03}　KOS-MOS를 고쳐 달라고 해야 해!”{09}{0B}
 [END]
 
-# SCENE05_08_080 / MESSAGE
+# SCENE05_08_080 / MESSAGE / DUP:SCEN-0937 x7
 [00009409]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4885,7 +4885,7 @@ KOS-MOS 조정실로 이동
 {03:03}　KOS-MOS를 고쳐 달라고 해야 해!”{09}{0B}
 [END]
 
-# SCENE05_08_080 / MESSAGE
+# SCENE05_08_080 / MESSAGE / DUP:SCEN-0937 x7
 [0000947E]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4897,7 +4897,7 @@ KOS-MOS 조정실로 이동
 {03:03}　KOS-MOS를 고쳐 달라고 해야 해!”{09}{0B}
 [END]
 
-# SCENE05_08_080 / MESSAGE
+# SCENE05_08_080 / MESSAGE / DUP:SCEN-0074 x30
 [000094F3]
 [JPN]
 {0B}{0C}ファウンデーションへ移動しますか？
@@ -4905,7 +4905,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}파운데이션으로 이동하겠습니까?
 [END]
 
-# SCENE05_08_080 / CHOICES
+# SCENE05_08_080 / CHOICES / DUP:SCEN-0058 x130
 [0000951A]
 [JPN]
 はい
@@ -4915,7 +4915,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_08_080 / MESSAGE
+# SCENE05_08_080 / MESSAGE / DUP:SCEN-0059 x250
 [00009533]
 [JPN]
 {0B}
@@ -4923,7 +4923,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_08_080 / MESSAGE
+# SCENE05_08_080 / MESSAGE / DUP:SCEN-0059 x250
 [00009546]
 [JPN]
 {0B}
@@ -4931,7 +4931,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_08_080 / MESSAGE
+# SCENE05_08_080 / MESSAGE / DUP:SCEN-0938 x3
 [0000954D]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -4943,7 +4943,7 @@ KOS-MOS 조정실로 이동
 {03:03}　사정 설명을 들어야 해!!”{09}{0B}
 [END]
 
-# SCENE05_08_110 / CHOICES
+# SCENE05_08_110 / CHOICES / DUP:SCEN-0913 x5
 [000095F9]
 [JPN]
 デュランダルドックへ移動
@@ -4955,7 +4955,7 @@ KOS-MOS 조정실로 이동
 주민과 이야기한다
 [END]
 
-# SCENE05_08_110 / MESSAGE
+# SCENE05_08_110 / MESSAGE / DUP:SCEN-0082 x27
 [0000963E]
 [JPN]
 {0B}{0C}デュランダルドックへ移動しますか？
@@ -4963,7 +4963,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}뒤랑달 선착장으로 이동하겠습니까?
 [END]
 
-# SCENE05_08_110 / CHOICES
+# SCENE05_08_110 / CHOICES / DUP:SCEN-0058 x130
 [00009665]
 [JPN]
 はい
@@ -4973,7 +4973,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_08_110 / MESSAGE
+# SCENE05_08_110 / MESSAGE / DUP:SCEN-0059 x250
 [0000967E]
 [JPN]
 {0B}
@@ -4981,7 +4981,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_08_110 / MESSAGE
+# SCENE05_08_110 / MESSAGE / DUP:SCEN-0059 x250
 [00009691]
 [JPN]
 {0B}
@@ -5049,7 +5049,7 @@ KOS-MOS 조정실로 이동
 {03:00}「스콧 군!!」{09}{0B}
 [END]
 
-# SCENE05_09_000 / MESSAGE
+# SCENE05_09_000 / MESSAGE / DUP:SCEN-0939 x2
 [000098EF]
 [JPN]
 {0B}{03:01}{0C}スコットクン{0D}
@@ -5176,7 +5176,7 @@ KOS-MOS 조정실로 이동
 {03:00}「저기, 무슨 일이에요?」{09}{0B}
 [END]
 
-# SCENE05_09_000 / CHOICES
+# SCENE05_09_000 / CHOICES / DUP:SCEN-0914 x2
 [00009BF8]
 [JPN]
 ハカセと話す
@@ -5279,7 +5279,7 @@ KOS-MOS 조정실로 이동
 {03:00}「뭐야, 아하하하하하아아아아아아아아아!
 [END]
 
-# SCENE05_09_010 / MESSAGE
+# SCENE05_09_010 / MESSAGE / DUP:SCEN-0207 x13
 [00009F80]
 [JPN]
 {0C}
@@ -5363,7 +5363,7 @@ KOS-MOS 조정실로 이동
 {03:00}「싫어~! 죽기 싫어~!!」{09}{0B}
 [END]
 
-# SCENE05_09_010 / CHOICES
+# SCENE05_09_010 / CHOICES / DUP:SCEN-0932 x2
 [0000A24C]
 [JPN]
 市街地へ移動
@@ -5429,7 +5429,7 @@ KOS-MOS 조정실로 이동
 　조수 2호는 영구 결번으로 남겨 둘게요・・・」{09}{0B}
 [END]
 
-# SCENE05_09_020 / CHOICES
+# SCENE05_09_020 / CHOICES / DUP:SCEN-0913 x5
 [0000A4A7]
 [JPN]
 デュランダルドックへ移動
@@ -5441,7 +5441,7 @@ KOS-MOS 조정실로 이동
 주민과 이야기한다
 [END]
 
-# SCENE05_09_020 / MESSAGE
+# SCENE05_09_020 / MESSAGE / DUP:SCEN-0082 x27
 [0000A4EC]
 [JPN]
 {0B}{0C}デュランダルドックへ移動しますか？
@@ -5449,7 +5449,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}뒤랑달 선착장으로 이동하겠습니까?
 [END]
 
-# SCENE05_09_020 / CHOICES
+# SCENE05_09_020 / CHOICES / DUP:SCEN-0058 x130
 [0000A513]
 [JPN]
 はい
@@ -5459,7 +5459,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_09_020 / MESSAGE
+# SCENE05_09_020 / MESSAGE / DUP:SCEN-0059 x250
 [0000A52C]
 [JPN]
 {0B}
@@ -5467,7 +5467,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_09_020 / MESSAGE
+# SCENE05_09_020 / MESSAGE / DUP:SCEN-0059 x250
 [0000A53F]
 [JPN]
 {0B}
@@ -5501,7 +5501,7 @@ KOS-MOS 조정실로 이동
 {03:03}　성급한 짓은 하지 마”{09}{0B}
 [END]
 
-# SCENE05_09_030 / CHOICES
+# SCENE05_09_030 / CHOICES / DUP:SCEN-0128 x9
 [0000A6A8]
 [JPN]
 エルザへ移動
@@ -5517,7 +5517,7 @@ KOS-MOS 조정실로 이동
 파운데이션으로 이동
 [END]
 
-# SCENE05_09_030 / MESSAGE
+# SCENE05_09_030 / MESSAGE / DUP:SCEN-0073 x39
 [0000A707]
 [JPN]
 {0B}{0C}エルザへ移動しますか？
@@ -5525,7 +5525,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}엘자로 이동하겠습니까?
 [END]
 
-# SCENE05_09_030 / CHOICES
+# SCENE05_09_030 / CHOICES / DUP:SCEN-0058 x130
 [0000A722]
 [JPN]
 はい
@@ -5535,7 +5535,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_09_030 / MESSAGE
+# SCENE05_09_030 / MESSAGE / DUP:SCEN-0059 x250
 [0000A73B]
 [JPN]
 {0B}
@@ -5543,7 +5543,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_09_030 / MESSAGE
+# SCENE05_09_030 / MESSAGE / DUP:SCEN-0059 x250
 [0000A74E]
 [JPN]
 {0B}
@@ -5551,7 +5551,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_09_030 / MESSAGE
+# SCENE05_09_030 / MESSAGE / DUP:SCEN-0940 x3
 [0000A755]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5563,7 +5563,7 @@ KOS-MOS 조정실로 이동
 {03:03}　때까지 사람을 만날 순 없어”{09}{0B}
 [END]
 
-# SCENE05_09_030 / MESSAGE
+# SCENE05_09_030 / MESSAGE / DUP:SCEN-0940 x3
 [0000A7C4]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5575,7 +5575,7 @@ KOS-MOS 조정실로 이동
 {03:03}　때까지 사람을 만날 순 없어”{09}{0B}
 [END]
 
-# SCENE05_09_030 / MESSAGE
+# SCENE05_09_030 / MESSAGE / DUP:SCEN-0940 x3
 [0000A833]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5587,7 +5587,7 @@ KOS-MOS 조정실로 이동
 {03:03}　때까지 사람을 만날 순 없어”{09}{0B}
 [END]
 
-# SCENE05_09_030 / MESSAGE
+# SCENE05_09_030 / MESSAGE / DUP:SCEN-0074 x30
 [0000A8A2]
 [JPN]
 {0B}{0C}ファウンデーションへ移動しますか？
@@ -5595,7 +5595,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}파운데이션으로 이동하겠습니까?
 [END]
 
-# SCENE05_09_030 / CHOICES
+# SCENE05_09_030 / CHOICES / DUP:SCEN-0058 x130
 [0000A8C9]
 [JPN]
 はい
@@ -5605,7 +5605,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_09_030 / MESSAGE
+# SCENE05_09_030 / MESSAGE / DUP:SCEN-0059 x250
 [0000A8E2]
 [JPN]
 {0B}
@@ -5613,7 +5613,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_09_030 / MESSAGE
+# SCENE05_09_030 / MESSAGE / DUP:SCEN-0059 x250
 [0000A8F5]
 [JPN]
 {0B}
@@ -5621,7 +5621,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_09_060 / CHOICES
+# SCENE05_09_060 / CHOICES / DUP:SCEN-0120 x18
 [0000A94D]
 [JPN]
 下層廊下へ移動
@@ -5635,7 +5635,7 @@ KOS-MOS 조정실로 이동
 뒤랑달로 이동
 [END]
 
-# SCENE05_09_060 / MESSAGE
+# SCENE05_09_060 / MESSAGE / DUP:SCEN-0057 x34
 [0000A9A6]
 [JPN]
 {0B}{0C}デュランダルへ移動しますか？
@@ -5643,7 +5643,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}뒤랑달로 이동하겠습니까?
 [END]
 
-# SCENE05_09_060 / CHOICES
+# SCENE05_09_060 / CHOICES / DUP:SCEN-0058 x130
 [0000A9C7]
 [JPN]
 はい
@@ -5653,7 +5653,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_09_060 / MESSAGE
+# SCENE05_09_060 / MESSAGE / DUP:SCEN-0059 x250
 [0000A9E0]
 [JPN]
 {0B}
@@ -5661,7 +5661,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_09_060 / MESSAGE
+# SCENE05_09_060 / MESSAGE / DUP:SCEN-0059 x250
 [0000A9F3]
 [JPN]
 {0B}
@@ -5669,7 +5669,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_09_070 / MESSAGE
+# SCENE05_09_070 / MESSAGE / DUP:SCEN-0803 x3
 [0000AA26]
 [JPN]
 {0B}{03:01}{0C}マシューズ{0D}
@@ -5683,7 +5683,7 @@ KOS-MOS 조정실로 이동
 　도대체 뭘 하는 거야!!」{09}{0B}
 [END]
 
-# SCENE05_09_070 / MESSAGE
+# SCENE05_09_070 / MESSAGE / DUP:SCEN-0185 x7
 [0000AACC]
 [JPN]
 {0B}{03:01}{0C}トニー{0D}
@@ -5695,7 +5695,7 @@ KOS-MOS 조정실로 이동
 　가난한 배를 빼앗아서 뭘 하겠다고?」{09}{0B}
 [END]
 
-# SCENE05_09_070 / MESSAGE
+# SCENE05_09_070 / MESSAGE / DUP:SCEN-0186 x7
 [0000AB36]
 [JPN]
 {0B}{03:01}{0C}トニー{0D}
@@ -5729,7 +5729,7 @@ KOS-MOS 조정실로 이동
 　들키면 분명 선장님한테 죽을 거야・・・」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0941 x2
 [0000AC9C]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5741,7 +5741,7 @@ KOS-MOS 조정실로 이동
 　여, 여, 여기서 뭘 하는 거야・・・ 하하하」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0942 x2
 [0000AD15]
 [JPN]
 {0B}{03:01}{0C}ケイオス{0D}
@@ -5754,7 +5754,7 @@ KOS-MOS 조정실로 이동
 　그걸 막으려던 모모가 쓰러졌어요」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0943 x2
 [0000ADA2]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5765,7 +5765,7 @@ KOS-MOS 조정실로 이동
 　괜찮아?」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0944 x2
 [0000ADF3]
 [JPN]
 {0B}{03:01}{0C}ケイオス{0D}
@@ -5775,7 +5775,7 @@ KOS-MOS 조정실로 이동
 {03:00}「그게・・・ 의식이 돌아오지 않아요」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0945 x2
 [0000AE36]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5787,7 +5787,7 @@ KOS-MOS 조정실로 이동
 　저기, 어떻게 모모를 구할 수 없을까?」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0946 x2
 [0000AEA4]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5807,7 +5807,7 @@ KOS-MOS 조정실로 이동
 케이오스와 이야기한다
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0947 x3
 [0000AF12]
 [JPN]
 {0B}{03:01}{0C}ケイオス{0D}
@@ -5819,7 +5819,7 @@ KOS-MOS 조정실로 이동
 　달리 해야 할 일이 있지 않나요?」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0948 x3
 [0000AF88]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5829,7 +5829,7 @@ KOS-MOS 조정실로 이동
 {03:00}「어, 그런데 그건 어떻게・・・?」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0949 x2
 [0000AFC7]
 [JPN]
 {0B}{03:01}{0C}ケイオス{0D}
@@ -5841,7 +5841,7 @@ KOS-MOS 조정실로 이동
 　전 알렌 씨를 믿어요」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0950 x3
 [0000B037]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5851,7 +5851,7 @@ KOS-MOS 조정실로 이동
 {03:00}「케, 케이오스 군・・・」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0951 x2
 [0000B063]
 [JPN]
 {0B}ケイオスの言葉に感動を覚えるアレン。{09}{0B}
@@ -5859,7 +5859,7 @@ KOS-MOS 조정실로 이동
 {0B}케이오스의 말에 감동하는 알렌.{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0952 x3
 [0000B096]
 [JPN]
 {0B}{03:01}{0C}ケイオス{0D}
@@ -5870,7 +5870,7 @@ KOS-MOS 조정실로 이동
 {03:00}「아, 빨리 안 가면 곧 시온이 돌아와요」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0953 x3
 [0000B0EE]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5880,7 +5880,7 @@ KOS-MOS 조정실로 이동
 {03:00}「어, 그건 곤란해. 그럼!」{09}{0B}
 [END]
 
-# SCENE05_09_080 / CHOICES
+# SCENE05_09_080 / CHOICES / DUP:SCEN-0441 x8
 [0000B126]
 [JPN]
 居住区廊下へ移動
@@ -5890,7 +5890,7 @@ KOS-MOS 조정실로 이동
 케이오스와 이야기한다
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0947 x3
 [0000B160]
 [JPN]
 {0B}{03:01}{0C}ケイオス{0D}
@@ -5902,7 +5902,7 @@ KOS-MOS 조정실로 이동
 　달리 해야 할 일이 있지 않나요?」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0948 x3
 [0000B1D6]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5912,7 +5912,7 @@ KOS-MOS 조정실로 이동
 {03:00}「어, 그런데 그건 어떻게・・・?」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0949 x2
 [0000B215]
 [JPN]
 {0B}{03:01}{0C}ケイオス{0D}
@@ -5924,7 +5924,7 @@ KOS-MOS 조정실로 이동
 　전 알렌 씨를 믿어요」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0950 x3
 [0000B285]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5934,7 +5934,7 @@ KOS-MOS 조정실로 이동
 {03:00}「케, 케이오스 군・・・」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0951 x2
 [0000B2B1]
 [JPN]
 {0B}ケイオスの言葉に感動を覚えるアレン。{09}{0B}
@@ -5942,7 +5942,7 @@ KOS-MOS 조정실로 이동
 {0B}케이오스의 말에 감동하는 알렌.{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0952 x3
 [0000B2E4]
 [JPN]
 {0B}{03:01}{0C}ケイオス{0D}
@@ -5953,7 +5953,7 @@ KOS-MOS 조정실로 이동
 {03:00}「아, 빨리 안 가면 곧 시온이 돌아와요」{09}{0B}
 [END]
 
-# SCENE05_09_080 / MESSAGE
+# SCENE05_09_080 / MESSAGE / DUP:SCEN-0953 x3
 [0000B33C]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -5963,7 +5963,7 @@ KOS-MOS 조정실로 이동
 {03:00}「어, 그건 곤란해. 그럼!」{09}{0B}
 [END]
 
-# SCENE05_09_090 / CHOICES
+# SCENE05_09_090 / CHOICES / DUP:SCEN-0093 x21
 [0000B38E]
 [JPN]
 ＫＯＳ－ＭＯＳ調整室へ移動
@@ -5989,7 +5989,7 @@ KOS-MOS 조정실로 이동
 {03:03}　도망칠 수가 없어”{09}{0B}
 [END]
 
-# SCENE05_09_100 / CHOICES
+# SCENE05_09_100 / CHOICES / DUP:SCEN-0810 x6
 [0000B466]
 [JPN]
 下層廊下へ移動
@@ -5999,7 +5999,7 @@ KOS-MOS 조정실로 이동
 조정 탭을 조사한다
 [END]
 
-# SCENE05_09_100 / MESSAGE
+# SCENE05_09_100 / MESSAGE / DUP:SCEN-0954 x3
 [0000B491]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -6013,7 +6013,7 @@ KOS-MOS 조정실로 이동
 {03:03}　난리인데, 이제 어쩌면 좋아!!”{09}{0B}
 [END]
 
-# SCENE05_10_000 / CHOICES
+# SCENE05_10_000 / CHOICES / DUP:SCEN-0055 x30
 [0000B556]
 [JPN]
 下層廊下へ移動
@@ -6023,7 +6023,7 @@ KOS-MOS 조정실로 이동
 조사한다
 [END]
 
-# SCENE05_10_000 / MESSAGE
+# SCENE05_10_000 / MESSAGE / DUP:SCEN-0954 x3
 [0000B577]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -6069,7 +6069,7 @@ KOS-MOS 조정실로 이동
 {03:00}「뭐, 뭐야~!? 갑자기 쏘지 마~!」{09}{0B}
 [END]
 
-# SCENE05_10_000 / CHOICES
+# SCENE05_10_000 / CHOICES / DUP:SCEN-0099 x7
 [0000B74D]
 [JPN]
 下層廊下へ移動
@@ -6255,7 +6255,7 @@ KOS-MOS와 이야기한다
 {03:00}「아아!? 잠깐! 가면 안 돼, KOS-MOS!!」{09}{0B}
 [END]
 
-# SCENE05_10_010 / CHOICES
+# SCENE05_10_010 / CHOICES / DUP:SCEN-0422 x3
 [0000BE0C]
 [JPN]
 下層廊下へ移動
@@ -6263,7 +6263,7 @@ KOS-MOS와 이야기한다
 하층 복도로 이동
 [END]
 
-# SCENE05_10_015 / CHOICES
+# SCENE05_10_015 / CHOICES / DUP:SCEN-0422 x3
 [0000BE3E]
 [JPN]
 下層廊下へ移動
@@ -6271,7 +6271,7 @@ KOS-MOS와 이야기한다
 하층 복도로 이동
 [END]
 
-# SCENE05_10_020 / CHOICES
+# SCENE05_10_020 / CHOICES / DUP:SCEN-0093 x21
 [0000BE70]
 [JPN]
 ＫＯＳ－ＭＯＳ調整室へ移動
@@ -6297,7 +6297,7 @@ KOS-MOS 조정실로 이동
 {03:03}　곤란한데, 들어가지 않는 게 좋겠어”{09}{0B}
 [END]
 
-# SCENE05_10_030 / CHOICES
+# SCENE05_10_030 / CHOICES / DUP:SCEN-0810 x6
 [0000BF64]
 [JPN]
 下層廊下へ移動
@@ -6307,7 +6307,7 @@ KOS-MOS 조정실로 이동
 조정 탭을 조사한다
 [END]
 
-# SCENE05_10_030 / MESSAGE
+# SCENE05_10_030 / MESSAGE / DUP:SCEN-0954 x3
 [0000BF8F]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -6321,7 +6321,7 @@ KOS-MOS 조정실로 이동
 {03:03}　난리인데, 이제 어쩌면 좋아!!”{09}{0B}
 [END]
 
-# SCENE05_10_040 / CHOICES
+# SCENE05_10_040 / CHOICES / DUP:SCEN-0120 x18
 [0000C086]
 [JPN]
 下層廊下へ移動
@@ -6359,7 +6359,7 @@ KOS-MOS 조정실로 이동
 {03:03}　기가 꺾일 것 같아”{09}{0B}
 [END]
 
-# SCENE05_10_040 / MESSAGE
+# SCENE05_10_040 / MESSAGE / DUP:SCEN-0057 x34
 [0000C190]
 [JPN]
 {0B}{0C}デュランダルへ移動しますか？
@@ -6367,7 +6367,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}뒤랑달로 이동하겠습니까?
 [END]
 
-# SCENE05_10_040 / CHOICES
+# SCENE05_10_040 / CHOICES / DUP:SCEN-0058 x130
 [0000C1B1]
 [JPN]
 はい
@@ -6377,7 +6377,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_10_040 / MESSAGE
+# SCENE05_10_040 / MESSAGE / DUP:SCEN-0059 x250
 [0000C1CA]
 [JPN]
 {0B}
@@ -6385,7 +6385,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_10_040 / MESSAGE
+# SCENE05_10_040 / MESSAGE / DUP:SCEN-0059 x250
 [0000C1DD]
 [JPN]
 {0B}
@@ -6407,7 +6407,7 @@ KOS-MOS 조정실로 이동
 　어디든 숨어야 해」{09}{0B}
 [END]
 
-# SCENE05_11_000 / MESSAGE
+# SCENE05_11_000 / MESSAGE / DUP:SCEN-0256 x2
 [0000C30C]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -6417,7 +6417,7 @@ KOS-MOS 조정실로 이동
 {03:00}「아, 메리 씨」{09}{0B}
 [END]
 
-# SCENE05_11_000 / MESSAGE
+# SCENE05_11_000 / MESSAGE / DUP:SCEN-0257 x2
 [0000C33B]
 [JPN]
 {0B}{03:01}{0C}メリィ{0D}
@@ -6427,7 +6427,7 @@ KOS-MOS 조정실로 이동
 {03:00}「아, 메리 씨가 아이고! 이거 좀 봐라」{09}{0B}
 [END]
 
-# SCENE05_11_000 / MESSAGE
+# SCENE05_11_000 / MESSAGE / DUP:SCEN-0258 x2
 [0000C386]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -6448,7 +6448,7 @@ KOS-MOS 조정실로 이동
 　전부 KOS-MOS 짓이다!」{09}{0B}
 [END]
 
-# SCENE05_11_000 / MESSAGE
+# SCENE05_11_000 / MESSAGE / DUP:SCEN-0259 x2
 [0000C420]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -6550,7 +6550,7 @@ KOS-MOS 조정실로 이동
 　됐으니 돌아와!!」{09}{0B}
 [END]
 
-# SCENE05_11_030 / CHOICES
+# SCENE05_11_030 / CHOICES / DUP:SCEN-0128 x9
 [0000C7E8]
 [JPN]
 エルザへ移動
@@ -6566,7 +6566,7 @@ KOS-MOS 조정실로 이동
 파운데이션으로 이동
 [END]
 
-# SCENE05_11_030 / MESSAGE
+# SCENE05_11_030 / MESSAGE / DUP:SCEN-0955 x4
 [0000C847]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -6578,7 +6578,7 @@ KOS-MOS 조정실로 이동
 {03:03}　또 뭔가 하기 전에 가서 말려야 해!”{09}{0B}
 [END]
 
-# SCENE05_11_030 / MESSAGE
+# SCENE05_11_030 / MESSAGE / DUP:SCEN-0955 x4
 [0000C8AA]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -6590,7 +6590,7 @@ KOS-MOS 조정실로 이동
 {03:03}　또 뭔가 하기 전에 가서 말려야 해!”{09}{0B}
 [END]
 
-# SCENE05_11_030 / MESSAGE
+# SCENE05_11_030 / MESSAGE / DUP:SCEN-0955 x4
 [0000C90D]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -6602,7 +6602,7 @@ KOS-MOS 조정실로 이동
 {03:03}　또 뭔가 하기 전에 가서 말려야 해!”{09}{0B}
 [END]
 
-# SCENE05_11_030 / MESSAGE
+# SCENE05_11_030 / MESSAGE / DUP:SCEN-0955 x4
 [0000C970]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -6614,7 +6614,7 @@ KOS-MOS 조정실로 이동
 {03:03}　또 뭔가 하기 전에 가서 말려야 해!”{09}{0B}
 [END]
 
-# SCENE05_11_030 / MESSAGE
+# SCENE05_11_030 / MESSAGE / DUP:SCEN-0074 x30
 [0000C9D3]
 [JPN]
 {0B}{0C}ファウンデーションへ移動しますか？
@@ -6622,7 +6622,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}파운데이션으로 이동하겠습니까?
 [END]
 
-# SCENE05_11_030 / CHOICES
+# SCENE05_11_030 / CHOICES / DUP:SCEN-0058 x130
 [0000C9FA]
 [JPN]
 はい
@@ -6632,7 +6632,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_11_030 / MESSAGE
+# SCENE05_11_030 / MESSAGE / DUP:SCEN-0059 x250
 [0000CA13]
 [JPN]
 {0B}
@@ -6640,7 +6640,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_11_030 / MESSAGE
+# SCENE05_11_030 / MESSAGE / DUP:SCEN-0059 x250
 [0000CA26]
 [JPN]
 {0B}
@@ -6648,7 +6648,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_11_040 / CHOICES
+# SCENE05_11_040 / CHOICES / DUP:SCEN-0913 x5
 [0000CA7E]
 [JPN]
 デュランダルドックへ移動
@@ -6761,7 +6761,7 @@ KOS-MOS 조정실로 이동
 {03:00}「다들 이 몸을 잘 따라와 주었다」{09}{0B}
 [END]
 
-# SCENE05_11_050 / MESSAGE
+# SCENE05_11_050 / MESSAGE / DUP:SCEN-0909 x2
 [0000CE55]
 [JPN]
 {0B}{03:01}{0C}スコットクン{0D}
@@ -6894,7 +6894,7 @@ KOS-MOS 조정실로 이동
 　왜 나만・・・」{09}{0B}
 [END]
 
-# SCENE05_12_000 / MESSAGE
+# SCENE05_12_000 / MESSAGE / DUP:SCEN-0863 x2
 [0000D2E6]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -6904,7 +6904,7 @@ KOS-MOS 조정실로 이동
 {03:00}「움직이지 마라」{09}{0B}
 [END]
 
-# SCENE05_12_000 / MESSAGE
+# SCENE05_12_000 / MESSAGE / DUP:SCEN-0158 x5
 [0000D30D]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -6914,7 +6914,7 @@ KOS-MOS 조정실로 이동
 {03:00}「!?」{09}{0B}
 [END]
 
-# SCENE05_12_000 / MESSAGE
+# SCENE05_12_000 / MESSAGE / DUP:SCEN-0864 x2
 [0000D332]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -6926,7 +6926,7 @@ KOS-MOS 조정실로 이동
 　가, 갑자기 무슨 일이에요?」{09}{0B}
 [END]
 
-# SCENE05_12_000 / MESSAGE
+# SCENE05_12_000 / MESSAGE / DUP:SCEN-0865 x2
 [0000D3A1]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -6976,7 +6976,7 @@ KOS-MOS 조정실로 이동
 {03:03}　어떻게 벗어나야 하지??”{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0867 x3
 [0000D552]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -6986,7 +6986,7 @@ KOS-MOS 조정실로 이동
 {03:00}「이번 소동, 목적이 뭐지?」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0868 x3
 [0000D58B]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -6998,7 +6998,7 @@ KOS-MOS 조정실로 이동
 　이야~ 무슨 말씀인지 전혀 모르겠네요」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0869 x3
 [0000D5F5]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -7011,7 +7011,7 @@ KOS-MOS 조정실로 이동
 　얽혀 있다는 건 확실해졌다」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0870 x3
 [0000D678]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -7021,7 +7021,7 @@ KOS-MOS 조정실로 이동
 {03:00}「사정에 따라서는 그냥 넘어갈 수 없다」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0871 x2
 [0000D6C3]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7031,7 +7031,7 @@ KOS-MOS 조정실로 이동
 {03:00}「저, 저기, 그건・・・」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0872 x2
 [0000D6FA]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7041,7 +7041,7 @@ KOS-MOS 조정실로 이동
 {03:00}「아, 모모!」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0873 x2
 [0000D72E]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -7051,7 +7051,7 @@ KOS-MOS 조정실로 이동
 {03:00}「응?」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0874 x2
 [0000D763]
 [JPN]
 {0B}ジギーを押しのけて逃亡を図ろうとするアレン。しかし
@@ -7063,7 +7063,7 @@ KOS-MOS 조정실로 이동
 오히려 알렌이 튕겨 나간다.{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0875 x2
 [0000D7E1]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -7075,7 +7075,7 @@ KOS-MOS 조정실로 이동
 　상대의 능력을 생각하고 행동하는 게 좋다」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0876 x2
 [0000D83F]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7085,7 +7085,7 @@ KOS-MOS 조정실로 이동
 {03:00}「・・・앗」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0877 x2
 [0000D86A]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -7095,7 +7095,7 @@ KOS-MOS 조정실로 이동
 {03:00}「정말이지, 몇 번이나 같은 수에・・・」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0878 x2
 [0000D8AD]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7105,7 +7105,7 @@ KOS-MOS 조정실로 이동
 {03:00}「아니, 거기 문이 잘 안 맞아서・・・」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0879 x2
 [0000D912]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -7115,7 +7115,7 @@ KOS-MOS 조정실로 이동
 {03:00}「으엇!?」{09}{0B}
 [END]
 
-# SCENE05_12_010 / MESSAGE
+# SCENE05_12_010 / MESSAGE / DUP:SCEN-0880 x2
 [0000D941]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7125,7 +7125,7 @@ KOS-MOS 조정실로 이동
 {03:00}「아! 앗・・・!!」{09}{0B}
 [END]
 
-# SCENE05_12_010 / CHOICES
+# SCENE05_12_010 / CHOICES / DUP:SCEN-0956 x2
 [0000D96D]
 [JPN]
 市街地へ移動
@@ -7147,7 +7147,7 @@ KOS-MOS 조정실로 이동
 {03:03}　나갈 때가 아냐, 이 상황을 어떻게든 해야 해!”{09}{0B}
 [END]
 
-# SCENE05_12_020 / MESSAGE
+# SCENE05_12_020 / MESSAGE / DUP:SCEN-0882 x2
 [0000DA34]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7157,7 +7157,7 @@ KOS-MOS 조정실로 이동
 {03:00}「큰일, 큰일 났어요!!」{09}{0B}
 [END]
 
-# SCENE05_12_020 / MESSAGE
+# SCENE05_12_020 / MESSAGE / DUP:SCEN-0883 x2
 [0000DA6D]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -7167,7 +7167,7 @@ KOS-MOS 조정실로 이동
 {03:00}「큰일? 대체 뭐가 시작된 거지?」{09}{0B}
 [END]
 
-# SCENE05_12_020 / MESSAGE
+# SCENE05_12_020 / MESSAGE / DUP:SCEN-0884 x2
 [0000DAB4]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7177,7 +7177,7 @@ KOS-MOS 조정실로 이동
 {03:00}「곧 전송이 시작된다고요!」{09}{0B}
 [END]
 
-# SCENE05_12_020 / MESSAGE
+# SCENE05_12_020 / MESSAGE / DUP:SCEN-0885 x2
 [0000DAF3]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -7187,7 +7187,7 @@ KOS-MOS 조정실로 이동
 {03:00}「전송? 뭘 전송한다는 거지?」{09}{0B}
 [END]
 
-# SCENE05_12_020 / MESSAGE
+# SCENE05_12_020 / MESSAGE / DUP:SCEN-0886 x2
 [0000DB2E]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7197,7 +7197,7 @@ KOS-MOS 조정실로 이동
 {03:00}「이 연구소요!」{09}{0B}
 [END]
 
-# SCENE05_12_020 / MESSAGE
+# SCENE05_12_020 / MESSAGE / DUP:SCEN-0887 x2
 [0000DB5F]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -7208,7 +7208,7 @@ KOS-MOS 조정실로 이동
 　잘도 해내는군?」{09}{0B}
 [END]
 
-# SCENE05_12_020 / MESSAGE
+# SCENE05_12_020 / MESSAGE / DUP:SCEN-0888 x2
 [0000DBAE]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7222,7 +7222,7 @@ KOS-MOS 조정실로 이동
 　시스템을 멈추러 갈게요!」{09}{0B}
 [END]
 
-# SCENE05_12_020 / CHOICES
+# SCENE05_12_020 / CHOICES / DUP:SCEN-0956 x2
 [0000DC4C]
 [JPN]
 市街地へ移動
@@ -7244,7 +7244,7 @@ KOS-MOS 조정실로 이동
 　전송을 중지해 주세요!」{09}{0B}
 [END]
 
-# SCENE05_12_020 / MESSAGE
+# SCENE05_12_020 / MESSAGE / DUP:SCEN-0889 x2
 [0000DCE0]
 [JPN]
 {0B}{03:01}{0C}ジギー{0D}
@@ -7254,7 +7254,7 @@ KOS-MOS 조정실로 이동
 {03:00}「그건 좋다만, 어떻게 멈추지?」{09}{0B}
 [END]
 
-# SCENE05_12_020 / MESSAGE
+# SCENE05_12_020 / MESSAGE / DUP:SCEN-0890 x2
 [0000DD25]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7310,7 +7310,7 @@ KOS-MOS 조정실로 이동
 로봇 아카데미로 이동
 [END]
 
-# SCENE05_12_030 / MESSAGE
+# SCENE05_12_030 / MESSAGE / DUP:SCEN-0082 x27
 [0000DF3A]
 [JPN]
 {0B}{0C}デュランダルドックへ移動しますか？
@@ -7318,7 +7318,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}뒤랑달 선착장으로 이동하겠습니까?
 [END]
 
-# SCENE05_12_030 / CHOICES
+# SCENE05_12_030 / CHOICES / DUP:SCEN-0058 x130
 [0000DF61]
 [JPN]
 はい
@@ -7328,7 +7328,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_12_030 / MESSAGE
+# SCENE05_12_030 / MESSAGE / DUP:SCEN-0059 x250
 [0000DF7A]
 [JPN]
 {0B}
@@ -7336,7 +7336,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_12_030 / MESSAGE
+# SCENE05_12_030 / MESSAGE / DUP:SCEN-0059 x250
 [0000DF8D]
 [JPN]
 {0B}
@@ -7378,7 +7378,7 @@ KOS-MOS 조정실로 이동
 　누가 주임님을 지켜!!」{09}{0B}
 [END]
 
-# SCENE05_12_040 / CHOICES
+# SCENE05_12_040 / CHOICES / DUP:SCEN-0128 x9
 [0000E0FE]
 [JPN]
 エルザへ移動
@@ -7394,7 +7394,7 @@ KOS-MOS 조정실로 이동
 파운데이션으로 이동
 [END]
 
-# SCENE05_12_040 / MESSAGE
+# SCENE05_12_040 / MESSAGE / DUP:SCEN-0862 x2
 [0000E163]
 [JPN]
 {0B}入り口のハッチはロックされ、固く閉ざされている。{09}{0B}
@@ -7402,7 +7402,7 @@ KOS-MOS 조정실로 이동
 {0B}입구 해치는 잠겨서 굳게 닫혀 있다.{09}{0B}
 [END]
 
-# SCENE05_12_040 / MESSAGE
+# SCENE05_12_040 / MESSAGE / DUP:SCEN-0706 x3
 [0000E1A2]
 [JPN]
 {0B}{03:01}{0C}ハマー{0D}
@@ -7414,7 +7414,7 @@ KOS-MOS 조정실로 이동
 　지금 이 해치는 못 씀다!」{09}{0B}
 [END]
 
-# SCENE05_12_040 / MESSAGE
+# SCENE05_12_040 / MESSAGE / DUP:SCEN-0707 x4
 [0000E214]
 [JPN]
 {0B}{03:01}{0C}ハマー{0D}
@@ -7424,7 +7424,7 @@ KOS-MOS 조정실로 이동
 {03:00}「수리에 시간이 좀 걸림다!」{09}{0B}
 [END]
 
-# SCENE05_12_040 / MESSAGE
+# SCENE05_12_040 / MESSAGE / DUP:SCEN-0957 x2
 [0000E255]
 [JPN]
 {0B}{03:01}{0C}ハマー{0D}
@@ -7436,7 +7436,7 @@ KOS-MOS 조정실로 이동
 　쓰시면 됨다」{09}{0B}
 [END]
 
-# SCENE05_12_040 / MESSAGE
+# SCENE05_12_040 / MESSAGE / DUP:SCEN-0958 x8
 [0000E2A9]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7448,7 +7448,7 @@ KOS-MOS 조정실로 이동
 {03:03}　빨리 엘자에 가야 해!”{09}{0B}
 [END]
 
-# SCENE05_12_040 / MESSAGE
+# SCENE05_12_040 / MESSAGE / DUP:SCEN-0958 x8
 [0000E300]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7460,7 +7460,7 @@ KOS-MOS 조정실로 이동
 {03:03}　빨리 엘자에 가야 해!”{09}{0B}
 [END]
 
-# SCENE05_12_040 / MESSAGE
+# SCENE05_12_040 / MESSAGE / DUP:SCEN-0958 x8
 [0000E357]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7472,7 +7472,7 @@ KOS-MOS 조정실로 이동
 {03:03}　빨리 엘자에 가야 해!”{09}{0B}
 [END]
 
-# SCENE05_12_040 / MESSAGE
+# SCENE05_12_040 / MESSAGE / DUP:SCEN-0958 x8
 [0000E3AE]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7484,7 +7484,7 @@ KOS-MOS 조정실로 이동
 {03:03}　빨리 엘자에 가야 해!”{09}{0B}
 [END]
 
-# SCENE05_12_050 / CHOICES
+# SCENE05_12_050 / CHOICES / DUP:SCEN-0478 x3
 [0000E41F]
 [JPN]
 エルザへ移動
@@ -7510,7 +7510,7 @@ KOS-MOS 조정실로 이동
 {0B}입구 해치가 잠겨 단단히 닫혀 있다{09}{0B}
 [END]
 
-# SCENE05_12_050 / MESSAGE
+# SCENE05_12_050 / MESSAGE / DUP:SCEN-0706 x3
 [0000E4D6]
 [JPN]
 {0B}{03:01}{0C}ハマー{0D}
@@ -7522,7 +7522,7 @@ KOS-MOS 조정실로 이동
 　지금 이 해치는 못 씀다!」{09}{0B}
 [END]
 
-# SCENE05_12_050 / MESSAGE
+# SCENE05_12_050 / MESSAGE / DUP:SCEN-0707 x4
 [0000E548]
 [JPN]
 {0B}{03:01}{0C}ハマー{0D}
@@ -7532,7 +7532,7 @@ KOS-MOS 조정실로 이동
 {03:00}「수리에 시간이 좀 걸림다!」{09}{0B}
 [END]
 
-# SCENE05_12_050 / MESSAGE
+# SCENE05_12_050 / MESSAGE / DUP:SCEN-0957 x2
 [0000E589]
 [JPN]
 {0B}{03:01}{0C}ハマー{0D}
@@ -7544,7 +7544,7 @@ KOS-MOS 조정실로 이동
 　쓰시면 됨다」{09}{0B}
 [END]
 
-# SCENE05_12_050 / MESSAGE
+# SCENE05_12_050 / MESSAGE / DUP:SCEN-0073 x39
 [0000E5DB]
 [JPN]
 {0B}{0C}エルザへ移動しますか？
@@ -7552,7 +7552,7 @@ KOS-MOS 조정실로 이동
 {0B}{0C}엘자로 이동하겠습니까?
 [END]
 
-# SCENE05_12_050 / CHOICES
+# SCENE05_12_050 / CHOICES / DUP:SCEN-0058 x130
 [0000E5F6]
 [JPN]
 はい
@@ -7562,7 +7562,7 @@ KOS-MOS 조정실로 이동
 아니요
 [END]
 
-# SCENE05_12_050 / MESSAGE
+# SCENE05_12_050 / MESSAGE / DUP:SCEN-0059 x250
 [0000E60F]
 [JPN]
 {0B}
@@ -7570,7 +7570,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_12_050 / MESSAGE
+# SCENE05_12_050 / MESSAGE / DUP:SCEN-0059 x250
 [0000E622]
 [JPN]
 {0B}
@@ -7578,7 +7578,7 @@ KOS-MOS 조정실로 이동
 {0B}
 [END]
 
-# SCENE05_12_050 / MESSAGE
+# SCENE05_12_050 / MESSAGE / DUP:SCEN-0958 x8
 [0000E629]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7590,7 +7590,7 @@ KOS-MOS 조정실로 이동
 {03:03}　빨리 엘자에 가야 해!”{09}{0B}
 [END]
 
-# SCENE05_12_050 / MESSAGE
+# SCENE05_12_050 / MESSAGE / DUP:SCEN-0958 x8
 [0000E680]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7602,7 +7602,7 @@ KOS-MOS 조정실로 이동
 {03:03}　빨리 엘자에 가야 해!”{09}{0B}
 [END]
 
-# SCENE05_12_050 / MESSAGE
+# SCENE05_12_050 / MESSAGE / DUP:SCEN-0958 x8
 [0000E6D7]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7614,7 +7614,7 @@ KOS-MOS 조정실로 이동
 {03:03}　빨리 엘자에 가야 해!”{09}{0B}
 [END]
 
-# SCENE05_12_050 / MESSAGE
+# SCENE05_12_050 / MESSAGE / DUP:SCEN-0958 x8
 [0000E72E]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7626,7 +7626,7 @@ KOS-MOS 조정실로 이동
 {03:03}　빨리 엘자에 가야 해!”{09}{0B}
 [END]
 
-# SCENE05_12_080 / CHOICES
+# SCENE05_12_080 / CHOICES / DUP:SCEN-0093 x21
 [0000E7D6]
 [JPN]
 ＫＯＳ－ＭＯＳ調整室へ移動
@@ -7640,7 +7640,7 @@ KOS-MOS 조정실로 이동
 거주구 복도로 이동
 [END]
 
-# SCENE05_12_080 / MESSAGE
+# SCENE05_12_080 / MESSAGE / DUP:SCEN-0959 x3
 [0000E82C]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7652,7 +7652,7 @@ KOS-MOS 조정실로 이동
 {03:03}　서두르지 않으면 늦고 말아”{09}{0B}
 [END]
 
-# SCENE05_12_080 / MESSAGE
+# SCENE05_12_080 / MESSAGE / DUP:SCEN-0959 x3
 [0000E893]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7664,7 +7664,7 @@ KOS-MOS 조정실로 이동
 {03:03}　서두르지 않으면 늦고 말아”{09}{0B}
 [END]
 
-# SCENE05_12_080 / MESSAGE
+# SCENE05_12_080 / MESSAGE / DUP:SCEN-0959 x3
 [0000E8FF]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7676,7 +7676,7 @@ KOS-MOS 조정실로 이동
 {03:03}　서두르지 않으면 늦고 말아”{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0960 x2
 [0000E989]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7686,7 +7686,7 @@ KOS-MOS 조정실로 이동
 {03:00}「케, 케이오스 군!?」{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0961 x2
 [0000E9BF]
 [JPN]
 {0B}{03:01}{0C}ケイオス{0D}
@@ -7698,7 +7698,7 @@ KOS-MOS 조정실로 이동
 　Jr.와 KOS-MOS를 막아야 해요!」{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0962 x2
 [0000EA1F]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7710,7 +7710,7 @@ KOS-MOS 조정실로 이동
 　상황이 심각해 보이는데・・・」{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0963 x2
 [0000EA87]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7721,7 +7721,7 @@ KOS-MOS 조정실로 이동
 　역시 내가 아니면 안 될까?」{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0964 x2
 [0000EAD4]
 [JPN]
 {0B}{03:01}{0C}ケイオス{0D}
@@ -7733,7 +7733,7 @@ KOS-MOS 조정실로 이동
 　가장 잘 알고 계실 텐데요」{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0965 x2
 [0000EB30]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7743,7 +7743,7 @@ KOS-MOS 조정실로 이동
 {03:00}「아・・・ 역시 그렇구나」{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0335 x5
 [0000EB71]
 [JPN]
 {0B}{03:01}{0C}ＫＯＳ－ＭＯＳ{0D}
@@ -7755,7 +7755,7 @@ KOS-MOS 조정실로 이동
 　임무 달성을 위해 장애물을 제거합니다!」{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0336 x5
 [0000EBD1]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -7765,7 +7765,7 @@ KOS-MOS 조정실로 이동
 {03:00}「재미있네, 할 수 있으면 해 봐!」{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0966 x2
 [0000EC23]
 [JPN]
 {0B}{03:01}{0C}ケイオス{0D}
@@ -7777,7 +7777,7 @@ KOS-MOS 조정실로 이동
 　시온도 당신을 기다리고 있을 거예요!」{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0967 x2
 [0000ECA3]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7787,7 +7787,7 @@ KOS-MOS 조정실로 이동
 {03:00}「주, 주임님이? 나를!?」{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0968 x2
 [0000ECDC]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7799,7 +7799,7 @@ KOS-MOS 조정실로 이동
 　사랑을 위해서라면 죽을 수 있어!!」{09}{0B}
 [END]
 
-# SCENE05_13_000 / MESSAGE
+# SCENE05_13_000 / MESSAGE / DUP:SCEN-0969 x2
 [0000ED42]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7809,7 +7809,7 @@ KOS-MOS 조정실로 이동
 {03:00}「주임님~!!」{09}{0B}
 [END]
 
-# SCENE05_13_010 / MESSAGE
+# SCENE05_13_010 / MESSAGE / DUP:SCEN-0339 x3
 [0000EDBA]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -7819,7 +7819,7 @@ KOS-MOS 조정실로 이동
 {03:00}「위험해, 시온. 이쪽으로 오지 마!」{09}{0B}
 [END]
 
-# SCENE05_13_010 / MESSAGE
+# SCENE05_13_010 / MESSAGE / DUP:SCEN-0340 x4
 [0000EE13]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -7829,7 +7829,7 @@ KOS-MOS 조정실로 이동
 {03:00}「꺅! 잠깐, Jr.・・・ 밀지 마」
 [END]
 
-# SCENE05_13_010 / MESSAGE
+# SCENE05_13_010 / MESSAGE / DUP:SCEN-0229 x127
 [0000EE56]
 [JPN]
 {09}{0B}
@@ -7837,7 +7837,7 @@ KOS-MOS 조정실로 이동
 {09}{0B}
 [END]
 
-# SCENE05_13_010 / MESSAGE
+# SCENE05_13_010 / MESSAGE / DUP:SCEN-0341 x4
 [0000EE5F]
 [JPN]
 {0B}Ｊｒ．に押された拍子にバランスを崩し、ハンガーにぶ
@@ -7849,7 +7849,7 @@ KOS-MOS 조정실로 이동
 거치대가 무너져 내린다.{09}{0B}
 [END]
 
-# SCENE05_13_010 / MESSAGE
+# SCENE05_13_010 / MESSAGE / DUP:SCEN-0342 x4
 [0000EF05]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -7859,7 +7859,7 @@ KOS-MOS 조정실로 이동
 {03:00}「꺄아아!」
 [END]
 
-# SCENE05_13_010 / MESSAGE
+# SCENE05_13_010 / MESSAGE / DUP:SCEN-0229 x127
 [0000EF2C]
 [JPN]
 {09}{0B}
@@ -7867,7 +7867,7 @@ KOS-MOS 조정실로 이동
 {09}{0B}
 [END]
 
-# SCENE05_13_010 / MESSAGE
+# SCENE05_13_010 / MESSAGE / DUP:SCEN-0343 x4
 [0000EF48]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7887,7 +7887,7 @@ KOS-MOS 조정실로 이동
 {03:00}「아, 고마워, 알렌・・・・・ 알렌!?」{09}{0B}
 [END]
 
-# SCENE05_13_010 / CHOICES
+# SCENE05_13_010 / CHOICES / DUP:SCEN-0851 x2
 [0000EFBF]
 [JPN]
 下層廊下へ移動
@@ -7923,7 +7923,7 @@ KOS-MOS 조정실로 이동
 {03:03}　이제 죽어도 좋을지도・・・”{09}{0B}
 [END]
 
-# SCENE05_13_010 / MESSAGE
+# SCENE05_13_010 / MESSAGE / DUP:SCEN-0344 x2
 [0000F0C9]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -7957,7 +7957,7 @@ KOS-MOS 조정실로 이동
 　Jr. 군이!? 빨리 둘을 말려야죠!」{09}{0B}
 [END]
 
-# SCENE05_13_010 / MESSAGE
+# SCENE05_13_010 / MESSAGE / DUP:SCEN-0345 x2
 [0000F1F6]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -7969,7 +7969,7 @@ KOS-MOS 조정실로 이동
 　저 둘, 싸울 생각뿐이야」{09}{0B}
 [END]
 
-# SCENE05_13_020 / MESSAGE
+# SCENE05_13_020 / MESSAGE / DUP:SCEN-0350 x5
 [0000F284]
 [JPN]
 {0B}{03:01}{0C}ＫＯＳ－ＭＯＳ{0D}
@@ -7979,7 +7979,7 @@ KOS-MOS 조정실로 이동
 {03:00}「리미터 해제, 최대 출력으로 대응합니다」{09}{0B}
 [END]
 
-# SCENE05_13_020 / MESSAGE
+# SCENE05_13_020 / MESSAGE / DUP:SCEN-0351 x5
 [0000F2DA]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -7991,7 +7991,7 @@ KOS-MOS 조정실로 이동
 　KOS-MOS!!」{09}{0B}
 [END]
 
-# SCENE05_13_020 / MESSAGE
+# SCENE05_13_020 / MESSAGE / DUP:SCEN-0352 x5
 [0000F32D]
 [JPN]
 {0B}射線をＪｒ．にあわせるＫＯＳ－ＭＯＳ。
@@ -8003,7 +8003,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 서로 방아쇠를 당기려는・・・ 그 순간.{09}{0B}
 [END]
 
-# SCENE05_13_020 / MESSAGE
+# SCENE05_13_020 / MESSAGE / DUP:SCEN-0353 x5
 [0000F3D1]
 [JPN]
 {0B}{03:01}{0C}モモ{0D}
@@ -8013,7 +8013,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 「
 [END]
 
-# SCENE05_13_020 / MESSAGE
+# SCENE05_13_020 / MESSAGE / DUP:SCEN-0207 x13
 [0000F3E7]
 [JPN]
 {0C}
@@ -8025,7 +8025,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　　　　　　　　　　　　　　　　　　　　　　　　　」{09}{0B}
 [END]
 
-# SCENE05_13_020 / MESSAGE
+# SCENE05_13_020 / MESSAGE / DUP:SCEN-0354 x3
 [0000F466]
 [JPN]
 {0B}{03:01}{0C}モモ{0D}
@@ -8035,7 +8035,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「진정하세요, 두 분 다! 싸우면 안 돼요!」{09}{0B}
 [END]
 
-# SCENE05_13_020 / MESSAGE
+# SCENE05_13_020 / MESSAGE / DUP:SCEN-0355 x3
 [0000F4B5]
 [JPN]
 {0B}{03:01}{0C}モモ{0D}
@@ -8046,7 +8046,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　모모」{09}{0B}
 [END]
 
-# SCENE05_13_020 / MESSAGE
+# SCENE05_13_020 / MESSAGE / DUP:SCEN-0356 x3
 [0000F502]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -8056,7 +8056,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「아니, 모모. 너도 진정해・・・」{09}{0B}
 [END]
 
-# SCENE05_13_020 / MESSAGE
+# SCENE05_13_020 / MESSAGE / DUP:SCEN-0357 x3
 [0000F54D]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -8068,7 +8068,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　어디서 가져온 거야?」{09}{0B}
 [END]
 
-# SCENE05_13_020 / MESSAGE
+# SCENE05_13_020 / MESSAGE / DUP:SCEN-0358 x3
 [0000F5B2]
 [JPN]
 {0B}{03:01}{0C}モモ{0D}
@@ -8080,7 +8080,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　모모는 힘이 별로 없어서・・・」{09}{0B}
 [END]
 
-# SCENE05_13_020 / MESSAGE
+# SCENE05_13_020 / MESSAGE / DUP:SCEN-0359 x3
 [0000F619]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -8090,7 +8090,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「아니, 충분해. 둘 다 뻗었어・・・」{09}{0B}
 [END]
 
-# SCENE05_13_020 / CHOICES
+# SCENE05_13_020 / CHOICES / DUP:SCEN-0492 x3
 [0000F65A]
 [JPN]
 シオンと話す
@@ -8252,7 +8252,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　이런 거 없어도 난 언젠가 주임님을!」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0715 x2
 [0000FC3D]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -8262,7 +8262,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「알! 렌!」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0716 x2
 [0000FC6C]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -8272,7 +8272,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「으악! Jr. 군!?」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0717 x2
 [0000FCA1]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -8282,7 +8282,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「뭘 그렇게 숨어 다녀?」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0718 x2
 [0000FCDC]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -8292,7 +8292,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「아니, 딱히, 몰래 꾸미긴 뭘・・・」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0719 x2
 [0000FD1D]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -8315,7 +8315,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　난 딱히」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0720 x2
 [0000FDCE]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -8339,7 +8339,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「아니, 뭐, 그건. 그야 나도・・・」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0721 x2
 [0000FEB0]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -8353,7 +8353,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　넌 근본적으로 여자 마음을 몰라」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0722 x2
 [0000FF3D]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -8363,7 +8363,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「하아, 여자 마음이라・・・」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0373 x3
 [0000FF80]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -8373,7 +8373,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「어라, 둘 다 거기서 뭐 해?」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0374 x3
 [0000FFC1]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -8383,7 +8383,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「아!? 주임님!! 저기, 그게・・・」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0375 x3
 [00010009]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -8393,7 +8393,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「있잖아, 알렌 녀석이・・・」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0376 x3
 [00010047]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -8403,7 +8403,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「자, 잠깐, Jr.!?」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0377 x3
 [00010085]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -8415,7 +8415,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　시온은 상관없는 이야기야」{09}{0B}
 [END]
 
-# SCENE05_15_000 / CHOICES
+# SCENE05_15_000 / CHOICES / DUP:SCEN-0492 x3
 [000100DA]
 [JPN]
 シオンと話す
@@ -8423,7 +8423,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 시온과 이야기한다
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0379 x2
 [000100F4]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -8435,7 +8435,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　알렌, 뭐 숨기는 거 없어?」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0380 x3
 [0001014E]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -8447,7 +8447,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　그러지 마세요, 저, 절 의심하세요?」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0381 x3
 [000101C7]
 [JPN]
 {0B}{03:01}{0C}Ｊｒ．{0D}
@@ -8459,7 +8459,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　가자, 알렌!」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0382 x2
 [00010223]
 [JPN]
 {0B}{03:01}{0C}アレン{0D}
@@ -8469,7 +8469,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {03:00}「아, 자, 잠깐, 기다려, Jr.!」{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0383 x2
 [00010264]
 [JPN]
 {0B}慌ててその場を立ち去ろうとするアレン。その手の平か
@@ -8479,7 +8479,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 그 손에서 데이터 디스크 한 장이 떨어진다.{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0384 x2
 [000102C3]
 [JPN]
 {0B}シオンがディスクを拾うと同時に再生されてしまう録画
@@ -8489,7 +8489,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 녹화된 내용이 재생되고 만다.{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0385 x2
 [00010308]
 [JPN]
 {0B}一瞬、廊下のすべてのものが凍りつく。{09}{0B}
@@ -8497,7 +8497,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 {0B}일순간 복도의 모든 것이 얼어붙는다.{09}{0B}
 [END]
 
-# SCENE05_15_000 / MESSAGE
+# SCENE05_15_000 / MESSAGE / DUP:SCEN-0386 x4
 [0001033E]
 [JPN]
 {0B}{03:01}{0C}シオン{0D}
@@ -8556,7 +8556,7 @@ KOS-MOS를 노려보며 꼼짝도 않는 Jr.
 　이동기지로 개조하고 말겠다!」{09}{0B}
 [END]
 
-# SCENE05_16_000 / MESSAGE
+# SCENE05_16_000 / MESSAGE / DUP:SCEN-0939 x2
 [000105C2]
 [JPN]
 {0B}{03:01}{0C}スコットクン{0D}

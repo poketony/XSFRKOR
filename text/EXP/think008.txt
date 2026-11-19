@@ -50,7 +50,7 @@
 [JPN]
 $zoom13;５．５６ｍｍＵ−ＴＩＣ弾
 [KOR]
-$zoom13;5.56mm U-TIC 탄
+$zoom13;5.56mm U-TIC탄
 [END]
 
 [0000C107]
@@ -64,5 +64,5 @@ $zoom13;하이암즈 M87R
 [JPN]
 $zoom13;ＥＡＰ弾
 [KOR]
-$zoom13;EAP 탄
+$zoom13;EAP탄
 [END]

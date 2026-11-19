@@ -22,5 +22,5 @@
 [JPN]
 $zoom13;５．５６ｍｍＵ−ＴＩＣ弾
 [KOR]
-$zoom13;5.56mm U-TIC 탄
+$zoom13;5.56mm U-TIC탄
 [END]

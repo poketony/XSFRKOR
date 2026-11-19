@@ -386,7 +386,7 @@ $zoom14;$colc0c0c0;　　　꿰뚫은 오른손에는\n$col7AF9FB;　붉은 혈�
 [JPN]
 $zoom14;$colc0c0c0;　　　　貫いた右手には\n$col7AF9FB;　どす黒い血$colc0c0c0;が染み付いていた
 [KOR]
-$zoom14;$colc0c0c0;　　　　꿰뚫은 오른손에는\n$col7AF9FB;　검붉은 피$colc0c0c0;가 배어 있었다
+$zoom14;$colc0c0c0;　　　　꿰뚫은 오른손에는\n$col7AF9FB;　검붉은 피$colc0c0c0;가 묻어 있었다
 [END]
 
 [0000F345]

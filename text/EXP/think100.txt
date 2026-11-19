@@ -155,5 +155,5 @@ $zoom13;검바람
 [JPN]
 $zoom13;剣の舞
 [KOR]
-$zoom13;검의춤
+$zoom13;검무
 [END]
